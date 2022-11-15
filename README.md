@@ -7,6 +7,8 @@ On a recent poll conducted by The U.S department of transportation, in rural par
 A team of Data Analysts having in common their implication in Climate change and EVs decided then to run an analysis on the forecast of demand in EV vehicles and charging stations for the coming years. They decide to use New York State datasets available for EV registrations and current charging stations with an idea in mind if they can do it in "Empire State" , they could do a similar analysis accross the country.
 
 
+
+
 - Data Source : https://data.ny.gov. https://data.world/
 - Article Source : https://www.transportation.gov/rural/ev
 
