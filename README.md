@@ -59,7 +59,7 @@ The total number of EVs registered in NYS per year is:
 
 
 
-![EV_on_the_road_2015_2021](Images/EV_on_the_road_2015_2021.png.png)
+![EV_on_the_road_2015_2021](Images/EV_on_the_road_2015_2021.png)
 
 
 > As we can see above, the electric vehicle registration in NYS have been increasing exponentially over the past years. The total number of EVs in **2021** is *23413*, which is over 88 times larger than the total number of EVs in 2012.
