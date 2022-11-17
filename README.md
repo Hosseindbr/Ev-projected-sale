@@ -209,7 +209,7 @@ To get a model which can accurately predict future data in a series, we use auto
 
 Let’s have a look at the residual information below, we can see that they are very close to having a normal distribution. Additionally, there is no longer an obvious seasonality based on the correlogram and the standardized residuals. The coefficient p-values also suggest that they are statistically significant. These results suggest that the model is satisfactory to move onto validation.
 
-![residual_information_kings](Images/residual_information_kings.png.png)
+![residual_information_kings](Images/residual_information_kings.png)
 
 
 
@@ -278,10 +278,14 @@ Next, we will fit this model to ** Nassau County**, ** Suffolk County**, **Westc
 ## Number of Charging Station in NYS
 
 
+<p align="center">
+<img src="" width="316" height="130">
+</p>
+
+
 ### Current Number of Charging Stations by County (Top 10)
 
-![charger_counts_10_counties](Images/charger_counts_10_counties.png)
-<img src="" width="300" height="400">
+<img src="https://github.com/Hosseindbr/Ev-projected-sale/blob/1359d1444e61550726d9cc782515d22e4a50956d/Images/charger_counts_10_counties.png" width="300" height="400">
 
 > **New York County** has the largest number of charging station (357) in NYS, followed by **Albany County** (331), and **Erie county** (212). The number of charging stations in **Kings County** is only 108, which might be not enough comparing with the EV registrations in Kings county.
 
