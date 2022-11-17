@@ -20,9 +20,10 @@ This analysis focuses on the time series modeling of the amount of EVs in New Yo
 
 
 
-## Data
+## Data Sources
 
-- Data Source : https://data.ny.gov. https://data.world/
+- https://data.ny.gov
+- https://data.world
 
 
 
@@ -62,7 +63,7 @@ The total number of EVs registered in NYS per year is:
 ![EV_on_the_road_2015_2021](Images/EV_on_the_road_2015_2021.png)
 
 
-> As we can see above, the electric vehicle registration in NYS have been increasing exponentially over the past years. The total number of EVs in **2021** is *23413*, which is over 88 times larger than the total number of EVs in 2012.
+> As we can see above, the electric vehicle registration in NYS have been increasing exponentially over the past years. The total number of EVs in **2021** is 40356, which is over 791 times larger than the total number of EVs in **2015** (51).
 
 
 
@@ -93,7 +94,7 @@ For statewide trend, we explore the EV registrations from 2015 to 2021 in 10 top
 ![EV_Count_by_County_Over_Time](Images/EV_Count_by_County_Over_Time.png)
 
 
-> From the line chart above, we can notice that **Kings County** has been growing much faster compared to other counties. This result is expected because Kings county is the most populous county in NYS, and the second-most densely populated county in the U.S.. It is also coextensive with Brooklyn city, which has the largest total number of EVs in NYS (2012-2021).
+> From the line chart above, we can notice that **Kings County** has been growing much faster compared to other counties. This result is expected because Kings county is the most populous county in NYS, and the second-most densely populated county in the U.S.. It is also coextensive with Brooklyn city, which has the largest total number of EVs in NYS (2015-2021).
 
 
 
@@ -285,7 +286,7 @@ Next, we will fit this model to ** Nassau County**, ** Suffolk County**, **Westc
 
 ### Current Number of Charging Stations by County (Top 10)
 
-<img src="https://github.com/Hosseindbr/Ev-projected-sale/blob/1359d1444e61550726d9cc782515d22e4a50956d/Images/charger_counts_10_counties.png" width="280" height="400">
+<img src="https://github.com/Hosseindbr/Ev-projected-sale/blob/1359d1444e61550726d9cc782515d22e4a50956d/Images/charger_counts_10_counties.png" width="350" height="400">
 
 > **New York County** has the largest number of charging station (357) in NYS, followed by **Albany County** (331), and **Erie county** (212). The number of charging stations in **Kings County** is only 108, which might be not enough comparing with the EV registrations in Kings county.
 
@@ -296,7 +297,7 @@ Next, we will fit this model to ** Nassau County**, ** Suffolk County**, **Westc
 
 
 
-### Number of Charging Stations vs. Number of EVs 
+### Number of Charging Stations vs. Number of EVs on the Road
 
 The table below compare the numbers between existing charging stations and EVs 2021:
 
