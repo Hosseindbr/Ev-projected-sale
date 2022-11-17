@@ -55,7 +55,7 @@ A Slack channel was created to support communication amongst the team members, a
 
 The total number of EVs registered in NYS per year is:
 
-<img src="https://github.com/Hosseindbr/Ev-projected-sale/blob/cefc12c2d76d753b2b5089dd79921c46770477d0/Images/reg_year_counts.png" width="230" height="400">
+<img src="https://github.com/Hosseindbr/Ev-projected-sale/blob/cefc12c2d76d753b2b5089dd79921c46770477d0/Images/reg_year_counts.png" width="220" height="345">
 
 
 
