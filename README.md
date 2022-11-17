@@ -1,130 +1,179 @@
-# Electric Vehicle Projected Sale Analylsis
-
+# Electric Vehicle Projected Sales
 
 
 ## Overview of Analysis
 
-As the leader of the free world, the United States through its Federal Government has set a goal to make half of all new vehicles sold in the U.S. in 2030 zero-emissions vehicles, and to build a convenient and equitable network of chargers to help make EVs accessible to all Americans for both local and long-distance trips.
-On a recent poll conducted by The U.S department of transportation, in rural parts of the country—home to 20 percent of Americans and almost 70 percent of America’s road miles—EVs can be an especially attractive alternative to conventional vehicles. Rural residents tent to drive more than their urban counterparts, spend more on vehicle fuel and maintenance, and often have fewer alternatives to driving to meet their transportation needs. Over the long run, the plan for the federal government with climate change in mind, is to showcase how EVs will help residents of rural areas reduce those costs and minimize the environmental impact of transportation in their communities. 
-A team of Data Analysts having in common their implication in Climate change and EVs decided then to run an analysis on the forecast of demand in EV vehicles and charging stations for the coming years. They decide to use New York State datasets available for EV registrations and current charging stations with an idea in mind if they can do it in "Empire State" , they could do a similar analysis accross the country.
+
+<p align="center">
+<img src="https://github.com/Veronica1269/test/blob/d34fa83f6d36791e5250328e14046ef2d98877ee/Images/picture_1.png" width="320" height="150">
+</p>
+
+
+*“ The global electric vehicle market was valued at $163.01 billion in 2020, and is projected to reach $823.75 billion by 2030, with a compound annual growth rate (CAGR) of 18.2% from 2020 to 2030. ”*
+
+Electric vehicles (EVs) are vehicles that are either partially or fully powered on electric power. The electric vehicle was primarily designed to replace conventional ways of travel as they lead to environmental pollution. It has gained popularity, owing to numerous technological advancements. It outperforms conventional vehicles providing higher fuel economy, low carbon emission & maintenance, smoother drive, and reduced sound from engine. 
+
+As the leader of the free world, the United States through its Federal Government has set a goal to make half of all new vehicles sold in the U.S. in 2030 zero-emissions vehicles, and to build a convenient and equitable network of chargers to help make EVs accessible to all Americans for both local and long-distance trips. On a recent poll conducted by The U.S department of transportation, in rural parts of the country—home to 20 percent of Americans and almost 70 percent of America’s road miles—EVs can be an especially attractive alternative to conventional vehicles. Rural residents tent to drive more than their urban counterparts, spend more on vehicle fuel and maintenance, and often have fewer alternatives to driving to meet their transportation needs. Over the long run, the plan for the federal government with climate change in mind, is to showcase how EVs will help residents of rural areas reduce those costs and minimize the environmental impact of transportation in their communities. A team of Data Analysts having in common their implication in Climate change and EVs decided then to run an analysis on the forecast of demand in EV vehicles and charging stations for the coming years. They decide to use New York State datasets available for EV registrations and current charging stations with an idea in mind if they can do it in "Empire State" , they could do a similar analysis across the country.
+
+This analysis focuses on the time series modeling of the amount of EVs in New York State (NYS). After exploring the data of EV registrations and the number of charging stations in NYS from 2012 to 2021, a machine learning model will be built to predict the EV sales in NYS from 2023 to 2030, as well as the demand for EV charging stations.
+
 
 
 
 ## Data
 
 - Data Source : https://data.ny.gov. https://data.world/
-- Article Source : https://www.transportation.gov/rural/ev
+
 
 
 
 ## Communication Protocol
 
-There are three members in our team. The role of each team member will remain the same each week to ensure that we had an expert for each topic of the project. A Slack channel was created to support communication amongst the team, and will be used to assign tickets, provide updates, and discuss any issues. The team will additionally have meetings twice a week to go over project progress and next steps.
+
+<p align="center">
+<img src="https://github.com/Veronica1269/test/blob/32601be1215d35bd18cbad2d8b9756e0d8850fe4/Images/picture_2.png" width="537" height="200">
+</p>
+
+
+There are three members in our team. The role of each team member is indicated by a particular shape: square, circle, triangle. The team member in the square role is responsible for the Github repository including data exploration and visualization. The member in the circle role is in charge of data collection and data cleaning. The member in the triangle role is responsible for creating a machine learning model. The role of each team member will remain the same most of the time to ensure that we had an expert for each topic of the project. 
+
+A Slack channel was created to support communication amongst the team members, and will be used to assign tickets, provide updates, and discuss any issues. The team will additionally have meetings twice a week to go over project progress and next steps.
+
 
 
 
 ## Data Exploration and Preliminary Analysis
 
 
-
-### Amount of Electric Vehicles on the Road in New York State ( 2012 - 2021 ) 
-
-
-![Electric_Vehicles_in NYS_2012_2021_table](Images/Electric_Vehicles_in%20NYS_2012_2021_table.png)
+<p align="center">
+<img src="https://github.com/Veronica1269/test/blob/32601be1215d35bd18cbad2d8b9756e0d8850fe4/Images/picture_3.png" width="632" height="200">
+</p>
 
 
-
-![EV_on_the_road_2012_2021](Images/EV_on_the_road_2012_2021.png)
-
+### *Number of EVs on the Road in NYS Over Time (2015-2021)*
 
 
-### Electric Vehicles on the Road by City ( 2012 - 2021 ) 
+The total number of EVs registered in NYS per year is:
 
-
-Top 10 cities:
-
-![top_10_cities](Images/top_10_cities.png)
+<img src="https://github.com/Veronica1269/test/blob/cb51417a850f556bd73426abf128660d82ea80b5/Images/Electric_Vehicles_in%20NYS_2012_2021_table.png" width="230" height="450">
 
 
 
-![EV_Count_by_City](Images/EV_Count_by_City.png)
+![EV_on_the_road_2015_2021](Images/EV_on_the_road_2012_2021.png)
 
 
-### Electric Vehicles on the Road by County ( 2012 - 2021 ) 
+> As we can see above, the electric vehicle registration in NYS have been increasing exponentially over the past years. The total number of EVs in **2021** is *23413*, which is over 88 times larger than the total number of EVs in 2012.
 
 
-Number of electric vehicle over time for 10 counties based on the total number of electric vehicle in 2021:
 
-![top_10_counties_over_time](Images/top_10_counties_over_time.png)
 
+### *Total Number of EVs on the Road by City*
+
+
+Top 10 cities with the largest total number of EVs in NYS from 2015 to 2021 are:
+
+
+<img src="https://github.com/Veronica1269/test/blob/b115c5baf988d2485119e65810b489ee719ad3b1/Images/top_10_cities.png" width="300" height="400">
+
+
+
+![EV_Count_by_City.png](Images/EV_Count_by_City.png)
+
+
+> From the line chart above, **Brooklyn** (10075), **New York** (3017), and **Staten Island** (1207) are the top 3 cities with the largest total number of EVs in NYS.
+
+
+
+
+### *Number of EVs on the Road by County Over Time (2015-2021)*
+
+
+For statewide trend, we explore the EV registrations from 2015 to 2021 in 10 top counties:
 
 ![EV_Count_by_County_Over_Time](Images/EV_Count_by_County_Over_Time.png)
 
 
-
-### Most Purchased Car Models by County 
-
-
-Top 10 countie:
-
-![top_10_counties](Images/top_10_counties.png)
+> From the line chart above, we can notice that **Kings** county has been growing much faster compared to other counties. This result is expected because Kings county is the most populous county in NYS, and the second-most densely populated county in the U.S.. It is also coextensive with Brooklyn city, which has the largest total number of EVs in NYS (2012-2021).
 
 
 
-Top 6 electric vehicle models in Kings county:
+
+### *Popularity of Car Models by County*
+
+One of the most important parts in the EV sales analysis is the popularity of electric vehicle models. In order to study the market of EV models in NYS, frist we select the top 10 counties with the largest total number of EVs from 2015 to 2021. Next, We will figure out the top 6 most purchased models in each of these counties.
+
+
+The top 10 counties selescted are:
+
+<img src="https://github.com/Veronica1269/test/blob/9e3ca4bf9ac0598edb4a5b914344ef639cfc08ae/Images/top_10_counties.png" width="300" height="400">
+
+
+
+Bar graphs are used to show the difference between top 6 most purchased EV models:
+
+**- Kings County**
 
 ![EV_Model_Count_in_King](Images/EV_Model_Count_in_King.png)
 
 
-
-Top 6 electric vehicle models in Nassau county:
+**- Nassau County**
 
 ![EV_Model_Count_in_Nassau](Images/EV_Model_Count_in_Nassau.png)
 
 
-Top 6 electric vehicle models in Suffolk county:
+**- Suffolk County**
 
 ![EV_Model_Count_in_Suffolk](Images/EV_Model_Count_in_Suffolk.png)
 
 
-Top 6 electric vehicle models in Westchester county:
+**- Westchester County**
 
 ![EV_Model_Count_in_Westchester](Images/EV_Model_Count_in_Westchester.png)
 
 
-Top 6 electric vehicle models in Queens county:
+**- Queens County**
 
 ![EV_Model_Count_in_Queens](Images/EV_Model_Count_in_Queens.png)
 
 
-Top 6 electric vehicle models in New York county:
+**- New York County**
 
 ![EV_Model_Count_in_New_York](Images/EV_Model_Count_in_New_York.png)
 
 
-Top 6 electric vehicle models in Monroe kcounty:
+**- Monroe County**
 
 ![EV_Model_Count_in_Monroe](Images/EV_Model_Count_in_Monroe.png)
 
 
-Top 6 electric vehicle models in Erie county:
+**- Erie county**
 
 ![EV_Model_Count_in_Erie](Images/EV_Model_Count_in_Erie.png)
 
 
-Top 6 electric vehicle models in Rockland county:
+**- Rockland county**
 
 ![EV_Model_Count_in_Rockland](Images/EV_Model_Count_in_Rockland.png)
 
 
-Top 6 electric vehicle models in Richmond county:
+**- Richmond county**
 
 ![EV_Model_Count_in_Richmond](Images/EV_Model_Count_in_Richmond.png)
 
 
 
+> **Tesla**, **Chevrolet**, and **Hyundai** are the most purchased EVs in each of these counties. Moreover, Tesla is the most purchased EV modles in each of these counties. It is a relatively lower priced luxury electric vehicle that was designed to appeal to the mass market as well. Considering these factors, it is not surprising that these vehicles are the most purchased vehicles in each county.
+
+
+
 
 ## Machine Learning Models
+
+
+<p align="center">
+<img src="https://github.com/Veronica1269/test/blob/d34fa83f6d36791e5250328e14046ef2d98877ee/Images/picture_5.png" width="444" height="200">
+</p>
+
 
 
 
@@ -137,5 +186,20 @@ Top 6 electric vehicle models in Richmond county:
 
 
 
-
 ## Recommendations for Future Analysis
+
+
+<p align="center">
+<img src="https://github.com/Veronica1269/test/blob/d34fa83f6d36791e5250328e14046ef2d98877ee/Images/picture_4.png" width="316" height="130">
+</p>
+
+
+
+
+## Sources
+- https://www.alliedmarketresearch.com/electric-vehicle-market
+- https://www.caa.ca/sustainability/electric-vehicles/engine-options/
+- https://www.transportation.gov/rural/ev
+
+
+
