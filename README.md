@@ -5,7 +5,7 @@
 
 
 <p align="center">
-<img src="https://github.com/Veronica1269/test/blob/d34fa83f6d36791e5250328e14046ef2d98877ee/Images/picture_1.png" width="320" height="150">
+<img src="https://github.com/Hosseindbr/Ev-projected-sale/blob/cefc12c2d76d753b2b5089dd79921c46770477d0/Images/picture_1.png" width="320" height="150">
 </p>
 
 
@@ -31,7 +31,7 @@ This analysis focuses on the time series modeling of the amount of EVs in New Yo
 
 
 <p align="center">
-<img src="https://github.com/Veronica1269/test/blob/32601be1215d35bd18cbad2d8b9756e0d8850fe4/Images/picture_2.png" width="537" height="200">
+<img src="https://github.com/Hosseindbr/Ev-projected-sale/blob/cefc12c2d76d753b2b5089dd79921c46770477d0/Images/picture_2.png" width="537" height="200">
 </p>
 
 
@@ -46,7 +46,7 @@ A Slack channel was created to support communication amongst the team members, a
 
 
 <p align="center">
-<img src="https://github.com/Veronica1269/test/blob/32601be1215d35bd18cbad2d8b9756e0d8850fe4/Images/picture_3.png" width="632" height="200">
+<img src="https://github.com/Hosseindbr/Ev-projected-sale/blob/cefc12c2d76d753b2b5089dd79921c46770477d0/Images/picture_3.png" width="632" height="200">
 </p>
 
 
@@ -55,11 +55,11 @@ A Slack channel was created to support communication amongst the team members, a
 
 The total number of EVs registered in NYS per year is:
 
-<img src="https://github.com/Veronica1269/test/blob/cb51417a850f556bd73426abf128660d82ea80b5/Images/Electric_Vehicles_in%20NYS_2012_2021_table.png" width="230" height="450">
+<img src="https://github.com/Hosseindbr/Ev-projected-sale/blob/cefc12c2d76d753b2b5089dd79921c46770477d0/Images/reg_year_counts.png" width="230" height="400">
 
 
 
-![EV_on_the_road_2015_2021](Images/EV_on_the_road_2012_2021.png)
+![EV_on_the_road_2015_2021](Images/EV_on_the_road_2015_2021.png.png)
 
 
 > As we can see above, the electric vehicle registration in NYS have been increasing exponentially over the past years. The total number of EVs in **2021** is *23413*, which is over 88 times larger than the total number of EVs in 2012.
@@ -73,7 +73,7 @@ The total number of EVs registered in NYS per year is:
 Top 10 cities with the largest total number of EVs in NYS from 2015 to 2021 are:
 
 
-<img src="https://github.com/Veronica1269/test/blob/b115c5baf988d2485119e65810b489ee719ad3b1/Images/top_10_cities.png" width="300" height="400">
+<img src="https://github.com/Hosseindbr/Ev-projected-sale/blob/cefc12c2d76d753b2b5089dd79921c46770477d0/Images/top_10_cities.png" width="300" height="400">
 
 
 
@@ -105,7 +105,7 @@ One of the most important parts in the EV sales analysis is the popularity of el
 
 The top 10 counties selescted are:
 
-<img src="https://github.com/Veronica1269/test/blob/9e3ca4bf9ac0598edb4a5b914344ef639cfc08ae/Images/top_10_counties.png" width="300" height="400">
+<img src="https://github.com/Hosseindbr/Ev-projected-sale/blob/cefc12c2d76d753b2b5089dd79921c46770477d0/Images/top_10_counties.png" width="300" height="400">
 
 
 
@@ -171,7 +171,7 @@ Bar graphs are used to show the difference between top 6 most purchased EV model
 
 
 <p align="center">
-<img src="https://github.com/Veronica1269/test/blob/d34fa83f6d36791e5250328e14046ef2d98877ee/Images/picture_5.png" width="444" height="200">
+<img src="https://github.com/Hosseindbr/Ev-projected-sale/blob/cefc12c2d76d753b2b5089dd79921c46770477d0/Images/picture_5.png" width="444" height="200">
 </p>
 
 
@@ -190,7 +190,7 @@ Bar graphs are used to show the difference between top 6 most purchased EV model
 
 
 <p align="center">
-<img src="https://github.com/Veronica1269/test/blob/d34fa83f6d36791e5250328e14046ef2d98877ee/Images/picture_4.png" width="316" height="130">
+<img src="https://github.com/Hosseindbr/Ev-projected-sale/blob/cefc12c2d76d753b2b5089dd79921c46770477d0/Images/picture_4.png" width="316" height="130">
 </p>
 
 
