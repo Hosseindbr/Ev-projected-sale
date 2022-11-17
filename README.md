@@ -204,7 +204,7 @@ In order to validate the performance of the models, we split the time series int
 
 To get a model which can accurately predict future data in a series, we use auto-ARIMA to optimize the p,d,q values of the models for each county and validate. The best parameters (based on the AIC score) were (1,1,1) for the ARIMA order and (0, 2, [], 12) for the seasonal component. Below is the result after plug these into a SARIMAX model:
 
-![SARIMAX_results_kings](Images/SARIMAX_results_kings.png)
+<img src="https://github.com/Hosseindbr/Ev-projected-sale/blob/cbd125b542d4ac294cfce65b13dbbdc6e262984c/Images/SARIMAX_results_kings.png" width="700" height="601">
 
 
 Let’s have a look at the residual information below, we can see that they are very close to having a normal distribution. Additionally, there is no longer an obvious seasonality based on the correlogram and the standardized residuals. The coefficient p-values also suggest that they are statistically significant. These results suggest that the model is satisfactory to move onto validation.
@@ -285,7 +285,7 @@ Next, we will fit this model to ** Nassau County**, ** Suffolk County**, **Westc
 
 ### Current Number of Charging Stations by County (Top 10)
 
-<img src="https://github.com/Hosseindbr/Ev-projected-sale/blob/1359d1444e61550726d9cc782515d22e4a50956d/Images/charger_counts_10_counties.png" width="270" height="400">
+<img src="https://github.com/Hosseindbr/Ev-projected-sale/blob/1359d1444e61550726d9cc782515d22e4a50956d/Images/charger_counts_10_counties.png" width="280" height="400">
 
 > **New York County** has the largest number of charging station (357) in NYS, followed by **Albany County** (331), and **Erie county** (212). The number of charging stations in **Kings County** is only 108, which might be not enough comparing with the EV registrations in Kings county.
 
@@ -307,7 +307,8 @@ The table below compare the numbers between existing charging stations and EVs 2
 
 
 
-### Conclusions 
+
+## Conclusions 
 
 
 
