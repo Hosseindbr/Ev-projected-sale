@@ -21,7 +21,25 @@ This analysis focuses on the time series modeling of the amount of EVs in New Yo
 
 
 
-## Data Sources
+## Database
+
+
+<p align="center">
+<img src="https://github.com/Hosseindbr/Ev-projected-sale/blob/efb6cad19ad75cce6b376965361f223cb3465208/Images/picture_7.png" width="515" height="200">
+</p>
+
+
+
+- The database for this project is built in PostgreSQL using pgAdmin4.
+- The structure of the database and the relations between database objects are designed using the QuickDBD tool. The ERD is shown below.
+- Afer uploading cleaned data to PostgreSQL database, we merge and create tables as per the ERD, and export to csv file.
+
+
+![EDR.png](Images/EDR.png)
+
+
+
+### Data Sources
 
 - https://data.ny.gov
 - https://data.world
