@@ -211,7 +211,7 @@ In order to validate the performance of the models, we split the time series int
 
 To get a model which can accurately predict future data in a series, we use auto-ARIMA to optimize the p,d,q values for each county and the validation of the models. The best parameters (based on the AIC score) were (1,1,2) without the seasonal component. We can go ahead and plug these into a SARIMAX model to have our final model and then we can validate it by looking at the forecasts and the test set. Below is the result after plug these into a SARIMAX model:
 
-<img src="https://github.com/Hosseindbr/Ev-projected-sale/blob/cbd125b542d4ac294cfce65b13dbbdc6e262984c/Images/SARIMAX_results_kings.png" width="700" height="601">
+<img src="https://github.com/Hosseindbr/Ev-projected-sale/blob/cce42abc84d327e52a833af9d15a1a4436d3ef4f/Images/SARIMAX_results_kings.png" width="700" height="601">
 
 
 Let’s have a look at the residual information below, we can see that the residuals are almost fairly close to being normally distributed. We can accept this as the best model and move onto making and plotting predictions.
