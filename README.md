@@ -21,7 +21,17 @@ This analysis focuses on the time series modeling of the amount of EVs in New Yo
 
 
 
-## Data Sources
+## Database
+
+
+### Structure
+The database was designed using the QuickDBD tool (QuickDataBaseDiagrams.com). The final ERD is shown below:
+
+![EDR.png](Images)
+
+
+
+### Data Sources
 
 - https://data.ny.gov
 - https://data.world
