@@ -248,7 +248,7 @@ Next, we will fit this model to **Nassau County**, **Suffolk County**, **Westche
 
 **- Nassau County**
 
-![df_NASSAU_preds](Images/df_NASSAU_preds.png
+![df_NASSAU_preds](Images/df_NASSAU_preds.png)
 
 > The model is predicting that the number of EVs in Nassau County will keep increasing exponentially in the coming years.
 
