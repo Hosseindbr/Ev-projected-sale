@@ -178,15 +178,20 @@ Bar graphs are used to show the difference between top 6 most purchased EV model
 
 ### Finding the Best Fit Model
 
+In the first part of project, we aim to predict the demand for electric vehicles in each county in NYS and based on that find the top 3 counties to invest for setting EV chargers. In this part, we will use a time series model for the number of electric vehicles in the top 6 counties within Ney York state with the most purchases of new electric vehicles. In the end, we will apply the time series models for the top 6 counties. 
 
 To find the best fit model, we will use the number of EVs in **Kings County** as a sample. 
+
+
+
+**- Kings County**
 
 
 #### *Seasonality Check*
 
 To check for seasonality, we perform the time series decomposition analysis to Kings County. Decomposition can provide a useful abstract model for thinking about time series generally and for better understanding problems during time series analysis and forecasting.
 
-We decompose the number of EVs in Kings County from 2015 to 2021 into trend, seasonal and noise components. From the figures below, we notice that the number of EVs in King County has an upward trend. Additionally, there is seasonality to the data as well. 
+We decompose the number of EVs in Kings County from 2015 to 2021 into trend, seasonal and noise components. From the figures below, we notice that the number of EVs in King County has an upward trend. The results showed that the electric vehicle has an ascending trend and the data showed seasonality pattern.
 
 ![decomposition_Kings](Images/decomposition_Kings.png)
 
@@ -194,7 +199,7 @@ We decompose the number of EVs in Kings County from 2015 to 2021 into trend, sea
 
 #### *Split Train and Test sets*
 
-In order to validate the performance of the models, we split the time series into two sets: a training set and a testing set. After multiple iterations, we found that the 0.80-0.20 split of the data belonging to King County resulted in the best performance.
+In order to validate the performance of the models, we split the time series into two sets: a training set and a testing set. After multiple iterations, we found that the best performance was achieved when we split the data belonging to the kings in the 0.85-0.15 split.
 
 ![train_test_split_Kings](Images/train_test_split_Kings.png)
 
@@ -203,18 +208,19 @@ In order to validate the performance of the models, we split the time series int
 
 #### *Finding the Best Parameters with Auto-Arima*
 
-To get a model which can accurately predict future data in a series, we use auto-ARIMA to optimize the p,d,q values of the models for each county and validate. The best parameters (based on the AIC score) were (1,1,1) for the ARIMA order and (0, 2, [], 12) for the seasonal component. Below is the result after plug these into a SARIMAX model:
+
+To get a model which can accurately predict future data in a series, we use auto-ARIMA to optimize the p,d,q values for each county and the validation of the models. The best parameters (based on the AIC score) were (1,1,2) without the seasonal component. We can go ahead and plug these into a SARIMAX model to have our final model and then we can validate it by looking at the forecasts and the test set. Below is the result after plug these into a SARIMAX model:
 
 <img src="https://github.com/Hosseindbr/Ev-projected-sale/blob/cbd125b542d4ac294cfce65b13dbbdc6e262984c/Images/SARIMAX_results_kings.png" width="700" height="601">
 
 
-Let’s have a look at the residual information below, we can see that they are very close to having a normal distribution. Additionally, there is no longer an obvious seasonality based on the correlogram and the standardized residuals. The coefficient p-values also suggest that they are statistically significant. These results suggest that the model is satisfactory to move onto validation.
+Let’s have a look at the residual information below, we can see that the residuals are almost fairly close to being normally distributed. We can accept this as the best model and move onto making and plotting predictions.
 
 ![residual_information_kings](Images/residual_information_kings.png)
 
 
 
-Let’s fit the model to Kings County. From the figure below, we can see that the model is able to accurately forecast data into the future. The actual observed data is well within the confidence interval of our model's forecasts.
+Let’s fit the model to Kings County. From the figure below, we can see that the model is not able to accurately forecast data into the future. The actual observed data is not within the confidence interval of our model's forecasts. This is mainly due to the fact that major part of the trained data deal in the linear part of time-series. while, as of 2020, the trend of EV vehicle followed an exponential pattern. We need to reduce the time period to achive more acurate information for the Kings county.
 
 ![df_kings_forecast](Images/df_kings_forecast.png)
 
@@ -225,12 +231,10 @@ Let’s fit the model to Kings County. From the figure below, we can see that th
 
 Now that we know that our model can accurately make predictions about the future EV counts in each county, we can use the same parameters to build a model on the whole observed dataset without splitting it into train/test sets.
 
-**- Kings County**
 
 ![df_KINGS_preds](Images/df_KINGS_preds.png)
 
-> The model is predicting that the number of EVs in King County are going to keep increasing almost linearly based on the mean values. If we look at the upper confidence interval though, we can see that the increase could keep an exponential pattern.
-
+> The model is predicting that the number of EVs in King County are going to keep increasing almost linearly at a slower rate, based on the mean values. However, If we look at the upper confidence interval , we can see that the increase could follow an exponential pattern.
 
 
 Next, we will fit this model to ** Nassau County**, ** Suffolk County**, **Westchester**, **Queens County**, and *New York County** in order to predict the number of EVs in 2023 and 2024.
@@ -253,26 +257,28 @@ Next, we will fit this model to ** Nassau County**, ** Suffolk County**, **Westc
 
 ![df_SUFFOLK_preds](Images/df_SUFFOLK_preds.png)
 
+> The model is predicting that the electric vehicle amount in Clark County will keep increasing exponentially in the coming years (the upper confidence limit).
 
 
 **- Westchester County**
 
 ![df_WESTCHESTER_preds](Images/df_WESTCHESTER_preds.png)
 
-> The model is predicting that the number of EVs in Westchester County are going to keep increasing at a linear rate (based on the mean prediction). However, if we look at the upper and lower confidence intervals, we also see the possibilities of an exponential increase and a leveling off.
-
+> The model is predicting that the number of EVs in Westchester County are going to keep increasing at a linear rate (based on the mean prediction). However, if we look at the upper and lower confidence intervals we also see the possibilities of an exponential increase and a leveling off.
 
 
 **- Queens County**
 
 ![df_QUEENS_preds](Images/df_QUEENS_preds.png)
 
+> Above, we can see that the model is predicting the amount of electric vehicles in QUEENS County to keep increasing exponentially. 
 
 
 **- New York County**
 
 ![df_NEW_YORK_preds](Images/df_NEW_YORK_preds.png)
 
+> Above, we can see that the model is predicting the electric vehicle count in Ney York County to keep increasing exponentially.
 
 
 
