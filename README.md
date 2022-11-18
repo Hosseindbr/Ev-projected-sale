@@ -238,7 +238,7 @@ Now that we know that our model can accurately make predictions about the future
 > The model is predicting that the number of EVs in King County are going to keep increasing almost linearly at a slower rate, based on the mean values. However, If we look at the upper confidence interval , we can see that the increase could follow an exponential pattern.
 
 
-Next, we will fit this model to ** Nassau County**, ** Suffolk County**, **Westchester**, **Queens County**, and *New York County** in order to predict the number of EVs in 2023 and 2024.
+Next, we will fit this model to **Nassau County**, **Suffolk County**, **Westchester**, **Queens County**, and **New York County** in order to predict the number of EVs in 2023 and 2024.
 
 
 
@@ -248,7 +248,7 @@ Next, we will fit this model to ** Nassau County**, ** Suffolk County**, **Westc
 
 **- Nassau County**
 
-![df_NASSAU_preds](Images/df_NASSAU_preds.png)
+![df_NASSAU_preds](Images/df_NASSAU_preds.png
 
 > The model is predicting that the number of EVs in Nassau County will keep increasing exponentially in the coming years.
 
