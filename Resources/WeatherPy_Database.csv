@@ -1,0 +1,171 @@
+city_id,City,Country,Lat,Lng,Max Temp,Min Temp,Humidity,Cloudiness,Wind Speed,Current Description
+0,Brighton,GB,50.8284,-0.1395,48.79,44.1,82,7,7.0,clear sky
+1,Huntingdon,GB,52.3305,-0.1865,44.8,41.86,84,100,12.12,overcast clouds
+2,Olean,US,42.0776,-78.4297,24.96,21.54,79,100,8.05,light snow
+3,Bayonne,FR,43.3333,-1.4167,55.13,52.75,94,75,4.61,broken clouds
+4,Cheektowaga,US,42.9034,-78.7548,27.16,23.94,56,20,20.71,few clouds
+5,New York,US,40.7143,-74.006,38.16,33.85,32,0,25.32,clear sky
+6,Fairmount,US,43.0473,-76.2385,31.75,25.47,41,40,32.21,scattered clouds
+7,Nanuet,US,41.0887,-74.0135,37.09,31.95,33,64,3.0,broken clouds
+8,Ithaca,US,42.4406,-76.4966,31.06,24.19,60,75,19.57,broken clouds
+9,New Hyde Park,US,40.7351,-73.6879,38.14,33.96,31,40,24.16,scattered clouds
+10,Albany,US,42.6001,-73.9662,32.4,25.38,50,56,3.0,broken clouds
+11,Old Saybrook,US,41.2918,-72.3762,39.22,34.56,32,20,11.5,few clouds
+12,Arlington,US,32.7357,-97.1081,52.81,47.66,39,0,4.61,clear sky
+13,Kingston,JM,17.997,-76.7936,87.24,84.2,65,20,24.16,few clouds
+14,Buffalo,US,42.8865,-78.8784,27.32,24.1,57,20,20.71,few clouds
+15,Suffern,US,41.1148,-74.1496,36.91,31.39,34,47,7.0,scattered clouds
+16,Troy,US,42.6056,-83.1499,28.49,23.72,61,100,10.0,overcast clouds
+17,Guttenberg,US,40.792,-74.0038,37.9,33.48,31,0,25.32,clear sky
+18,Rochester,US,43.1548,-77.6156,30.38,25.36,52,40,21.85,scattered clouds
+19,Groton,US,41.3501,-72.0784,38.91,34.14,31,0,17.27,clear sky
+20,Bellmore,US,40.6687,-73.5271,38.46,34.48,31,0,15.01,clear sky
+21,Watervliet,US,42.7301,-73.7012,34.72,27.7,55,75,20.71,broken clouds
+22,Mastic,US,40.802,-72.8409,38.93,35.26,34,0,21.85,clear sky
+23,Saratoga Springs,US,43.0831,-73.7846,32.5,26.71,60,4,5.99,clear sky
+24,Rome,US,34.257,-85.1647,47.37,41.49,32,0,9.22,clear sky
+25,Kenmore,US,47.7573,-122.244,49.41,40.96,57,0,5.75,clear sky
+26,Greece,US,43.2098,-77.6931,30.65,24.94,56,40,21.85,scattered clouds
+27,Tonawanda,US,42.985,-78.878,27.3,23.11,57,20,28.77,few clouds
+28,Cohoes,US,42.7742,-73.7001,33.39,27.59,57,75,20.71,broken clouds
+29,Terryville,US,40.909,-73.0651,37.98,34.47,33,40,26.46,scattered clouds
+30,Oneonta,US,42.4529,-75.0638,28.81,25.29,54,9,20.36,clear sky
+31,Poughkeepsie,US,41.7004,-73.921,35.29,30.65,34,0,17.27,clear sky
+32,Sayville,US,40.7359,-73.0821,38.17,35.02,33,40,26.46,scattered clouds
+33,Edgewater,US,28.9889,-80.9023,61.03,53.83,94,100,17.27,moderate rain
+34,Elmont,US,40.7009,-73.7129,38.3,33.85,31,40,24.16,scattered clouds
+35,West Seneca,US,42.8501,-78.7998,27.37,24.15,56,20,23.0,few clouds
+36,Hartsdale,US,41.019,-73.7982,37.71,33.42,35,20,24.16,few clouds
+37,Corning,US,42.1428,-77.0547,29.57,22.69,76,75,17.27,broken clouds
+38,Syosset,US,40.8262,-73.5021,37.74,33.57,31,0,14.97,clear sky
+39,Canandaigua,US,42.8742,-77.288,29.64,25.34,63,16,4.0,few clouds
+40,Rye Brook,US,41.0193,-73.6835,38.01,33.73,35,20,24.16,few clouds
+41,Fort Lee,US,40.8509,-73.9701,37.51,32.81,32,0,24.16,clear sky
+42,Utica,US,43.1009,-75.2327,29.73,26.71,48,97,8.01,overcast clouds
+43,Glens Falls,US,43.3095,-73.644,32.5,26.89,62,24,8.01,few clouds
+44,Irondequoit,US,43.2134,-77.5797,30.85,25.83,54,40,21.85,scattered clouds
+45,Oceanside,US,33.1959,-117.3795,79.2,67.55,23,0,4.61,clear sky
+46,Shirley,GB,52.4107,-1.8195,42.98,38.37,89,0,4.61,clear sky
+47,Cortland,US,42.6001,-76.083,27.72,23.41,43,75,14.97,broken clouds
+48,Plattsburgh,US,44.6995,-73.4529,32.76,27.86,35,100,18.41,overcast clouds
+49,Freeport,US,40.6576,-73.5832,38.46,34.29,32,0,23.02,clear sky
+50,Oneida,US,43.2001,-75.4663,31.8,25.59,57,100,24.16,overcast clouds
+51,Elmira,US,42.0898,-76.8077,29.88,22.98,57,75,17.27,broken clouds
+52,New Milford,US,40.9327,-74.0179,38.03,33.44,32,40,16.11,scattered clouds
+53,Newburgh,US,41.5034,-74.0104,37.38,31.26,35,40,17.27,scattered clouds
+54,Syracuse,IT,37.0881,15.2792,54.77,54.32,68,0,19.75,clear sky
+55,Ossining,US,41.1629,-73.8615,37.18,32.04,36,20,24.16,few clouds
+56,Weehawken,US,40.7696,-74.0204,37.85,33.42,32,0,25.32,clear sky
+57,Rotterdam,NL,51.9225,4.4792,44.92,34.9,94,20,2.3,mist
+58,Auburn,US,47.3073,-122.2284,49.23,40.71,64,40,3.44,scattered clouds
+59,Gloversville,US,43.0528,-74.3438,28.44,24.75,81,79,10.0,broken clouds
+60,Monsey,US,41.1112,-74.0685,36.16,31.01,34,53,7.0,broken clouds
+61,Schenectady,US,42.8334,-74.0829,29.35,23.56,70,100,19.57,overcast clouds
+62,Middletown,US,39.5151,-84.3983,33.57,29.61,35,0,12.66,clear sky
+63,Dobbs Ferry,US,41.0145,-73.8726,37.44,33.15,34,20,24.16,few clouds
+64,New City,US,41.1476,-73.9893,37.06,32.25,35,42,3.0,scattered clouds
+65,Dunkirk,FR,51.05,2.3667,50.09,44.15,78,13,5.99,light rain
+66,Eastchester,US,40.8876,-73.8329,38.41,33.82,32,40,24.16,scattered clouds
+67,Oswego,US,43.4501,-76.1497,31.95,25.65,80,94,17.98,snow
+68,Fredonia,US,42.4401,-79.3317,28.22,22.08,54,100,20.71,overcast clouds
+69,Cornwall,CA,45.0181,-74.7281,28.51,26.26,31,0,21.85,clear sky
+70,Wantagh,US,40.6837,-73.5101,38.41,34.21,31,0,15.01,clear sky
+71,Yonkers,US,40.9312,-73.8988,38.14,33.42,31,40,24.16,scattered clouds
+72,New Cassel,US,40.759,-73.5696,38.08,33.91,31,0,14.97,clear sky
+73,Woodmere,US,40.6321,-73.7126,38.43,33.93,31,40,23.02,scattered clouds
+74,Kiryas Joel,US,41.342,-74.1679,35.53,29.75,38,40,17.27,scattered clouds
+75,Port Jervis,US,41.3751,-74.6927,34.83,28.42,39,10,15.28,clear sky
+76,Watertown,US,42.3709,-71.1828,38.61,33.89,26,40,26.46,scattered clouds
+77,Ridge,US,40.894,-72.8959,38.3,34.86,34,0,21.85,clear sky
+78,Deer Park,US,29.7052,-95.1238,56.97,49.98,55,0,10.36,clear sky
+79,Hamburg,DE,53.55,10.0,34.29,29.61,92,75,3.44,broken clouds
+80,Massapequa Park,US,40.6804,-73.4551,38.16,34.95,31,0,17.0,clear sky
+81,Pittsfield,US,42.4501,-73.2454,31.86,25.79,41,100,21.85,overcast clouds
+82,Jamestown,US,42.097,-79.2353,24.71,20.05,76,100,14.0,fog
+83,Batavia,US,41.85,-88.3126,33.49,29.34,52,0,16.11,clear sky
+84,Endicott,US,42.0984,-76.0494,29.97,23.34,66,75,14.97,broken clouds
+85,White Plains,US,41.034,-73.7629,37.94,33.66,35,20,24.16,few clouds
+86,Peekskill,US,41.2901,-73.9204,36.99,32.34,37,17,15.99,few clouds
+87,Farmingville,US,40.8312,-73.0295,38.16,34.72,33,40,26.46,scattered clouds
+88,Binghamton,US,42.0987,-75.918,29.93,23.31,66,75,14.97,broken clouds
+89,North Tonawanda,US,43.0387,-78.8642,27.45,23.25,57,0,28.77,haze
+90,Plainview,US,40.7765,-73.4673,37.96,33.78,31,0,14.97,clear sky
+91,Sleepy Hollow,US,41.0857,-73.8585,37.51,33.51,35,20,24.16,few clouds
+92,Amsterdam,NL,52.374,4.8897,38.86,34.88,96,75,6.91,light intensity drizzle
+93,Potsdam,DE,52.3989,13.0657,34.09,29.1,92,66,5.64,broken clouds
+94,Mount Vernon,US,40.9126,-73.8371,38.1,33.53,32,40,24.16,scattered clouds
+95,Stony Brook,US,40.9257,-73.1409,38.16,34.16,33,40,26.46,scattered clouds
+96,Garden City,US,42.3256,-83.331,28.06,22.98,63,75,16.11,broken clouds
+97,Lake Grove,US,40.8529,-73.1151,38.1,34.61,33,40,26.46,scattered clouds
+98,South Farmingdale,US,40.7207,-73.4401,38.03,34.12,31,0,14.97,clear sky
+99,New Rochelle,US,40.9115,-73.7823,38.26,33.98,32,40,24.16,scattered clouds
+100,Rye,US,40.9807,-73.6837,38.41,34.12,34,20,24.16,few clouds
+101,Geneva,US,41.8875,-88.3054,33.37,29.21,52,0,16.11,clear sky
+102,Mamaroneck,US,40.9487,-73.7326,38.41,34.12,34,20,24.16,few clouds
+103,Endwell,US,42.1129,-76.021,29.68,23.05,66,75,14.97,broken clouds
+104,Lancaster,US,40.2504,-76.2499,35.11,29.86,41,20,17.27,few clouds
+105,Shelburne,CA,44.0787,-80.2041,20.91,14.59,80,38,19.33,scattered clouds
+106,Beacon,US,41.5048,-73.9696,36.63,30.76,35,40,17.27,scattered clouds
+107,Niagara Falls,CA,43.1001,-79.0663,28.09,24.69,57,0,28.77,haze
+108,Massena,US,44.9281,-74.8919,28.38,26.11,31,0,21.85,clear sky
+109,Mount Kisco,US,41.2043,-73.7271,36.34,32.22,36,20,24.16,few clouds
+110,Amityville,US,40.679,-73.4171,38.17,34.97,31,0,17.0,clear sky
+111,Andorra La Vella,AD,42.5045,1.4941,35.4,30.04,93,100,7.34,overcast clouds
+112,East Patchogue,US,40.767,-72.9962,38.1,35.04,33,40,26.46,scattered clouds
+113,Great Neck,US,40.8007,-73.7285,38.17,34.0,31,40,24.16,scattered clouds
+114,Bay Shore,US,40.7251,-73.2454,38.21,34.99,30,0,26.46,clear sky
+115,Newark,US,40.7357,-74.1724,38.41,32.9,33,40,25.32,scattered clouds
+116,Hauppauge,US,40.8256,-73.2026,38.25,34.75,31,40,26.46,scattered clouds
+117,Centereach,US,40.8584,-73.0995,38.16,34.66,33,40,26.46,scattered clouds
+118,Dix Hills,US,40.8048,-73.3362,37.4,33.71,31,0,26.46,clear sky
+119,Hicksville,US,40.7684,-73.5251,37.99,33.82,31,0,14.97,clear sky
+120,Huntington Station,US,40.8534,-73.4115,37.72,33.55,31,0,14.97,clear sky
+121,Westbury,US,40.7557,-73.5876,38.14,33.96,32,0,14.97,clear sky
+122,North Babylon,US,40.7165,-73.3218,38.16,34.95,31,0,14.97,clear sky
+123,East Meadow,US,40.714,-73.559,38.26,34.09,31,0,15.01,clear sky
+124,Pearl River,US,41.059,-74.0218,37.11,31.98,33,75,11.01,broken clouds
+125,Fulton,US,33.7668,-84.4499,46.38,42.37,31,0,9.22,clear sky
+126,Bradford,GB,53.7939,-1.7521,43.63,39.02,90,40,4.61,scattered clouds
+127,Mineola,US,40.7493,-73.6407,38.1,33.93,32,40,24.16,scattered clouds
+128,Huntington,US,38.4193,-82.4452,37.35,33.31,27,0,10.36,clear sky
+129,Melville,US,40.7934,-73.4151,37.76,33.85,31,0,14.97,clear sky
+130,Carteret,US,40.5773,-74.2282,38.46,33.04,34,0,25.32,clear sky
+131,Commack,US,40.8429,-73.2929,37.99,34.48,31,0,26.46,clear sky
+132,Nesconset,US,40.852,-73.154,38.1,34.59,32,40,26.46,scattered clouds
+133,Middlebury,US,44.0153,-73.1673,30.92,26.65,50,75,5.75,broken clouds
+134,Bethpage,US,40.7443,-73.4821,38.12,33.94,31,0,14.97,clear sky
+135,Glen Cove,US,40.8623,-73.6337,38.25,34.07,33,18,8.99,few clouds
+136,Lindenhurst,US,40.6868,-73.3735,38.17,34.95,31,0,17.0,clear sky
+137,East Northport,US,40.8768,-73.3246,37.74,33.76,32,0,14.97,clear sky
+138,West Hempstead,US,40.7048,-73.6501,38.28,34.09,32,40,23.02,scattered clouds
+139,Scarsdale,US,41.0051,-73.7846,37.42,33.12,35,20,24.16,few clouds
+140,Franklin Square,US,40.7073,-73.676,38.3,34.12,31,40,24.16,scattered clouds
+141,Depew,US,42.904,-78.6923,27.12,23.88,56,20,20.71,few clouds
+142,Kings Park,US,40.8862,-73.2573,37.9,33.71,32,40,26.46,scattered clouds
+143,West Milford,US,41.1312,-74.3674,35.69,29.91,36,50,7.0,scattered clouds
+144,West Islip,US,40.7062,-73.3062,38.19,34.99,31,0,26.46,clear sky
+145,Saint James,BB,13.2167,-59.6167,82.85,82.85,75,93,17.34,overcast clouds
+146,Morrisburg,CA,44.9001,-75.1826,28.18,24.1,66,5,16.42,clear sky
+147,Copiague,US,40.6815,-73.3998,38.16,34.95,31,0,17.0,clear sky
+148,Clinton,US,42.587,-82.9199,28.89,24.12,62,75,12.66,broken clouds
+149,Babylon,US,40.6957,-73.3257,38.21,34.99,30,0,14.97,clear sky
+150,Selden,US,40.8665,-73.0357,38.21,34.72,33,40,26.46,scattered clouds
+151,Lockport,US,41.5895,-88.0578,34.34,29.01,53,0,13.8,clear sky
+152,Valley Stream,US,40.6643,-73.7085,38.46,33.96,31,40,24.16,scattered clouds
+153,Fort Thomas,US,39.0751,-84.4472,34.86,29.82,31,0,9.22,clear sky
+154,Smithtown,US,40.8559,-73.2007,38.32,34.81,32,40,26.46,scattered clouds
+155,East Massapequa,US,40.6734,-73.4365,38.19,34.99,31,0,17.0,clear sky
+156,Perth Amboy,US,40.5068,-74.2654,37.99,33.26,35,0,24.0,clear sky
+157,Danbury,US,41.3948,-73.454,36.18,31.19,36,20,13.8,few clouds
+158,Hempstead,US,40.7062,-73.6187,38.28,34.09,32,40,23.02,scattered clouds
+159,Brentwood,US,40.7812,-73.2462,37.98,34.75,31,40,26.46,scattered clouds
+160,Bohemia,US,40.7693,-73.1151,37.99,34.79,32,40,26.46,scattered clouds
+161,Medford,US,42.3265,-122.8756,47.25,34.61,53,0,1.99,clear sky
+162,Levittown,US,40.1551,-74.8288,37.13,32.85,34,0,17.27,clear sky
+163,Haverstraw,US,41.1976,-73.9646,37.62,32.81,36,23,3.0,few clouds
+164,Uniondale,US,40.7004,-73.5929,38.32,34.12,32,0,23.02,clear sky
+165,Carbondale,US,37.7273,-89.2168,38.05,35.89,31,0,0.0,clear sky
+166,Patchogue,US,40.7657,-73.0151,38.08,35.02,33,40,26.46,scattered clouds
+167,Bennington,US,42.8781,-73.1968,31.6,25.2,47,72,18.12,broken clouds
+168,Lacolle,CA,45.0834,-73.3659,34.14,25.99,42,65,18.92,broken clouds
+169,Johnson City,US,36.3134,-82.3535,40.95,36.01,33,0,5.75,clear sky
