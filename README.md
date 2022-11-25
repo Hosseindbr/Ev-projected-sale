@@ -74,7 +74,7 @@ A Slack channel was created to support communication amongst the team members, a
 
 The total number of EVs registered in NYS per year is:
 
-<img src="https://github.com/Hosseindbr/Ev-projected-sale/blob/cefc12c2d76d753b2b5089dd79921c46770477d0/Images/reg_year_counts.png" width="220" height="345">
+<img src="https://github.com/Hosseindbr/Ev-projected-sale/blob/ea5ff7fe4dccb19b708f3c58b28a530580375035/Images/reg_year_counts.png" width="220" height="345">
 
 
 
@@ -92,7 +92,7 @@ The total number of EVs registered in NYS per year is:
 Top 10 cities with the largest total number of EVs in NYS from 2015 to 2021:
 
 
-<img src="https://github.com/Hosseindbr/Ev-projected-sale/blob/cefc12c2d76d753b2b5089dd79921c46770477d0/Images/top_10_cities.png" width="300" height="400">
+<img src="https://github.com/Hosseindbr/Ev-projected-sale/blob/ea5ff7fe4dccb19b708f3c58b28a530580375035/Images/top_10_cities.png" width="300" height="400">
 
 
 
@@ -124,7 +124,7 @@ One of the most important parts in the EV sales analysis is the popularity of el
 
 The top 10 counties selescted:
 
-<img src="https://github.com/Hosseindbr/Ev-projected-sale/blob/cefc12c2d76d753b2b5089dd79921c46770477d0/Images/top_10_counties.png" width="300" height="400">
+<img src="https://github.com/Hosseindbr/Ev-projected-sale/blob/ea5ff7fe4dccb19b708f3c58b28a530580375035/Images/top_10_counties.png" width="300" height="400">
 
 
 
@@ -228,7 +228,7 @@ In order to validate the performance of this model, we splitted the data into tw
 
 To get a model which can accurately predict future data in a series, we used auto-ARIMA to optimize the p,d,q values for each county and the validation of the models. The best parameters (based on the AIC score) were (1,1,2) without the seasonal component. Then, we plugged these into a SARIMAX model to have our final model. We could validate it by looking at the forecasts and the test set. Below is the result after plug these into a SARIMAX model:
 
-<img src="https://github.com/Hosseindbr/Ev-projected-sale/blob/bb9b97e730ca59708ed3bf2c0b98926915ca5eeb/Images/SARIMAX_results_kings.png" width="600" height="681">
+<img src="https://github.com/Hosseindbr/Ev-projected-sale/blob/ea5ff7fe4dccb19b708f3c58b28a530580375035/Images/SARIMAX_results_kings.png" width="600" height="681">
 
 
 Let’s have a look at the residual information below.The residuals are almost fairly close to being normally distributed. We can accept this as the best model and move onto making and plotting predictions.
@@ -311,7 +311,7 @@ Next, we would fit this model to **Nassau County**, **Suffolk County**, **Westch
 
 Predicting the demand for EVs in each county in NYS is one of the purpose for this project. The other purpose is to find the top 3 counties to invest for EV charging stations based on this demand. The table below is the current total number of charging stations per county in NYS.
 
-<img src="https://github.com/Hosseindbr/Ev-projected-sale/blob/1359d1444e61550726d9cc782515d22e4a50956d/Images/charger_counts_10_counties.png" width="350" height="400">
+<img src="https://github.com/Hosseindbr/Ev-projected-sale/blob/ea5ff7fe4dccb19b708f3c58b28a530580375035/Images/charger_counts_10_counties.png" width="350" height="400">
 
 > **New York County** has the largest number of charging stations (357) in NYS, followed by **Albany County** (331), and **Erie county** (212). The number of charging stations in **Kings County** is only 108, which might be not enough comparing with the EV registrations in Kings county.
 
