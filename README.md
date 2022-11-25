@@ -16,7 +16,7 @@ Electric vehicles (EVs) are vehicles that are either partially or fully powered 
 
 As the leader of the free world, the United States through its Federal Government has set a goal to make half of all new vehicles sold in the U.S. in 2030 zero-emissions vehicles, and to build a convenient and equitable network of chargers to help make EVs accessible to all Americans for both local and long-distance trips. On a recent poll conducted by The U.S department of transportation, in rural parts of the country—home to 20 percent of Americans and almost 70 percent of America’s road miles—EVs can be an especially attractive alternative to conventional vehicles. Rural residents tent to drive more than their urban counterparts, spend more on vehicle fuel and maintenance, and often have fewer alternatives to driving to meet their transportation needs. Over the long run, the plan for the federal government with climate change in mind, is to showcase how EVs will help residents of rural areas reduce those costs and minimize the environmental impact of transportation in their communities. A team of Data Analysts having in common their implication in Climate change and EVs decided then to run an analysis on the forecast of demand in EV vehicles and charging stations for the coming years. They decide to use New York State datasets available for EV registrations and current charging stations with an idea in mind if they can do it in "Empire State" , they could do a similar analysis across the country.
 
-This analysis focuses on the time series modeling of the amount of EVs in New York State (NYS). After exploring the data of EV registrations and the number of charging stations in NYS from 2012 to 2021, a machine learning model will be built to predict the EV sales in NYS in 2023 and 2024, as well as the demand for EV charging stations.
+This analysis focused on the time series modeling of the amount of EVs in New York State (NYS). After exploring the data of EV registrations and the number of charging stations in NYS from 2012 to 2021, a machine learning model was built to predict the EV sales in NYS in 2023 and 2024, as well as the demand for EV charging stations.
 
 
 
@@ -29,9 +29,8 @@ This analysis focuses on the time series modeling of the amount of EVs in New Yo
 </p>
 
 
-- The database for this project is built in PostgreSQL using pgAdmin4.
-- The structure of the database and the relations between database objects are designed using the QuickDBD tool. The ERD diagram is shown below.
-- Afer uploading cleaned data to PostgreSQL database, we merge and create tables as per the ERD, and export to csv file.
+- The database for this project was setup using AWS's relational database service (RDS),
+- The structure of the database and the relations between database objects were designed using the QuickDBD tool. The ERD diagram is shown below.
 
 
 ![EDR.png](Images/EDR_diagram.png)
@@ -42,6 +41,7 @@ This analysis focuses on the time series modeling of the amount of EVs in New Yo
 
 - https://data.ny.gov
 - https://data.world
+- https://www.eia.gov/totalenergy/data/monthly/
 
 
 
@@ -54,9 +54,9 @@ This analysis focuses on the time series modeling of the amount of EVs in New Yo
 </p>
 
 
-There are three members in our team. The role of each team member is indicated by a particular shape: square, circle, triangle. The team member in the square role is responsible for the Github repository including data exploration and visualization. The member in the circle role is in charge of data collection and data cleaning. The member in the triangle role is responsible for creating a machine learning model. The role of each team member will remain the same most of the time to ensure that we had an expert for each topic of the project. 
+There are three members in our team. The role of each team member is indicated by a particular shape: square, circle, triangle. The team member in the square role is responsible for the Github repository including data exploration and visualization. The member in the circle role is in charge of data collection and data cleaning. The member in the triangle role is responsible for creating a machine learning model. The role of each team member will remain the same most of the time to ensure that we have an expert for each topic of the project. 
 
-A Slack channel was created to support communication amongst the team members, and will be used to assign tickets, provide updates, and discuss any issues. The team will additionally have meetings twice a week to go over project progress and next steps.
+A Slack channel was created to support communication amongst the team members, and was used to assign tickets, provide updates, and discuss any issues. The team would additionally have meetings twice a week to go over project progress and next steps.
 
 
 
@@ -81,7 +81,7 @@ The total number of EVs registered in NYS per year is:
 ![EV_on_the_road_2015_2021](Images/EV_on_the_road_2015_2021.png)
 
 
-> As we can see above, the electric vehicle registration in NYS have been increasing exponentially over the past years. The total number of EVs in **2021** is 40356, which is over 791 times larger than the total number of EVs in **2015** (51).
+> As we can see above, the electric vehicle registration in NYS have been increasing exponentially over the past years. The total number of EVs in **2021** was 40356, which was over 791 times larger than the total number of EVs in **2015** (51).
 
 
 
@@ -89,7 +89,7 @@ The total number of EVs registered in NYS per year is:
 ### *Total Number of EVs on the Road by City*
 
 
-Top 10 cities with the largest total number of EVs in NYS from 2015 to 2021 are:
+Top 10 cities with the largest total number of EVs in NYS from 2015 to 2021:
 
 
 <img src="https://github.com/Hosseindbr/Ev-projected-sale/blob/cefc12c2d76d753b2b5089dd79921c46770477d0/Images/top_10_cities.png" width="300" height="400">
@@ -99,7 +99,7 @@ Top 10 cities with the largest total number of EVs in NYS from 2015 to 2021 are:
 ![EV_Count_by_City.png](Images/EV_Count_by_City.png)
 
 
-> From the line chart above, **Brooklyn** (10075), **New York** (3017), and **Staten Island** (1207) are the top 3 cities with the largest total number of EVs in NYS.
+> As we can see, **Brooklyn** (10075), **New York** (3017), and **Staten Island** (1207) were the top 3 cities with the largest total number of EVs in NYS from 2015 to 2021.
 
 
 
@@ -107,28 +107,28 @@ Top 10 cities with the largest total number of EVs in NYS from 2015 to 2021 are:
 ### *Number of EVs on the Road by County Over Time (2015-2021)*
 
 
-For statewide trend, we explore the EV registrations from 2015 to 2021 in 10 top counties:
+For statewide trend, we explored the EV registrations from 2015 to 2021 in 10 top counties:
 
 ![EV_Count_by_County_Over_Time](Images/EV_Count_by_County_Over_Time.png)
 
 
-> From the line chart above, we can notice that **Kings County** has been growing much faster compared to other counties. This result is expected because Kings county is the most populous county in NYS, and the second-most densely populated county in the U.S.. It is also coextensive with Brooklyn city, which has the largest total number of EVs in NYS (2015-2021).
+> From the line chart above, we noticed that **Kings County** was growing much faster compared to other counties. This result is expected because Kings County is the most populous county in NYS, and the second-most densely populated county in the U.S.. It is also coextensive with Brooklyn city, which has the largest total number of EVs in NYS (2015-2021).
 
 
 
 
 ### *Popularity of Car Models by County*
 
-One of the most important parts in the EV sales analysis is the popularity of electric vehicle models. In order to study the market of EV models in NYS, frist we select the top 10 counties with the largest total number of EVs from 2015 to 2021. Next, We will figure out the top 6 most purchased models in each of these counties.
+One of the most important parts in the EV sales analysis is the popularity of electric vehicle models. In order to study the market of EV models in NYS, frist we selected the top 10 counties with the largest total number of EVs from 2015 to 2021. Next, We figured out the top 6 most purchased models in each of these counties.
 
 
-The top 10 counties selescted are:
+The top 10 counties selescted:
 
 <img src="https://github.com/Hosseindbr/Ev-projected-sale/blob/cefc12c2d76d753b2b5089dd79921c46770477d0/Images/top_10_counties.png" width="300" height="400">
 
 
 
-Bar graphs are used to show the difference between top 6 most purchased EV models:
+Bar graphs were used to show the difference between top 6 most purchased EV models:
 
 **- Kings County**
 
@@ -181,8 +181,7 @@ Bar graphs are used to show the difference between top 6 most purchased EV model
 
 
 
-> **Tesla**, **Chevrolet**, and **Hyundai** are the most purchased EVs in each of these counties. Moreover, Tesla is the most purchased EV modles in each of these counties. It is a relatively lower priced luxury electric vehicle that was designed to appeal to the mass market as well. Considering these factors, it is not surprising that these vehicles are the most purchased vehicles in each county.
-
+> **Tesla**, **Chevrolet**, and **Hyundai** were the most purchased EVs in each of these counties from 2015 to 2021. Moreover, Tesla was the top 1 purchased EV modles in each of these counties. It is a relatively lower priced luxury electric vehicle that was designed to appeal to the mass market. In 2021, Tesla had the most worldwide sales of EVs, capturing 21% of the battery-electric (purely electric) market and 14% of the plug-in market (which includes plug-in hybrids). 
 
 
 
@@ -196,9 +195,9 @@ Bar graphs are used to show the difference between top 6 most purchased EV model
 
 ### Finding the Best Fit Model
 
-In the first part of project, we aim to predict the demand for electric vehicles in each county in NYS and based on that find the top 3 counties to invest for setting EV chargers. In this part, we will use a time series model for the number of electric vehicles in the top 6 counties within Ney York state with the most purchases of new electric vehicles. In the end, we will apply the time series models for the top 6 counties. 
+In this project, we aimed to predict the demand for EVs in each county in NYS and find the top 3 counties to invest for setting EV charging stations based on the demand. To do so, first, we would build and train a time series machine learning model for the number of EVs in NYS. Next, we could use this model to predict the number of EVs in the top 6 counties with the most purchased EVs from 2015 to 2021 in NYS.
 
-To find the best fit model, we will use the number of EVs in **Kings County** as a sample. 
+To find the best-fit model, let's use the number of EVs in **Kings County** as a sample. 
 
 
 
@@ -207,9 +206,9 @@ To find the best fit model, we will use the number of EVs in **Kings County** as
 
 #### *Seasonality Check*
 
-To check for seasonality, we perform the time series decomposition analysis to Kings County. Decomposition can provide a useful abstract model for thinking about time series generally and for better understanding problems during time series analysis and forecasting.
+To check for seasonality, we performed the time series decomposition analysis to Kings County. Decomposition can provide a useful abstract model for thinking about time series generally and for better understanding problems during time series analysis and forecasting.
 
-We decompose the number of EVs in Kings County from 2015 to 2021 into trend, seasonal and noise components. From the figures below, we notice that the number of EVs in King County has an upward trend. The results showed that the electric vehicle has an ascending trend and the data showed seasonality pattern.
+We decomposed the number of EVs in Kings County from 2015 to 2021 into trend, seasonal and noise components. As a result, the number of EVs in King County had an upward trend and a seasonality pattern.
 
 ![decomposition_Kings](Images/decomposition_Kings.png)
 
@@ -217,7 +216,7 @@ We decompose the number of EVs in Kings County from 2015 to 2021 into trend, sea
 
 #### *Split Train and Test sets*
 
-In order to validate the performance of the models, we split the time series into two sets: a training set and a testing set. After multiple iterations, we found that the best performance was achieved when we split the data belonging to the kings in the 0.85-0.15 split.
+In order to validate the performance of this model, we splitted the data into two sets: a training set and a testing set. After multiple iterations, we found that the best performance was achieved with a split ratio of 0.85/0.15, 85% of the data in the training set and 15% in the testing set.
 
 ![train_test_split_Kings](Images/train_test_split_Kings.png)
 
@@ -227,18 +226,18 @@ In order to validate the performance of the models, we split the time series int
 #### *Finding the Best Parameters with Auto-Arima*
 
 
-To get a model which can accurately predict future data in a series, we use auto-ARIMA to optimize the p,d,q values for each county and the validation of the models. The best parameters (based on the AIC score) were (1,1,2) without the seasonal component. We can go ahead and plug these into a SARIMAX model to have our final model and then we can validate it by looking at the forecasts and the test set. Below is the result after plug these into a SARIMAX model:
+To get a model which can accurately predict future data in a series, we used auto-ARIMA to optimize the p,d,q values for each county and the validation of the models. The best parameters (based on the AIC score) were (1,1,2) without the seasonal component. Then, we plugged these into a SARIMAX model to have our final model. We could validate it by looking at the forecasts and the test set. Below is the result after plug these into a SARIMAX model:
 
 <img src="https://github.com/Hosseindbr/Ev-projected-sale/blob/bb9b97e730ca59708ed3bf2c0b98926915ca5eeb/Images/SARIMAX_results_kings.png" width="600" height="681">
 
 
-Let’s have a look at the residual information below, we can see that the residuals are almost fairly close to being normally distributed. We can accept this as the best model and move onto making and plotting predictions.
+Let’s have a look at the residual information below.The residuals are almost fairly close to being normally distributed. We can accept this as the best model and move onto making and plotting predictions.
 
 ![residual_information_kings](Images/residual_information_kings.png)
 
 
 
-Let’s fit the model to Kings County. From the figure below, we can see that the model is not able to accurately forecast data into the future. The actual observed data is not within the confidence interval of our model's forecasts. This is mainly due to the fact that major part of the trained data deal in the linear part of time-series. while, as of 2020, the trend of EV vehicle followed an exponential pattern. We need to reduce the time period to achive more acurate information for the Kings county.
+We fitted this model to Kings County to get the forcasted data as the figure below. We can see that the model is not able to accurately forecast data into the future. The actual observed data is not within the confidence interval of our model's forecasts. This is mainly due to the fact that major part of the trained data deal in the linear part of time-series. while, as of 2020, the trend of EV vehicle followed an exponential pattern. We need to reduce the time period to achive more acurate information for the Kings county.
 
 ![df_kings_forecast](Images/df_kings_forecast.png)
 
@@ -247,15 +246,15 @@ Let’s fit the model to Kings County. From the figure below, we can see that th
 
 #### *Future Predictions*
 
-Now that we know that our model can accurately make predictions about the future EV counts in each county, we can use the same parameters to build a model on the whole observed dataset without splitting it into train/test sets.
+Now, we know that our model can accurately make predictions about the future EV counts in each county. Thus, we would use the same parameters to build a model on the whole observed dataset without splitting it into train/test sets.
 
 
 ![df_KINGS_preds](Images/df_KINGS_preds.png)
 
-> The model is predicting that the number of EVs in King County are going to keep increasing almost linearly at a slower rate, based on the mean values. However, If we look at the upper confidence interval , we can see that the increase could follow an exponential pattern.
+> The model predictes that the number of EVs in King County are going to keep increasing almost linearly at a slower rate, based on the mean values. However, in the the upper confidence interval, the increaseing follows an exponential pattern.
 
 
-Next, we will fit this model to **Nassau County**, **Suffolk County**, **Westchester**, **Queens County**, and **New York County** in order to predict the number of EVs in 2023 and 2024.
+Next, we would fit this model to **Nassau County**, **Suffolk County**, **Westchester**, **Queens County**, and **New York County** in order to predict the number of EVs in 2023 and 2024.
 
 
 
@@ -275,7 +274,7 @@ Next, we will fit this model to **Nassau County**, **Suffolk County**, **Westche
 
 ![df_SUFFOLK_preds](Images/df_SUFFOLK_preds.png)
 
-> The model is predicting that the electric vehicle amount in Clark County will keep increasing exponentially in the coming years (the upper confidence limit).
+> The model is predicting that the number of EVs in Clark County will keep increasing exponentially in the coming years (the upper confidence limit).
 
 
 **- Westchester County**
@@ -289,14 +288,14 @@ Next, we will fit this model to **Nassau County**, **Suffolk County**, **Westche
 
 ![df_QUEENS_preds](Images/df_QUEENS_preds.png)
 
-> Above, we can see that the model is predicting the amount of electric vehicles in QUEENS County to keep increasing exponentially. 
+> The model is predicting the number of EVs in QUEENS County to keep increasing exponentially. 
 
 
 **- New York County**
 
 ![df_NEW_YORK_preds](Images/df_NEW_YORK_preds.png)
 
-> Above, we can see that the model is predicting the electric vehicle count in Ney York County to keep increasing exponentially.
+> The model is predicting the number of EVs in New York County to keep increasing exponentially.
 
 
 
@@ -310,9 +309,11 @@ Next, we will fit this model to **Nassau County**, **Suffolk County**, **Westche
 
 ### Current Number of Charging Stations by County (Top 10)
 
+Predicting the demand for EVs in each county in NYS is one of the purpose for this project. The other purpose is to find the top 3 counties to invest for EV charging stations based on this demand. The table below is the current total number of charging stations per county in NYS.
+
 <img src="https://github.com/Hosseindbr/Ev-projected-sale/blob/1359d1444e61550726d9cc782515d22e4a50956d/Images/charger_counts_10_counties.png" width="350" height="400">
 
-> **New York County** has the largest number of charging station (357) in NYS, followed by **Albany County** (331), and **Erie county** (212). The number of charging stations in **Kings County** is only 108, which might be not enough comparing with the EV registrations in Kings county.
+> **New York County** has the largest number of charging stations (357) in NYS, followed by **Albany County** (331), and **Erie county** (212). The number of charging stations in **Kings County** is only 108, which might be not enough comparing with the EV registrations in Kings county.
 
 
 ![charger_counts](Images/charger_counts.png)
@@ -323,17 +324,34 @@ Next, we will fit this model to **Nassau County**, **Suffolk County**, **Westche
 
 ### Number of Charging Stations vs. Number of EVs on the Road
 
-The table below compare the numbers between existing charging stations and EVs 2021:
+The table below compares the numbers between existing charging stations and EVs 2021:
 
 ![comparison_between_EVs_and_chargers](Images/comparison_between_EVs_and_chargers.png)
 
-> Above, the average number of EVs per charging station in **King County** is the largest(448). Kings County also have the largest predicted number of EVs by 2023, with around 38135 EVs added. 
+> From the table above, **Kings County** has the largest predicted number of EVs in 2023, with around 38135 new EVs added on the road. At that time, there will be 448 EVs per charging station in Kings County, which makes it the best county to invest for EV charging stations. Another county good to invest for EV charging stations will be **Nassau County**. There is only 81 charging stations in Nassau County currenetly. From the prediction, there will be 10216 EVs added by the end of 2023, with about 231 EVs per charging station. The 3rd county good to invest for EV charging stations is **Westchester County**. The number of EVs per chatging station in Westchester County will be 121 in 2023 by prediction. 
 
+
+![Predicted_EV_Counts_for_KINGS_NASSA_SUFFOLK](/Images/Predicted_EV_Counts_for_KINGS_NASSA_SUFFOLK.png)
 
 
 
 
 ## Conclusions 
+
+
+- The city with the largest total number of EVs in NYS from 2015 to 2021 is **Brooklyn** (10075).
+
+
+- Top 10 counties with the largest total number of EVs from 2015 to 2021 are Kings County, Nassau County, Suffolk County, Westchester County, Queens County, New York County, Monroe County, Erie County, Rockland County, and Richmond County. In each of these counties, top 3 most purchased EV models are **Tesla**, **Chevrolet**, and **Hyundai**.
+
+
+- By 2023, top 6 counties with the largest predicted number of EVs will be Kings County, Nassau County, Westchester County, Suffolk County, Queens County, and New York County.
+
+
+- Top 10 counties with the largest current number of charging station in NYS: New York County, Albany County, Erie County, Monroe County, Suffolk County, Saratoga County, Westchester County, Kings County, Onondaga County, Queens County.
+
+
+- Top 3 best counties to invest for charging stations: **Kings County**, **Nassau County**, **Westchester County**.
 
 
 
@@ -352,6 +370,4 @@ The table below compare the numbers between existing charging stations and EVs 2
 - https://www.alliedmarketresearch.com/electric-vehicle-market
 - https://www.caa.ca/sustainability/electric-vehicles/engine-options/
 - https://www.transportation.gov/rural/ev
-
-
-
+- https://en.wikipedia.org/wiki/Tesla,_Inc.
