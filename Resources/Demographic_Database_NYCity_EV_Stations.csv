@@ -1,0 +1,604 @@
+,ID,Station Name,City,State,ZIP,County,latitude_station,longitude_station
+4,182295,NYC FLEET DPRMBLOT8_1_L3,Midland Beach,NY,10305,Richmond,40.5973,-74.0768
+6,220960,BRT STATION 1,Sunset Park,NY,11220,Kings,40.6412,-74.0133
+14,195668,1235 Linden Blvd,Brooklyn,NY,11212,Kings,40.6625,-73.9145
+19,225676,92746 CHARGEPOINT 1,New York,NY,10065,New York,40.7651,-73.9638
+40,201870,Central Parking - 109 E 58th Street,New York,NY,10022,New York,40.7571,-73.9657
+48,169060,Rapidpark 205 W 101st Street - Tesla Destination,New York,NY,10025,New York,40.7975,-73.9683
+49,189547,Kew Garage,Kew Gardens,NY,11415,Queens,40.7069,-73.8297
+52,181661,HAMPTON INN STATION 4,Staten Island,NY,10314,Richmond,40.6039,-74.1472
+53,189362,Duford Studios,New York,NY,10028,New York,40.7763,-73.9529
+55,115074,Parkit 27 N Moore Street - Tesla Destination,New York,NY,10013,New York,40.7185,-74.0025
+61,207731,1 WATERLINE STATION#2,New York,NY,10069,New York,40.778,-73.9884
+65,150533,528 W 162nd Garage-PARK-it - Tesla Destination,Manhattan,NY,10033,New York,40.8496,-73.9356
+78,115113,iPark NYU 377 E 33rd Street - Tesla Destination,New York,NY,10016,New York,40.7443,-73.9781
+85,115062,Icon Parking 237 West Thames - Tesla Destination,New York,NY,10280,New York,40.7105,-74.0163
+86,221322,Prestige Parking Corp,New York,NY,10022,New York,40.7571,-73.9657
+88,220701,Empire Outlets Garage,Staten Island,NY,10301,Richmond,40.6316,-74.0927
+93,115151,iPark 530 E 80th Street - Tesla Destination,New York,NY,10075,New York,40.7143,-74.006
+106,115076,Standard Parking 270 Greenwich - Tesla Destination,New York,NY,10007,New York,40.7139,-74.007
+108,197855,597 Clarkson Ave,Brooklyn,NY,11203,Kings,40.6505,-73.9349
+114,115001,iPark 112 E 65th Street - Tesla Destination,New York,NY,10065,New York,40.7651,-73.9638
+117,115118,City Parking RL Mercer Street - Tesla Destination,New York,NY,10025,New York,40.7975,-73.9683
+119,202164,484 43rd St,Brooklyn,NY,11232,Kings,40.6521,-74.0018
+120,217408,35-58 72nd St,Jackson Heights,NY,11372,Queens,40.7513,-73.883
+121,115178,Parkright 670 W 43rd Street - Tesla Destination,New York,NY,10036,New York,40.7597,-73.9918
+143,225478,ARCHER GREEN MI STATION 1,JAMAICA,NY,11433,Queens,40.6969,-73.7877
+147,205826,Northeast Bronx YMCA,Bronx,NY,10466,Bronx,40.8904,-73.8503
+148,206908,BORO PARK BORO CHARGE 1,Borough Park,NY,11219,Kings,40.6336,-73.996
+151,168757,Enterprise Parking 219 E 69th St - Tesla Destination,New York,NY,10021,New York,40.7685,-73.9588
+157,219453,Energy Plus Site 8,New York,NY,10023,New York,40.7764,-73.9827
+161,222574,266 13th St,Brooklyn,NY,11215,Kings,40.6669,-73.9828
+164,114897,Enterprise 309 Gold Street - Tesla Destination,Brooklyn,NY,11201,Kings,40.694,-73.9903
+166,174183,TATABROOKFIELD #6,New York,NY,10044,New York,40.7618,-73.9505
+174,223241,550 W. 45th St.,New York,NY,10036,New York,40.7597,-73.9918
+181,115042,iPark 200 E 70th Street - Tesla Destination,New York,NY,10021,New York,40.7685,-73.9588
+183,191505,5935 Broadway,Bronx,NY,10463,Bronx,40.8798,-73.9067
+185,99500,Nissan of Staten Island,Staten Island,NY,10306,Richmond,40.5682,-74.1184
+190,114972,Icon Parking 235 W 48th - Tesla Destination,Manhattan,NY,10036,New York,40.7597,-73.9918
+193,115033,Quik Park Hudson 180 LLC - Tesla Destination,New York,NY,10069,New York,40.778,-73.9884
+194,116808,59 Allen Street - Tesla Supercharger,New York,NY,10002,New York,40.7152,-73.9877
+195,115106,Rapidpark 35 E 75th Street - Tesla Destination,New York,NY,10021,New York,40.7685,-73.9588
+196,205822,Baychester Retail III LLC,Bronx,NY,10475,Bronx,40.8729,-73.8278
+197,187883,Gotham Parking,New York,NY,10036,New York,40.7597,-73.9918
+206,115195,Rapidpark 920 Park Avenue - Tesla Destination,New York,NY,10025,New York,40.7975,-73.9683
+207,168557,577 Baltic Street - Adam America Real Estate - Tesla Destination,Brooklyn,NY,11217,Kings,40.6816,-73.9798
+227,229903,250 Vesey,New York,NY,10281,New York,40.7146,-74.015
+233,115128,Icon Parking Sutton 53 - Tesla Destination,New York,NY,10022,New York,40.7571,-73.9657
+236,115145,MPG 500 West 30th - Tesla Destination,New York,NY,10001,New York,40.7484,-73.9967
+241,115095,Champion Parking W 57th Street - Tesla Destination,New York,NY,10019,New York,40.7651,-73.9858
+242,194700,Revel Brooklyn Superhub,Brooklyn,NY,11206,Kings,40.7012,-73.9436
+256,115067,iPark NYC 246 E 45 Street - Tesla Destination,New York,NY,10017,New York,40.7517,-73.9707
+264,122476,MTP Parking 363 Bond Street - Tesla Destination,Brooklyn,NY,11231,Kings,40.6794,-74.0014
+266,189047,Strathmore,New York,NY,10028,New York,40.7763,-73.9529
+267,213449,AKAM Associates,Long Island City,NY,11101,Queens,40.7446,-73.9345
+269,164680,Icon Parking - Patriot Parking,New York,NY,10013,New York,40.7185,-74.0025
+272,150540,One Blue Slip-Greenpoint - Tesla Destination,Brooklyn,NY,11222,Kings,40.7272,-73.9498
+276,150660,Icon Parking 515 E 72nd Street - Tesla Destination,New York,NY,10021,New York,40.7685,-73.9588
+282,115133,Quik Park West 23rd Street Garage LLC - Tesla Destination,New York,NY,10011,New York,40.7402,-73.9996
+288,150584,PV Parking 34-11 Steinway - Tesla Destination,Astoria,NY,11101,Queens,40.7446,-73.9345
+293,144109,CITYLIGHTS QUEENS LANDING,Long Island City,NY,11109,Queens,40.7454,-73.9575
+295,114997,iPark 107 West 13th Street - Tesla Destination,New York,NY,10011,New York,40.7402,-73.9996
+298,230846,GMC 127 East 83rd,Manhattan,NY,10028,New York,40.7763,-73.9529
+315,196565,NYC FLEET DCASCSTHSE_3_L3,Middle Village,NY,11379,Queens,40.7173,-73.8792
+320,122487,MTP Parking 31-00 47th Ave - Tesla Destination,Long Island City,NY,11101,Queens,40.7446,-73.9345
+323,115010,ABM Parking 13 East 54th Street LLC - Tesla Destination,New York,NY,10022,New York,40.7571,-73.9657
+339,114890,Standard Parking 15 Metrotech - Tesla Destination,Brooklyn,NY,11201,Kings,40.694,-73.9903
+344,114910,"Littleman Driggs Parking, LLC - Tesla Destination",Brooklyn,NY,11211,Kings,40.7095,-73.9563
+345,194169,498 E 67th St,New York,NY,10065,New York,40.7651,-73.9638
+346,115161,iPark Eleventh Avenue Garage Corp. - Tesla Destination,New York,NY,10001,New York,40.7484,-73.9967
+349,206915,BORO PARK BORO CHARGE 8,Borough Park,NY,11219,Kings,40.6336,-73.996
+353,187814,Beltmont Parking,New York,NY,10028,New York,40.7763,-73.9529
+355,115029,Parkright 169 Ludlow Street - Tesla Destination,New York,NY,10012,New York,40.7255,-73.9983
+359,171342,SKYVIEW APARTME SKYVIEW ST2,Riverdale,NY,10471,Bronx,40.9011,-73.9053
+361,180141,PANYNJ LGA WEST 4,East Elmhurst,NY,11371,Queens,40.7721,-73.8735
+370,115251,PV Parking 40-07 73rd St - Tesla Destination,Woodside,NY,11377,Queens,40.745,-73.9069
+388,115166,iPark 59-63 Allen Street - Tesla Destination,New York,NY,10002,New York,40.7152,-73.9877
+409,115099,Icon Parking 330 W 58th Street - Tesla Destination,New York,NY,10019,New York,40.7651,-73.9858
+411,230188,Riverdale Fast Parking,Bronx,NY,10463,Bronx,40.8798,-73.9067
+413,223273,225 W 49th St,New York,NY,10019,New York,40.7651,-73.9858
+421,115185,iPark 650 Parking Corp - Tesla Destination,New York,NY,10065,New York,40.7651,-73.9638
+428,150571,CenterPark 4172 Broadway - Tesla Destination,Washington Heights,NY,10033,New York,40.8496,-73.9356
+438,194845,"Walgreens - Brooklyn, NY #15097",Brooklyn,NY,11215,Kings,40.6669,-73.9828
+445,226846,35 Red Cross Pl,Brooklyn,NY,11201,Kings,40.694,-73.9903
+446,150596,300 W 135 St - Little Man Parking - Tesla Destination,New York,NY,10030,New York,40.8183,-73.9426
+453,169201,"The Standard, East Village - Tesla Destination",New York,NY,10034,New York,40.8662,-73.9221
+457,150722,Manhattan Parking 110 LLC - Tesla Destination,New York,NY,10025,New York,40.7975,-73.9683
+460,204691,33-10 Queens Blvd,Queens,NY,11101,Queens,40.7446,-73.9345
+461,115137,Quikpark 43-08 Crescent Street - Tesla Destination,New York,NY,11101,Queens,40.7446,-73.9345
+462,115053,GGMC Parking Seven Eleven (Located at 217 E 44th St) - Tesla Destination,New York,NY,10017,New York,40.7517,-73.9707
+464,223268,44 W 62nd St.,New York,NY,10023,New York,40.7764,-73.9827
+466,207796,1 WATERLINE STATION#5,New York,NY,10069,New York,40.778,-73.9884
+469,223256,435 E. 55th St.,New York,NY,10022,New York,40.7571,-73.9657
+471,115155,Standard Parking 800 6th Ave - Tesla Destination,New York,NY,10001,New York,40.7484,-73.9967
+474,223278,11 East 86th Street,New York,NY,10028,New York,40.7763,-73.9529
+481,206918,BORO PARK BORO CHARGE 2,Borough Park,NY,11219,Kings,40.6336,-73.996
+491,115014,Icon Parking 14-26 William Street - Tesla Destination,New York,NY,10004,New York,40.7143,-74.006
+494,223836,G & M REALTY 2 STATION 5,LIC,NY,11101,Queens,40.7446,-73.9345
+511,115009,Quik Park Garden Lots LLC - Tesla Destination,New York,NY,10001,New York,40.7484,-73.9967
+515,114915,Quik Park 81 Fleet Place LLC - Tesla Destination,Brooklyn,NY,11201,Kings,40.694,-73.9903
+518,174182,TATABROOKFIELD #7,New York,NY,10044,New York,40.7618,-73.9505
+527,115041,Enterprise Parking 200 E 69th St - Tesla Destination,New York,NY,10065,New York,40.7651,-73.9638
+533,114906,Park Kwik LLC 50 Washington St. - Tesla Destination,Brooklyn,NY,11201,Kings,40.694,-73.9903
+535,187658,NYC FLEET DPRWFMARNA_1_L3,Corona,NY,11368,Queens,40.7453,-73.8611
+553,170122,NYC FLEET DPR_ICAHN_1_L3,New York,NY,10035,New York,40.8011,-73.9371
+557,115070,Quik Park 40 Riverside Blvd - Tesla Destination,New York,NY,10282,New York,40.7166,-74.0146
+558,150578,LAZ Parking 133-59 Roosevelt Ave - Tesla Destination,Flushing,NY,11354,Queens,40.7667,-73.8241
+561,115087,Parkit 301 E 64th - Tesla Destination,New York,NY,10065,New York,40.7651,-73.9638
+572,124144,Astor Place,New York,NY,10003,New York,40.7313,-73.9892
+576,169009,Park Kwik - 211 Atlantic - Tesla Destination,Brooklyn,NY,11201,Kings,40.694,-73.9903
+578,115189,"The Standard, High Line - Tesla Destination",New York,NY,10014,New York,40.7339,-74.0054
+581,115036,Glenwood Grand Tier Parking - Tesla Destination,New York,NY,10023,New York,40.7764,-73.9827
+588,114911,GGMC Parking 66 Rockwell Pl Garage - Tesla Destination,Brooklyn,NY,11217,Kings,40.6816,-73.9798
+590,114969,iPark 43-25 Hunter Street - Tesla Destination,Long Island City,NY,11101,Queens,40.7446,-73.9345
+604,115080,iPark 3 E 67th Street - Tesla Destination,New York,NY,10065,New York,40.7651,-73.9638
+614,115109,GGMC Parking 350 W 43rd Street Garage - Tesla Destination,New York,NY,10036,New York,40.7597,-73.9918
+620,114939,MPG The Shops at Skyview - Tesla Destination,Flushing,NY,11354,Queens,40.7667,-73.8241
+621,115170,Quik Park 600 West 42nd Street (Silver Towers) LLC - Tesla Destination,New York,NY,10036,New York,40.7597,-73.9918
+624,220319,BORO PARK BORO CHARGE 7,Borough Park,NY,11219,Kings,40.6336,-73.996
+633,202931,134 N 4th St,Brooklyn,NY,11249,Kings,40.6451,-73.945
+635,224508,QT STATION 3,Woodside,NY,11377,Queens,40.745,-73.9069
+643,150520,Icon Parking 245 E 19th St. - Tesla Destination,New York,NY,10010,New York,40.7375,-73.9813
+644,115075,iPark 455 Central Park West - Tesla Destination,New York,NY,10025,New York,40.7975,-73.9683
+654,114990,Rapidpark 600 Columbus Ave - Tesla Destination,New York,NY,10024,New York,40.7864,-73.9764
+671,122469,ImPark Underhill Garage - Tesla Destination,Brooklyn,NY,11238,Kings,40.679,-73.9644
+675,168984,New York Hospital Queens - Tesla Destination,Flushing,NY,11355,Queens,40.7536,-73.8226
+685,115046,Icon Parking 203 E 61 Street - Tesla Destination,New York,NY,10021,New York,40.7685,-73.9588
+693,166728,Staten Island Mall,Staten Island,NY,10314,Richmond,40.6039,-74.1472
+695,233092,575 1st Ave,New York,NY,10016,New York,40.7443,-73.9781
+696,114989,Icon Parking 100 Riverside Blvd. - Tesla Destination,New York,NY,10024,New York,40.7864,-73.9764
+704,225479,ARCHER GREEN MI STATION 4,Jamaica,NY,11433,Queens,40.6969,-73.7877
+706,115004,ABM Parking 750 Lexington Ave LLC - Tesla Destination,New York,NY,10022,New York,40.7571,-73.9657
+707,164738,Central Parking - 146 W 57th St,New York,NY,10019,New York,40.7651,-73.9858
+708,153434,Brookfield Place - Tesla Supercharger,New York City,NY,10080,New York,40.7143,-74.006
+712,168525,STATION 4TH FL MOTORGATE #2,New York,NY,10044,New York,40.7618,-73.9505
+718,115021,Standard Parking 151 W 17th Street - Tesla Destination,New York,NY,10011,New York,40.7402,-73.9996
+732,115102,Standard Parking Gateway Plaza Garage - Tesla Destination,New York,NY,10280,New York,40.7105,-74.0163
+733,115122,Champion Parking 113 LLC - Tesla Destination,New York,NY,10025,New York,40.7975,-73.9683
+734,114902,Quik Park 365 Management LLC - Tesla Destination,Brooklyn,NY,11231,Kings,40.6794,-74.0014
+736,223283,55 East End Ave,New York,NY,10028,New York,40.7763,-73.9529
+745,188095,UMGI EV1,LIC,NY,11101,Queens,40.7446,-73.9345
+750,114896,Standard Parking Pierepoint Plaza - Tesla Destination,Brooklyn,NY,11201,Kings,40.694,-73.9903
+755,233084,LGA Airpark,East Elmhurst,NY,11369,Queens,40.7613,-73.8739
+757,230831,86-86 Palo Alto St,Hollis,NY,11423,Queens,40.7142,-73.7677
+758,114881,Astoria Central Parking - Tesla Destination,Astoria,NY,11106,Queens,40.7608,-73.9295
+762,115045,MPG 201 E 56th - Tesla Destination,New York,NY,10022,New York,40.7571,-73.9657
+763,150574,Center Park 250 Albany - Tesla Destination,Manhattan,NY,10280,New York,40.7105,-74.0163
+766,114973,Icon Parking 360 E 65th - Tesla Destination,Manhattan,NY,10065,New York,40.7651,-73.9638
+767,115107,"The Carlyle Hotel, A Rosewood Hotel - Tesla Destination",New York,NY,10021,New York,40.7685,-73.9588
+768,150639,Sylvan Gerard Garage - Tesla Destination,Forest Hills,NY,11375,Queens,40.7229,-73.8473
+769,115032,Quikpark 173 W 12th Street - Tesla Destination,New York,NY,10011,New York,40.7402,-73.9996
+775,115124,Parkit 403 Lafayette St. - Tesla Destination,New York,NY,10003,New York,40.7313,-73.9892
+778,168558,610 Warren Street - Tesla Destination,Brooklyn,NY,11217,Kings,40.6816,-73.9798
+780,115141,iPark NYC Central Harlem Garage Corp. - Tesla Destination,New York,NY,10026,New York,40.8019,-73.9531
+783,150579,LAZ Parking 136-20 38th Ave - Tesla Destination,Flushing,NY,11354,Queens,40.7667,-73.8241
+784,44342,Nemet Motors,Jamaica,NY,11432,Queens,40.7119,-73.7944
+791,123127,Queens college,Queens,NY,11367,Queens,40.728,-73.8195
+796,114974,Icon Parking 205 E 63rd St - Tesla Destination,Manhattan,NY,10065,New York,40.7651,-73.9638
+806,115129,Icon Parking Independent - Tesla Destination,New York,NY,10021,New York,40.7685,-73.9588
+818,181662,HAMPTON INN STATION 2,Staten Island,NY,10314,Richmond,40.6039,-74.1472
+839,199508,831 3rd Ave,Brooklyn,NY,11232,Kings,40.6521,-74.0018
+841,166333,LaSalle Parking LLS Shumai LLC (220 E 9th St.),Manhattan,NY,10003,New York,40.7313,-73.9892
+843,180166,PANYNJ LGA E GARAGE W1,New York,NY,11371,Queens,40.7721,-73.8735
+844,150534,4320 Broadway-PARK-it - Tesla Destination,Manhattan,NY,10033,New York,40.8496,-73.9356
+845,152158,Outerbridge Commons - Tesla Supercharger,New York City,NY,10309,Richmond,40.5352,-74.2116
+852,223299,181 E 73rd Street,New York,NY,10021,New York,40.7685,-73.9588
+854,164681,Icon Parking - One Lincoln Plaza,New York,NY,10023,New York,40.7764,-73.9827
+855,221326,First Avenue Parking,New York,NY,10016,New York,40.7443,-73.9781
+867,200987,NYU NYU # 2,New York,NY,10012,New York,40.7255,-73.9983
+869,114891,Quik Park Armory Parking Inc. - Tesla Destination,Brooklyn,NY,11205,Kings,40.6924,-73.9666
+870,102336,E 47th Street - Tesla Supercharger,New York,NY,10017,New York,40.7517,-73.9707
+872,114940,Sylvan Pinnacle Garage - Tesla Destination,Forest Hills,NY,11375,Queens,40.7229,-73.8473
+873,174184,TATABROOKFIELD #5,New York,NY,10044,New York,40.7618,-73.9505
+878,115196,MPG 923 5th Ave - Tesla Destination,New York,NY,10021,New York,40.7685,-73.9588
+885,115157,MPG 543 W 110th Street Garage - Tesla Destination,New York,NY,10025,New York,40.7975,-73.9683
+887,114985,Icon Parking 1056 5th Avenue - Tesla Destination,New York,NY,10028,New York,40.7763,-73.9529
+893,115017,Rapidpark 15 W 72nd Street - Tesla Destination,New York,NY,10023,New York,40.7764,-73.9827
+896,115000,GMC 111 E 82nd St - Tesla Destination,New York,NY,10065,New York,40.7651,-73.9638
+897,122470,ProPark 184 Kent Ave - Tesla Destination,Brooklyn,NY,11249,Kings,40.6451,-73.945
+899,227359,PVECSTATION1 PAKWAY VILLAGE,Jamaica,NY,11435,Queens,40.7029,-73.8111
+902,115022,Icon Parking 155 E 29th Street - Tesla Destination,New York,NY,10016,New York,40.7443,-73.9781
+905,124141,Coliseum Park Apts - Central Parking,New York,NY,10019,New York,40.7651,-73.9858
+915,123040,520806-Rockefeller Center,New York City,NY,10036,New York,40.7597,-73.9918
+918,206911,BORO PARK BORO CHARGE 4,Borough Park,NY,11219,Kings,40.6336,-73.996
+925,168414,532 W 122nd St,New York,NY,10027,New York,40.8116,-73.955
+926,150570,Icon Parking 202 E 18th Street - Tesla Destination,Manhattan,NY,10003,New York,40.7313,-73.9892
+927,115061,Champion Parking 230 W 55th Street - Tesla Destination,New York,NY,10019,New York,40.7651,-73.9858
+933,146876,Shops at Skyview center,Flushing,NY,11354,Queens,40.7667,-73.8241
+935,115162,Icon Parking 560 Third Ave - Tesla Destination,New York,NY,10016,New York,40.7443,-73.9781
+936,115079,Parkright 39 E 29th Street - Tesla Destination,New York,NY,10016,New York,40.7443,-73.9781
+952,187815,Beekman Parking,New York,NY,10022,New York,40.7571,-73.9657
+955,235400,Rockaway Beach Hotel,Rockaway Park,NY,11694,Queens,40.5766,-73.8428
+962,115028,iPark NYC E 77th Street - Tesla Destination,New York,NY,10014,New York,40.7339,-74.0054
+963,225576,30-10 35th Street,Queens,NY,11103,Queens,40.7627,-73.9149
+965,230231,New Tech Energy,Brooklyn,NY,11230,Kings,40.6225,-73.965
+967,114919,The William Vale Hotel - Tesla Destination,Brooklyn,NY,11249,Kings,40.6451,-73.945
+979,115179,Quik Park Little West LLC - Tesla Destination,New York,NY,10280,New York,40.7105,-74.0163
+981,115117,GGMC Parking Carnegie Garage - Tesla Destination,New York,NY,10128,New York,40.7816,-73.9511
+987,115054,Icon Parking 220 Riverside Blvd - Tesla Destination,New York,NY,10024,New York,40.7864,-73.9764
+991,115088,Icon Parking 308 Greenwich - Tesla Destination,New York,NY,10013,New York,40.7185,-74.0025
+1009,115146,Roger Smith Hotel - Tesla Destination,New York,NY,10017,New York,40.7517,-73.9707
+1013,223322,DOCK STATION 9,New York,NY,10155,New York,40.7611,-73.968
+1016,196566,NYC FLEET DCASCSTHSE_2_L3,Middle Village,NY,11379,Queens,40.7173,-73.8792
+1019,122488,MTP Parking 41-42 24th Street - Tesla Destination,Long Island City,NY,11101,Queens,40.7446,-73.9345
+1020,115049,Icon Parking 810 Seventh Ave - Tesla Destination,New York,NY,10019,New York,40.7651,-73.9858
+1025,114914,Standard Parking 2 Metrotech - Tesla Destination,Brooklyn,NY,11201,Kings,40.694,-73.9903
+1038,115114,Icon Parking 111 8th Ave Parking - Tesla Destination,New York,NY,10011,New York,40.7402,-73.9996
+1042,115174,Parkit 10 Wooster St. - Tesla Destination,New York,NY,10013,New York,40.7185,-74.0025
+1043,122475,IMPark 353 4th Ave - Tesla Destination,Brooklyn,NY,11215,Kings,40.6669,-73.9828
+1048,188148,Minetta Garage,New York,NY,10012,New York,40.7255,-73.9983
+1049,149299,Mall at Bay Plaza - Tesla Supercharger,Bronx,NY,10475,Bronx,40.8729,-73.8278
+1056,191506,3474 Putnam Place,Bronx,NY,10467,Bronx,40.8737,-73.8712
+1064,114907,Kings County Parking - Tesla Destination,Brooklyn,NY,11203,Kings,40.6505,-73.9349
+1067,150697,Brunos Bakery and Restaurant - Tesla Destination,Staten Island,NY,10310,Richmond,40.6324,-74.1171
+1087,187817,Travelers Parking,New York,NY,10014,New York,40.7339,-74.0054
+1093,114996,Rapidpark 99 Park Ave - Tesla Destination,New York,NY,10016,New York,40.7443,-73.9781
+1094,223257,420 E. 53rd St.,New York,NY,10022,New York,40.7571,-73.9657
+1101,217354,INDUSTRY CITY LOT B EAST,Brooklyn,NY,11232,Kings,40.6521,-74.0018
+1108,223292,305 East 80th Street,New York,NY,10075,New York,40.7143,-74.006
+1117,230788,BNY - Building 292,Brooklyn,NY,11205,Kings,40.6924,-73.9666
+1118,115191,Icon 9-11 Park Ave - Tesla Destination,New York,NY,10016,New York,40.7443,-73.9781
+1125,115013,Icon Parking 1350 Avenue of the Americas - Tesla Destination,New York,NY,10019,New York,40.7651,-73.9858
+1127,200474,115 Fort Washington Ave,New York,NY,10032,New York,40.8382,-73.942
+1129,115094,Glenwood Belmont Parking - Tesla Destination,New York,NY,10021,New York,40.7685,-73.9588
+1138,114918,imPark 101 Bedford Ave - Tesla Destination,Brooklyn,NY,11211,Kings,40.7095,-73.9563
+1139,174180,TATABROOKFIELD GATEWAY #1,New York,NY,10044,New York,40.7618,-73.9505
+1140,115066,GGMC Ruppert Car Park - Tesla Destination,New York,NY,10128,New York,40.7816,-73.9511
+1155,115083,Icon Parking 300 E 59th Street - Tesla Destination,New York,NY,10022,New York,40.7571,-73.9657
+1167,150587,IMPark 92-77 Queens Blvd - Tesla Destination,Rego Park,NY,11374,Queens,40.7278,-73.8602
+1168,44323,Star Nissan,Bayside,NY,11361,Queens,40.7627,-73.7745
+1169,115150,GGMC Parking 51-53 E 76th St Carlyle Hotel - Tesla Destination,New York,NY,10021,New York,40.7685,-73.9588
+1175,230822,EastSide Parking LLC.,New York,NY,10022,New York,40.7571,-73.9657
+1179,115132,imPark 422 E 79th Street - Tesla Destination,New York,NY,10075,New York,40.7143,-74.006
+1182,207795,1 WATERLINE STATION#1,New York,NY,10069,New York,40.778,-73.9884
+1184,115071,Rapidpark 25-27 Beekman Street - Tesla Destination,New York,NY,10038,New York,40.7101,-74.0013
+1192,190532,iPark - 67th Street,New York,NY,10065,New York,40.7651,-73.9638
+1195,115121,Icon Liberty View Parking - Tesla Destination,New York,NY,10016,New York,40.7443,-73.9781
+1200,115084,GGMC Parking E 74th Street - Tesla Destination,New York,NY,10021,New York,40.7685,-73.9588
+1205,194168,170 E End Ave,New York,NY,10128,New York,40.7816,-73.9511
+1211,168977,Nap York - Tesla Destination,New York,NY,10018,New York,40.7547,-73.9925
+1215,115188,Quik Park 808 Garage LLC - Tesla Destination,New York,NY,10025,New York,40.7975,-73.9683
+1229,115142,Icon Parking 5 E 22nd Street - Tesla Destination,New York,NY,10010,New York,40.7375,-73.9813
+1231,85969,Koeppel Nissan,Jackson Heights,NY,11372,Queens,40.7513,-73.883
+1240,201636,3500 Dekalb Ave,Bronx,NY,10467,Bronx,40.8737,-73.8712
+1242,114986,iPark 10 West 15th - Tesla Destination,New York,NY,10011,New York,40.7402,-73.9996
+1248,213081,Icon Mercury Parking,New York,NY,10019,New York,40.7651,-73.9858
+1254,122479,MTP Parking 755 Kent Ave - Tesla Destination,Brooklyn,NY,11249,Kings,40.6451,-73.945
+1255,115110,Rapidpark 351 East 83rd - Tesla Destination,New York,NY,10028,New York,40.7763,-73.9529
+1259,218294,Bridge Towers Location 1,New York,NY,10033,New York,40.8496,-73.9356
+1264,169010,Park Kwik-300 Ashland - Tesla Destination,Brooklyn,NY,11217,Kings,40.6816,-73.9798
+1274,223088,Rapid Park - 204 W 101 st,New York,NY,10025,New York,40.7975,-73.9683
+1285,188094,UMGI EV2,LIC,NY,11101,Queens,40.7446,-73.9345
+1296,115050,Standard Parking 21 East 15th Street - Tesla Destination,New York,NY,10003,New York,40.7313,-73.9892
+1298,150535,506 W 181 St Garage-PARK-it - Tesla Destination,Manhattan,NY,10033,New York,40.8496,-73.9356
+1305,181933,NYC FLEET DPR_ICAHN_2_L3,New York,NY,10035,New York,40.8011,-73.9371
+1314,115165,Standard Parking 58 W 58th Street - Tesla Destination,New York,NY,10019,New York,40.7651,-73.9858
+1317,223835,G & M REALTY 2 STATION 4,LIC,NY,11101,Queens,40.7446,-73.9345
+1318,190531,Discover 97 Parking LLC,New York,NY,10025,New York,40.7975,-73.9683
+1320,174642,PANYNJ JFK Y GARAGE 5,Queens,NY,11430,Queens,40.6472,-73.7827
+1326,230870,New York Presbyterian Hospital,Brooklyn,NY,11215,Kings,40.6669,-73.9828
+1334,223526,320 Mason Ave,New York,NY,10305,Richmond,40.5973,-74.0768
+1338,115098,Icon Parking 330 E 39th Street - Tesla Destination,New York,NY,10016,New York,40.7443,-73.9781
+1341,166727,Staten Island Mall,Staten Island,NY,10314,Richmond,40.6039,-74.1472
+1351,168539,iPark 34 N 7th Street - Tesla Destination,Brooklyn,NY,11249,Kings,40.6451,-73.945
+1357,189112,Manhattan Parking Group,Manhattan,NY,10019,New York,40.7651,-73.9858
+1367,150614,ProPark 110-45 Queens Blvd - Tesla Destination,Forest Hills,NY,11375,Queens,40.7229,-73.8473
+1371,223267,142 E 31st St.,New York,NY,10016,New York,40.7443,-73.9781
+1381,115103,MPG 340 East 93rd - Tesla Destination,New York,NY,10128,New York,40.7816,-73.9511
+1383,114901,GGMC Belltel Car Park - Tesla Destination,Brooklyn,NY,11201,Kings,40.694,-73.9903
+1387,150575,Enterprise Parking 150 Myrtle Ave - Tesla Destination,Brooklyn,NY,11201,Kings,40.694,-73.9903
+1388,115136,ABM Parking 866 UN Plaza - Tesla Destination,New York,NY,10017,New York,40.7517,-73.9707
+1392,123134,Queensboro Hall,Queens,NY,11415,Queens,40.7069,-73.8297
+1401,114991,Champion Parking E 16th Street - Tesla Destination,New York,NY,10003,New York,40.7313,-73.9892
+1405,115154,Icon Parking 54 Murray Street - Tesla Destination,New York,NY,10007,New York,40.7139,-74.007
+1407,206917,BORO PARK BORO CHARGE 3,Borough Park,NY,11219,Kings,40.6336,-73.996
+1418,196329,1065 Elton St,Brooklyn,NY,11239,Kings,40.6497,-73.8824
+1426,115125,iPark 41 E 85th Street - Tesla Destination,New York,NY,10028,New York,40.7763,-73.9529
+1433,115182,Parkright 738 Greenwich Street - Tesla Destination,New York,NY,10014,New York,40.7339,-74.0054
+1435,189363,Laureate Garage,New York,NY,10023,New York,40.7764,-73.9827
+1442,150580,IMPark 188 E 78th St - Tesla Destination,Manhattan,NY,10075,New York,40.7143,-74.006
+1444,192949,4 W 93rd St,New York,NY,10025,New York,40.7975,-73.9683
+1447,150521,iPark NYC 455 Central Park West - Tesla Destination,New York,NY,10025,New York,40.7975,-73.9683
+1455,115005,Icon Parking 12 East 9th Street - Tesla Destination,New York,NY,10003,New York,40.7313,-73.9892
+1466,115018,Icon Parking 150 Charles Street - Tesla Destination,New York,NY,10014,New York,40.7339,-74.0054
+1469,115108,Quik Park 82nd Street LLC - Tesla Destination,New York,NY,10028,New York,40.7763,-73.9529
+1473,115023,City Parking Garment One Garage - Tesla Destination,New York,NY,10016,New York,40.7443,-73.9781
+1482,189759,Icon Parking - Hudson,New York,NY,10014,New York,40.7339,-74.0054
+1486,223282,200 East End Ave,New York,NY,10128,New York,40.7816,-73.9511
+1495,102341,JFK Airport Travel Plaza - Tesla Supercharger,Queens,NY,11430,Queens,40.6472,-73.7827
+1499,65288,Bay Ridge Municipal Parking Garage,Brooklyn,NY,11209,Kings,40.6251,-74.0303
+1507,223300,191 East 71st Street,New York,NY,10021,New York,40.7685,-73.9588
+1508,115169,RapidPark 600 Columbus Ave - Tesla Destination,New York,NY,10128,New York,40.7816,-73.9511
+1512,115037,Standard Parking 20 W 13th Street - Tesla Destination,New York,NY,10011,New York,40.7402,-73.9996
+1518,114968,MPG 1-50 51st Ave - Tesla Destination,Long Island City,NY,11101,Queens,40.7446,-73.9345
+1520,233094,171 E 84th St,New York,NY,10028,New York,40.7763,-73.9529
+1523,115180,Rapidpark 70 Riverside Dr - Tesla Destination,New York,NY,10024,New York,40.7864,-73.9764
+1526,115158,iPark NYC 549 W 23rd Street - Tesla Destination,New York,NY,10011,New York,40.7402,-73.9996
+1527,150517,iPark NYC E 80th Street - Tesla Destination,New York,NY,10075,New York,40.7143,-74.006
+1533,115016,Rapidpark 148 E 33rd Street - Tesla Destination,New York,NY,10016,New York,40.7443,-73.9781
+1536,122471,ImPark 500 4th Ave - Tesla Destination,Brooklyn,NY,11215,Kings,40.6669,-73.9828
+1538,114995,ABM Parking 475 Park Ave South LLC - Tesla Destination,New York,NY,10016,New York,40.7443,-73.9781
+1541,227360,PVECSTATION1 PARKWAY VILLAGE,Jamaica,NY,11432,Queens,40.7119,-73.7944
+1547,166366,Staten Island University Hospital (South Side 375 Sequine Ave),Staten Island,NY,10309,Richmond,40.5352,-74.2116
+1555,194951,JFK Airport - West Cell Phone Lot,Jamaica,NY,11430,Queens,40.6472,-73.7827
+1565,230791,Flushing Plaza,Flushing,NY,11355,Queens,40.7536,-73.8226
+1570,221556,HCBR STATION 1,Brooklyn,NY,11209,Kings,40.6251,-74.0303
+1573,149300,Atlantic Center - Tesla Supercharger,Brooklyn,NY,11217,Kings,40.6816,-73.9798
+1575,115173,iPark NYC 61 Jane Street - Tesla Destination,New York,NY,10014,New York,40.7339,-74.0054
+1576,122489,iPark 400 E 85th St - Tesla Destination,Manhattan,NY,10028,New York,40.7763,-73.9529
+1577,115175,imPark 611 E 83rd Street - Tesla Destination,New York,NY,10028,New York,40.7763,-73.9529
+1586,180139,PANYNJ LGA WEST 2,Flushing,NY,11371,Queens,40.7721,-73.8735
+1587,206913,BORO PARK BORO CHARGE 10,Borough Park,NY,11219,Kings,40.6336,-73.996
+1588,223281,110 East End Ave,New York,NY,10028,New York,40.7763,-73.9529
+1592,162156,WCS NS1 SOUTHERN,Bronx,NY,10460,Bronx,40.8409,-73.8794
+1597,115140,Rapidpark 480 Riverside (120th St) - Tesla Destination,New York,NY,10027,New York,40.8116,-73.955
+1600,102335,W 75th Parking Garage - Tesla Supercharger,New York,NY,10023,New York,40.7764,-73.9827
+1603,115006,MPG 121 Reade Street - Tesla Destination,New York,NY,10013,New York,40.7185,-74.0025
+1608,193979,NYC Parking Kent,Brooklyn,NY,11211,Kings,40.7095,-73.9563
+1610,114984,Rapidpark 10 E 30th Street - Tesla Destination,New York,NY,10016,New York,40.7443,-73.9781
+1617,115038,Central Parking 200 Chambers - Tesla Destination,New York,NY,10007,New York,40.7139,-74.007
+1622,115168,Champion Parking 60 East End Avenue - Tesla Destination,New York,NY,10028,New York,40.7763,-73.9529
+1626,114903,GMC 388 Bridge Street - Tesla Destination,Brooklyn,NY,11201,Kings,40.694,-73.9903
+1631,202163,145 Brooklyn Ave,Brooklyn,NY,11213,Kings,40.67,-73.9367
+1633,230787,BNY - Building 6,Brooklyn,NY,11205,Kings,40.6924,-73.9666
+1643,115093,Quik Park 32 Debrosses LLC - Tesla Destination,New York,NY,10013,New York,40.7185,-74.0025
+1651,189365,Gerard Garage,Forest Hills,NY,11375,Queens,40.7229,-73.8473
+1657,115060,GGMC Yorkville Car Park - Tesla Destination,New York,NY,10128,New York,40.7816,-73.9511
+1667,150573,Enterprise Parking 545 Washington Ave - Tesla Destination,Brooklyn,NY,11238,Kings,40.679,-73.9644
+1672,122482,Excel Parking 87-10 Northern Blvd - Tesla Destination,Jackson Heights,NY,11372,Queens,40.7513,-73.883
+1676,150686,GGMC Parking MODA - Tesla Destination,Jamaica,NY,11432,Queens,40.7119,-73.7944
+1687,115135,City Parking E 61st Street - Tesla Destination,New York,NY,10065,New York,40.7651,-73.9638
+1700,230843,Bonneville 329 E 22nd St.,Manhattan,NY,10010,New York,40.7375,-73.9813
+1706,114999,iPark NYC 1025 83rd - Tesla Destination,New York,NY,10028,New York,40.7763,-73.9529
+1718,202055,7 Marcus Garvey Blvd,Brooklyn,NY,11206,Kings,40.7012,-73.9436
+1723,205858,LIN-DAN RICK,New York,NY,10010,New York,40.7375,-73.9813
+1732,207889,1 WATERLINE STATION#6,New York,NY,10069,New York,40.778,-73.9884
+1738,115012,1345 Parking Garage - Tesla Destination,New York,NY,10105,New York,40.7628,-73.9785
+1739,224248,G & M REALTY 2 STATION 1,LIC,NY,11101,Queens,40.7446,-73.9345
+1741,171477,NYC FLEET DPRMBLOT8_2_L3,Midland Beach,NY,10305,Richmond,40.5973,-74.0768
+1746,191469,Hunter's Point South Crossing,Long Island City,NY,11101,Queens,40.7446,-73.9345
+1747,114970,Little Man Parking (Queens West) - Tesla Destination,Long Island City,NY,11109,Queens,40.7454,-73.9575
+1748,199108,167-149 Meeker Ave,Brooklyn,NY,11211,Kings,40.7095,-73.9563
+1754,197695,WFM - NORTHEAST WHOLE FOODS 1,Gowanus,NY,11215,Kings,40.6669,-73.9828
+1760,115044,GMC Copley Parking - Tesla Destination,New York,NY,10023,New York,40.7764,-73.9827
+1762,115163,Rapidpark 575 1st Avenue - Tesla Destination,New York,NY,10016,New York,40.7443,-73.9781
+1772,114908,1 Hotel Brooklyn Bridge - Tesla Destination,Brooklyn,NY,11201,Kings,40.694,-73.9903
+1774,115104,Rapidpark 340 94th Street - Tesla Destination,New York,NY,10128,New York,40.7816,-73.9511
+1780,115027,GGMC Parking Alfred - Tesla Destination,New York,NY,10023,New York,40.7764,-73.9827
+1786,114892,Discount Parking 180 Ashland Place - Tesla Destination,Brooklyn,NY,11217,Kings,40.6816,-73.9798
+1793,226845,46-71 30th Place,Long Island City,NY,11101,Queens,40.7446,-73.9345
+1795,174185,TATABROOKFIELD #4,New York,NY,10044,New York,40.7618,-73.9505
+1796,115197,GGMC The Cove - Tesla Destination,New York,NY,10280,New York,40.7105,-74.0163
+1798,168571,Alps Provisions - Tesla Destination,Astoria,NY,11105,Queens,40.7763,-73.911
+1800,187816,Red Ball Garage,Manhattan,NY,10016,New York,40.7443,-73.9781
+1802,163485,Apple West Parking,New York,NY,10025,New York,40.7975,-73.9683
+1810,115072,Rapidpark 254 W 79th Street - Tesla Destination,New York,NY,10024,New York,40.7864,-73.9764
+1811,225691,81-09 41st Ave,Queens,NY,11373,Queens,40.7351,-73.8776
+1813,194646,383 Court St,Brooklyn,NY,11231,Kings,40.6794,-74.0014
+1816,169851,Imperial Parking,New York,NY,10016,New York,40.7443,-73.9781
+1817,115089,Parkit 310 E 11th Street - Tesla Destination,New York,NY,10003,New York,40.7313,-73.9892
+1819,225482,ARCHER GREEN MI STATION 5,Jamaica,NY,11433,Queens,40.6969,-73.7877
+1823,223323,DOCK STATION 10,New York,NY,10001,New York,40.7484,-73.9967
+1827,223100,Rapid Park - 44 State St,Brooklyn,NY,11201,Kings,40.694,-73.9903
+1835,115147,Icon Parking 51 W 22nd - Tesla Destination,New York,NY,10010,New York,40.7375,-73.9813
+1838,115130,GMC Parking 420 E 53rd - Tesla Destination,New York,NY,10022,New York,40.7571,-73.9657
+1839,223115,411 West 55th St,New York,NY,10019,New York,40.7651,-73.9858
+1845,114913,GGMC Parking 75 Smith St Garage - Tesla Destination,Brooklyn,NY,11201,Kings,40.694,-73.9903
+1848,225069,Energy Plus NY - 4769 White Pl,Bronx,NY,10470,Bronx,40.9,-73.8622
+1853,115192,Rapidpark 9-11 W 100th Street - Tesla Destination,New York,NY,10024,New York,40.7864,-73.9764
+1862,223588,Supercharge NYC,Brooklyn,NY,11211,Kings,40.7095,-73.9563
+1866,115078,ABM Parking Services 285 W 50th Street LLC - Tesla Destination,New York,NY,10019,New York,40.7651,-73.9858
+1869,122478,ImPark Atlantic Terrace - Tesla Destination,Brooklyn,NY,11217,Kings,40.6816,-73.9798
+1874,102327,North 12 Parking (at the William Vale) - Tesla Supercharger,Brooklyn,NY,11249,Kings,40.6451,-73.945
+1875,207729,1 WATERLINE STATION#8,New York,NY,10069,New York,40.778,-73.9884
+1889,164713,Tribeca Green,New York,NY,10282,New York,40.7166,-74.0146
+1896,150649,19-80 Steinway - Tesla Destination,Astoria,NY,11105,Queens,40.7763,-73.911
+1901,200988,NYU NYU # 1,New York,NY,10012,New York,40.7255,-73.9983
+1912,202766,395 Lenox Rd,Brooklyn,NY,11203,Kings,40.6505,-73.9349
+1914,115055,iPark 200 West Garage Corp. - Tesla Destination,New York,NY,10001,New York,40.7484,-73.9967
+1915,150586,Sylvan Parking 136-33 37th Ave - Tesla Destination,Flushing,NY,11354,Queens,40.7667,-73.8241
+1926,115116,Icon Parking Wall Park - Tesla Destination,New York,NY,10005,New York,40.7056,-74.0083
+1934,166730,Staten Island Mall,Staten Island,NY,10314,Richmond,40.6039,-74.1472
+1937,114992,Icon Parking 101 W 15th - Tesla Destination,New York,NY,10011,New York,40.7402,-73.9996
+1943,206916,BORO PARK BORO CHARGE 6,Borough Park,NY,11219,Kings,40.6336,-73.996
+1955,223833,G & M REALTY 2 STATION 2,LIC,NY,11101,Queens,40.7446,-73.9345
+1959,122472,Sherman Parking - Tesla Destination,Brooklyn,NY,11211,Kings,40.7095,-73.9563
+1972,115048,Champion Parking W 76th Street - Tesla Destination,New York,NY,10023,New York,40.7764,-73.9827
+1976,154371,WFM - NORTHEAST WHOLE FOODS 2,Gowanus,NY,11215,Kings,40.6669,-73.9828
+1981,114987,GGMC Parking 10 W 66th St Garage - Tesla Destination,New York,NY,10023,New York,40.7764,-73.9827
+1983,114895,Parkright 257 Gold Street - Tesla Destination,Brooklyn,NY,11201,Kings,40.694,-73.9903
+1986,225131,Icon Parking - 111 Eighth Avenue,New York,NY,10011,New York,40.7402,-73.9996
+1988,115159,Icon Parking 55 W 14th Street - Tesla Destination,New York,NY,10011,New York,40.7402,-73.9996
+1991,197548,626 Sheepshead Bay Rd - Parking,Brooklyn,NY,11224,Kings,40.5767,-73.9884
+1997,114888,Century Parking Corp - Tesla Destination,Bronx,NY,10463,Bronx,40.8798,-73.9067
+2013,115100,Apple Parking 332 W 11th Street - Tesla Destination,New York,NY,10014,New York,40.7339,-74.0054
+2016,115031,Residence Inn New York Manhattan - Tesla Destination,New York,NY,10019,New York,40.7651,-73.9858
+2018,115024,Prime Parking Systems - 155 E 68th Street - Tesla Destination,New York,NY,10065,New York,40.7651,-73.9638
+2020,44329,Kings Nissan,Brooklyn,NY,11235,Kings,40.5839,-73.9536
+2022,150576,Enterprise Parking 147 Flatbush Avenue Extension - Tesla Destination,Brooklyn,NY,11201,Kings,40.694,-73.9903
+2023,223258,449 East 49th Street,New York,NY,10022,New York,40.7571,-73.9657
+2034,115068,iPark NYC 250 West Parking - Tesla Destination,New York,NY,10011,New York,40.7402,-73.9996
+2043,115085,Parkright 300 E 77th St - Tesla Destination,New York,NY,10075,New York,40.7143,-74.006
+2057,115019,Icon Parking 150 E 58th Street - Tesla Destination,New York,NY,10155,New York,40.7611,-73.968
+2063,115187,Icon 80 Riverside Blvd - Tesla Destination,New York,NY,10069,New York,40.778,-73.9884
+2065,115126,Rapidpark 411 W 55th Street - Tesla Destination,New York,NY,10019,New York,40.7651,-73.9858
+2066,150653,2702 Queens Plaza South - Tesla Destination,Long Island City,NY,11101,Queens,40.7446,-73.9345
+2073,200599,2 Bedford Park Blvd W,Bronx,NY,10468,Bronx,40.8662,-73.9003
+2079,115143,GGMC Parking Battery Place - Tesla Destination,New York,NY,10280,New York,40.7105,-74.0163
+2083,150581,IMPark 302 2nd St - Tesla Destination,Brooklyn,NY,11215,Kings,40.6669,-73.9828
+2097,115082,GGMC Parking Connaught - Tesla Destination,New York,NY,10022,New York,40.7571,-73.9657
+2105,229902,200 Liberty,New York,NY,10006,New York,40.7085,-74.0135
+2107,115111,Icon Parking 35-39 East 61st Street - Tesla Destination,New York,NY,10021,New York,40.7685,-73.9588
+2110,150616,ProPark 29-10 Broadway - Tesla Destination,Astoria,NY,11106,Queens,40.7608,-73.9295
+2118,198164,134-10 225th St,Jamaica,NY,11413,Queens,40.6645,-73.7559
+2124,115149,Icon Parking 524 East 73rd - Tesla Destination,New York,NY,10021,New York,40.7685,-73.9588
+2125,226860,PVECSTATION1 STATION 1,Jamaica,NY,11435,Queens,40.7029,-73.8111
+2127,115051,Rapidpark 210 W 102nd Street - Tesla Destination,New York,NY,10025,New York,40.7975,-73.9683
+2143,181932,NYC FLEET DPR_ICAHN_3_L3,New York,NY,10035,New York,40.8011,-73.9371
+2145,115120,iPark NYC 400 E 35th NYU - Tesla Destination,New York,NY,10016,New York,40.7443,-73.9781
+2146,122491,iPark NYC 75 Wall Street - Tesla Destination,New York,NY,10005,New York,40.7056,-74.0083
+2147,115153,Icon Parking E 88th Street - Tesla Destination,New York,NY,10128,New York,40.7816,-73.9511
+2149,181664,HAMPTON INN STATION 5,Staten Island,NY,10314,Richmond,40.6039,-74.1472
+2150,115176,MTP 625 W 57th Street - Tesla Destination,New York,NY,10019,New York,40.7651,-73.9858
+2151,147204,Queens Center Mall,Elmhurst,NY,11373,Queens,40.7351,-73.8776
+2153,122247,Brooklyn Museum - Tesla Supercharger,Brooklyn,NY,11225,Kings,40.6628,-73.9546
+2157,174641,PANYNJ JFK Y GARAGE 1,Queens,NY,11430,Queens,40.6472,-73.7827
+2158,115240,Angelina's Ristorante - Tesla Destination,Staten Island,NY,10307,Richmond,40.5085,-74.2445
+2160,206912,BORO PARK BORO CHARGE 5,Borough Park,NY,11219,Kings,40.6336,-73.996
+2167,122483,125-10 Queens Blvd Garage - Tesla Destination,Kew Gardens,NY,11415,Queens,40.7069,-73.8297
+2179,195054,iPark - 59 Allen Street Garage,New York,NY,10002,New York,40.7152,-73.9877
+2182,115007,GMC Parking Narragansett - Tesla Destination,New York,NY,10065,New York,40.7651,-73.9638
+2185,193535,MASPETH FEDERAL STATION 1,Forest Hills,NY,11375,Queens,40.7229,-73.8473
+2189,114917,MPG 100 Jay Street - Tesla Destination,Brooklyn,NY,10021,New York,40.7685,-73.9588
+2191,223298,203 E 71st St.,New York,NY,10021,New York,40.7685,-73.9588
+2203,235549,NYC FLEET DOC_VTF_1,New York,NY,11370,Queens,40.7611,-73.8916
+2211,115002,Quik Park 1133 Garage LLC - Tesla Destination,New York,NY,10036,New York,40.7597,-73.9918
+2215,193926,31-99 33rd St,Astoria,NY,11106,Queens,40.7608,-73.9295
+2218,114900,Standard Parking 1 Metrotech - Tesla Destination,Brooklyn,NY,11201,Kings,40.694,-73.9903
+2226,230790,Forest Hills Tower,Forest Hills,NY,11375,Queens,40.7229,-73.8473
+2228,155100,Delancey and Essex Municipal Parking Garage,New York,NY,10002,New York,40.7152,-73.9877
+2239,168524,STATION 4TH FL MOTORGATE 3,New York,NY,10044,New York,40.7618,-73.9505
+2243,169011,Park N Go - E 121 St - Tesla Destination,New York,NY,10035,New York,40.8011,-73.9371
+2249,124147,Superior Ink,New York,NY,10014,New York,40.7339,-74.0054
+2252,223265,4 W 21st St.,New York,NY,10010,New York,40.7375,-73.9813
+2254,115034,iPark NYC 183 E 73rd Street - Tesla Destination,New York,NY,10021,New York,40.7685,-73.9588
+2256,115181,The Peninsula Hotel New York - Tesla Destination,New York,NY,10019,New York,40.7651,-73.9858
+2258,122592,INDUSTRY CITY LOT B WEST,Brooklyn,NY,11232,Kings,40.6521,-74.0018
+2261,115097,Icon Parking E 48th Street - Tesla Destination,New York,NY,10017,New York,40.7517,-73.9707
+2269,115056,Parkit 221 Thompson Street - Tesla Destination,New York,NY,10012,New York,40.7255,-73.9983
+2281,184949,NYC FLEET DPROCBRZAC_1_L3,South Beach,NY,10305,Richmond,40.5973,-74.0768
+2283,115065,iPark 245 East 63rd Street - Tesla Destination,New York,NY,10025,New York,40.7975,-73.9683
+2284,115172,Champion Parking 60 E 8th - Tesla Destination,New York,NY,10003,New York,40.7313,-73.9892
+2287,173506,WCS NS1 ASIA,Bronx,NY,10460,Bronx,40.8409,-73.8794
+2288,223266,210 W 76th St.,New York,NY,10023,New York,40.7764,-73.9827
+2291,220702,T.J. Maxx,Staten Island,NY,10306,Richmond,40.5682,-74.1184
+2292,223089,Rapid Park - 205 W 101 st,New York,NY,10025,New York,40.7975,-73.9683
+2305,164442,Manhattan Plaza,New York,NY,10036,New York,40.7597,-73.9918
+2307,213916,Eventi Hotel,New York,NY,10001,New York,40.7484,-73.9967
+2310,115139,Quik Park 86th St. LLC - Tesla Destination,New York,NY,10028,New York,40.7763,-73.9529
+2311,150531,East West Tower Garage - Tesla Destination,Flushing,NY,11354,Queens,40.7667,-73.8241
+2312,223240,301 E. 79th St.,New York,NY,10075,New York,40.7143,-74.006
+2319,207730,1 WATERLINE STATION#3,New York,NY,10069,New York,40.778,-73.9884
+2332,122481,Sylvan Kissena Garage LLC - Tesla Destination,Flushing,NY,11355,Queens,40.7536,-73.8226
+2339,116809,Queens Center - Tesla Supercharger,Queens,NY,11373,Queens,40.7351,-73.8776
+2342,180140,PANYNJ LGA WEST 5,Flushing,NY,11371,Queens,40.7721,-73.8735
+2353,115198,Icon Parking 990 Ave of the Americas - Tesla Destination,New York,NY,10018,New York,40.7547,-73.9925
+2389,114904,Quik Park Brooklyn Bridge LLC - Tesla Destination,Brooklyn,NY,11201,Kings,40.694,-73.9903
+2391,115039,Icon Parking 200 E 32nd Street - Tesla Destination,New York,NY,10016,New York,40.7443,-73.9781
+2392,115167,Champion Parking 90 LLC - Tesla Destination,New York,NY,10028,New York,40.7763,-73.9529
+2394,115193,Quik Park West 57 LLC - Tesla Destination,New York,NY,10019,New York,40.7651,-73.9858
+2399,233091,10 East 30th St,New York,NY,10016,New York,40.7443,-73.9781
+2403,115092,Icon Parking 322 23rd Street - Tesla Destination,New York,NY,10010,New York,40.7375,-73.9813
+2407,149312,The Shops at Atlas Park - Tesla Supercharger,Glendale,NY,11385,Queens,40.7036,-73.8961
+2409,147470,PANYNJ JFK Y GARAGE 4,Queens,NY,11430,Queens,40.6472,-73.7827
+2423,115059,Quik Park Broadway Garage LLC - Tesla Destination,New York,NY,10019,New York,40.7651,-73.9858
+2424,94830,Jerome 190th Street Municipal Parking,Bronx,NY,10468,Bronx,40.8662,-73.9003
+2429,223116,906 Union St,Brooklyn,NY,11215,Kings,40.6669,-73.9828
+2433,115043,iPark NYC The Carnegie Garage - Tesla Destination,New York,NY,10128,New York,40.7816,-73.9511
+2447,115152,MPG 530 West 30th - Tesla Destination,New York,NY,10001,New York,40.7484,-73.9967
+2448,150585,"Sylvan Parking 23-25 31st St, Astoria - Tesla Destination",Astoria,NY,11105,Queens,40.7763,-73.911
+2450,115134,iPark NYC 425 E 58th Street - Tesla Destination,New York,NY,10022,New York,40.7571,-73.9657
+2456,115077,Icon Parking 279 East 65th Street - Tesla Destination,New York,NY,10065,New York,40.7651,-73.9638
+2469,202165,352 8th St,Brooklyn,NY,11215,Kings,40.6669,-73.9828
+2474,150502,iPark NYC 555 West Garage Corp. - Tesla Destination,New York,NY,10011,New York,40.7402,-73.9996
+2476,115119,Icon Parking 40 W 26th Street - Tesla Destination,New York,NY,10010,New York,40.7375,-73.9813
+2478,115177,Icon Parking University 10 Parking - Tesla Destination,New York,NY,10003,New York,40.7313,-73.9892
+2480,115090,Waldorf Astoria New York - Tesla Destination,New York,NY,10022,New York,40.7571,-73.9657
+2493,223392,Lincoln Square Garage,New York,NY,10023,New York,40.7764,-73.9827
+2501,166368,Staten Island University Hospital (North Side 475 Seaview Ave.),Staten Island,NY,10305,Richmond,40.5973,-74.0768
+2508,229921,DSL Marketing and Energy Icon Parking,New York,NY,10019,New York,40.7651,-73.9858
+2510,196564,NYC FLEET DCASCSTHSE_1_L3,Middle Village,NY,11379,Queens,40.7173,-73.8792
+2511,169014,Parkit 200 West End Ave - Tesla Destination,New York,NY,10023,New York,40.7764,-73.9827
+2526,222579,160 W 84th St,Manhattan,NY,10024,New York,40.7864,-73.9764
+2531,115186,Icon Parking 70 Gold Street - Tesla Destination,New York,NY,10038,New York,40.7101,-74.0013
+2533,122477,MTP Parking 568 Union Ave - Tesla Destination,Brooklyn,NY,11211,Kings,40.7095,-73.9563
+2538,166325,GMC 400 East 56th Street,New York,NY,10022,New York,40.7571,-73.9657
+2542,115112,Icon 376 Greenwich Street - Tesla Destination,New York,NY,10013,New York,40.7185,-74.0025
+2544,200627,Highrise Parking,New York,NY,10023,New York,40.7764,-73.9827
+2545,194170,101 E 78th St,New York,NY,10075,New York,40.7143,-74.006
+2548,114909,City Parking Linc Garage - Tesla Destination,Brooklyn,NY,11249,Kings,40.6451,-73.945
+2563,114893,iPark 22/34 N 6th Garage Corp - Tesla Destination,Brooklyn,NY,11211,Kings,40.7095,-73.9563
+2570,102334,Mott Street Parking - Tesla Supercharger,New York,NY,10013,New York,40.7185,-74.0025
+2574,225677,92746 CHARGEPOINT 2,New York,NY,10065,New York,40.7651,-73.9638
+2576,114983,MPG 10 E 102nd Street - Tesla Destination,New York,NY,10029,New York,40.7918,-73.9447
+2577,225481,ARCHER GREEN MI STATION 3,JAMAICA,NY,11433,Queens,40.6969,-73.7877
+2588,114994,Icon Parking 101 West End Ave - Tesla Destination,New York,NY,10023,New York,40.7764,-73.9827
+2596,171476,SKYVIEW APARTME SKYVIEW ST1,Riverdale,NY,10471,Bronx,40.9011,-73.9053
+2599,115011,New York Hilton Midtown - Tesla Destination,New York,NY,10019,New York,40.7651,-73.9858
+2624,205859,LIN-DAN MORTY,New York,NY,10010,New York,40.7375,-73.9813
+2626,225118,535 Carlton Ave,Brooklyn,NY,11238,Kings,40.679,-73.9644
+2627,115164,Parkit 575 Washington - Tesla Destination,New York,NY,10014,New York,40.7339,-74.0054
+2632,150541,Bruno's Bakery and Restaurant - Tesla Destination,Staten Island,NY,10310,Richmond,40.6324,-74.1171
+2637,206914,BORO PARK BORO CHARGE 9,Borough Park,NY,11219,Kings,40.6336,-73.996
+2638,190107,GMC Parking Garage - 200 Central,New York,NY,10019,New York,40.7651,-73.9858
+2639,115026,Icon Parking 16 W 16th Street - Tesla Destination,New York,NY,10011,New York,40.7402,-73.9996
+2640,115105,iPark NYC 345 East Garage - Tesla Destination,New York,NY,10075,New York,40.7143,-74.006
+2646,150583,IPark 99 3rd Avenue - Tesla Destination,Brooklyn,NY,11217,Kings,40.6816,-73.9798
+2647,233053,LGA Air Park Long Term Parking,East Elmhurst,NY,11369,Queens,40.7613,-73.8739
+2650,195667,33 Norman Ave,Brooklyn,NY,11222,Kings,40.7272,-73.9498
+2656,115073,MPG 266 E 97 St - Tesla Destination,New York,NY,10021,New York,40.7685,-73.9588
+2658,193980,iPark - Enterprise Parking,New York,NY,10016,New York,40.7443,-73.9781
+2660,194647,99 Prospect Park W,Brooklyn,NY,11215,Kings,40.6669,-73.9828
+2661,162285,PANYNJ LGA WEST 1,Flushing,NY,11371,Queens,40.7721,-73.8735
+2675,114937,Hampton Inn LaGuardia Airport - Tesla Destination,East Elmhurst,NY,11369,Queens,40.7613,-73.8739
+2682,115144,GGMC Parking 50 E 79th St Garage - Tesla Destination,New York,NY,10075,New York,40.7143,-74.006
+2683,216618,125 W 76th Street,New York,NY,10023,New York,40.7764,-73.9827
+2684,168885,iPark 314 W 120th Street - Tesla Destination,New York,NY,10026,New York,40.8019,-73.9531
+2689,115131,Sutton Place North Garage - Tesla Destination,New York,NY,10022,New York,40.7571,-73.9657
+2697,207888,1 WATERLINE STATION#4,New York,NY,10069,New York,40.778,-73.9884
+2712,114889,Standard Parking 1360 Fulton Street - Tesla Destination,Brooklyn,NY,11216,Kings,40.6794,-73.9496
+2725,115040,Icon Parking 200 E 65th Street - Tesla Destination,New York,NY,10021,New York,40.7685,-73.9588
+2726,114905,Rapidpark 44 State Street - Tesla Destination,Brooklyn,NY,11201,Kings,40.694,-73.9903
+2735,198016,277 Park Avenue,New York,NY,10172,New York,40.7558,-73.9753
+2736,115025,Champion Parking W 53rd Street - Tesla Destination,New York,NY,10019,New York,40.7651,-73.9858
+2738,115003,iPark 1510 Lex Garage Corp. - Tesla Destination,New York,NY,10029,New York,40.7918,-73.9447
+2747,64140,Dana Ford Lincoln,Staten Island,NY,10314,Richmond,40.6039,-74.1472
+2751,166729,Staten Island Mall,Staten Island,NY,10314,Richmond,40.6039,-74.1472
+2760,114998,Icon Parking 11 5th Ave - Tesla Destination,New York,NY,10003,New York,40.7313,-73.9892
+2766,162472,MP 102 LLC MP 102 LLC,New York,NY,10029,New York,40.7918,-73.9447
+2771,115015,Icon Parking OMNI - Tesla Destination,New York,NY,10023,New York,40.7764,-73.9827
+2773,124146,Central Parking - 58 West 58th St,New York,NY,10019,New York,40.7651,-73.9858
+2778,224171,Court Square Municipal Parking Garage,Long Island,NY,11101,Queens,40.7446,-73.9345
+2787,115160,GGMC Parking - 550 W 25th - Tesla Destination,New York,NY,10001,New York,40.7484,-73.9967
+2792,168556,551W21 SR Capital - Tesla Destination,New York,NY,10011,New York,40.7402,-73.9996
+2797,114916,Rapidpark 906 Union Street - Tesla Destination,Brooklyn,NY,11215,Kings,40.6669,-73.9828
+2799,95270,iPark - Paradise Garage,Rego Park,NY,11374,Queens,40.7278,-73.8602
+2803,150572,Icon Parking 175 W 90th Street - Tesla Destination,Manhattan,NY,10024,New York,40.7864,-73.9764
+2813,202930,419 Stuyvesant Ave,Brooklyn,NY,11233,Kings,40.6784,-73.9211
+2814,194919,EVolve NY JFK Airport,Queens,NY,11430,Queens,40.6472,-73.7827
+2815,115101,iPark NYC 333 E 38th NYU - Tesla Destination,New York,NY,10016,New York,40.7443,-73.9781
+2818,44327,Bay Ridge Nissan,Brooklyn,NY,11220,Kings,40.6412,-74.0133
+2823,115030,Icon Parking 169 W 95th Street - Tesla Destination,New York,NY,10025,New York,40.7975,-73.9683
+2829,223269,333 E 75th St.,New York,NY,10021,New York,40.7685,-73.9588
+2832,115069,Quik Park Columbia Garage LLC - Tesla Destination,New York,NY,10025,New York,40.7975,-73.9683
+2844,114993,iPark NYC 88th Street Garage - Tesla Destination,New York,NY,10024,New York,40.7864,-73.9764
+2858,169880,STATION 4TH FL MOTORGATE #1,New York,NY,10044,New York,40.7618,-73.9505
+2860,115127,GGMC Parking 415 E 79th - Tesla Destination,New York,NY,10075,New York,40.7143,-74.006
+2863,122473,iPark 34 N 7th Street - Tesla Destination,Brooklyn,NY,11249,Kings,40.6451,-73.945
+2871,164751,Carnegie Hill,New York,NY,10128,New York,40.7816,-73.9511
+2882,150582,IPark 255 Schermerhorn - Tesla Destination,Brooklyn,NY,11217,Kings,40.6816,-73.9798
+2883,115008,Rapidpark 124 W 20th Street - Tesla Destination,New York,NY,10011,New York,40.7402,-73.9996
+2886,114988,GGMC Parking Union Square Parking Garage - Tesla Destination,New York,NY,10003,New York,40.7313,-73.9892
+2895,153417,Queens Crossing - Tesla Supercharger,Flushing,NY,11354,Queens,40.7667,-73.8241
+2897,193925,35-1 38th St,Long Island City,NY,11101,Queens,40.7446,-73.9345
+2898,225480,ARCHER GREEN MI STATION 2,Jamaica,NY,11433,Queens,40.6969,-73.7877
+2900,223297,231 E 94th Street,New York,NY,10128,New York,40.7816,-73.9511
+2901,115058,Icon Parking 225 W 83 Street - Tesla Destination,New York,NY,10024,New York,40.7864,-73.9764
+2906,162165,MASPETH FEDERAL MASPETH 1,Maspeth,NY,11378,Queens,40.7239,-73.8997
+2911,211962,WATERLINE 2W STATION 2,New York,NY,10069,New York,40.778,-73.9884
+2913,115171,"MTP Parking, The Helena - Tesla Destination",New York,NY,10019,New York,40.7651,-73.9858
+2915,115020,Rapidpark 150 East 77th Street - Tesla Destination,New York,NY,10021,New York,40.7685,-73.9588
+2916,229922,King's County Parking,Brooklyn,NY,11203,Kings,40.6505,-73.9349
+2926,115194,GGMC Parking Stewart House Garage - Tesla Destination,New York,NY,10003,New York,40.7313,-73.9892
+2931,115123,Propark 401 W 110th Street - Tesla Destination,New York,NY,10025,New York,40.7975,-73.9683
+2937,115052,Champion Parking 74 LLC - Tesla Destination,New York,NY,10023,New York,40.7764,-73.9827
+2939,150532,333 Schermerhorn Garage - The Hub - Tesla Destination,Brooklyn,NY,11217,Kings,40.6816,-73.9798
+2947,185709,1510 Lex Garage,Manhattan,NY,10029,New York,40.7918,-73.9447
+2950,147009,Glenwood Management - Paramount Garage,New York,NY,10016,New York,40.7443,-73.9781
+2961,230783,Brooklyn Renaissance Plaza,Brooklyn,NY,11201,Kings,40.694,-73.9903
+2963,104341,WCS NS1 BOSTON RD,Bronx,NY,10460,Bronx,40.8409,-73.8794
+2964,185142,NYC FLEET DPROCBRZAC_2_L3,South Beach,NY,10305,Richmond,40.5973,-74.0768
+2968,223264,337 E 64th St.,New York,NY,10065,New York,40.7651,-73.9638
+2969,115035,Icon Parking 240 East Broadway - Tesla Destination,New York,NY,10002,New York,40.7152,-73.9877
+2976,115096,GGMC Parking 8 E 33rd St Garage - Tesla Destination,New York,NY,10016,New York,40.7443,-73.9781
+2986,223486,Kissena Garage,Flushing,NY,11355,Queens,40.7536,-73.8226
+2987,114912,Standard Parking 200 Cadman Plaza West - Tesla Destination,Brooklyn,NY,11221,Kings,40.6907,-73.9274
+2988,115081,Icon Parking 30 W 63rd St - Tesla Destination,New York,NY,10023,New York,40.7764,-73.9827
+2997,115063,Icon 299 Peal Street Seaport Parking - Tesla Destination,New York,NY,10069,New York,40.778,-73.9884
+3000,150624,3050 Corlear Ave - Nagle Parking Inc. - Tesla Destination,Bronx,NY,10463,Bronx,40.8798,-73.9067
+3006,150600,4545 Center Blvd-TF Cornerstone LIC - Tesla Destination,Long Island City,NY,11109,Queens,40.7454,-73.9575
+3010,150577,MPG Parking 98-41 Queens Blvd - Tesla Destination,Rego Park,NY,11374,Queens,40.7278,-73.8602
+3018,114898,iPark NYC 2234 North 6th - Tesla Destination,Brooklyn,NY,11249,Kings,40.6451,-73.945
+3020,169223,"Trump Golf Links, Ferry Point - Tesla Destination",Bronx,NY,10465,Bronx,40.8261,-73.8196
+3024,115138,iPark NYC 44 Elizabeth Street - Tesla Destination,New York,NY,10013,New York,40.7185,-74.0025
+3032,212485,Stop & Shop #566 - Arverne By-the-sea,Queens,NY,11692,Queens,40.5923,-73.7933
+3038,115156,Loews Regency New York - Tesla Destination,New York,NY,10065,New York,40.7651,-73.9638
+3042,181663,HAMPTON INN STATION 3,Staten Island,NY,10314,Richmond,40.6039,-74.1472
+3051,115086,Icon Parking 301 E 57 Street - Tesla Destination,New York,NY,10022,New York,40.7571,-73.9657
+3053,228330,Walgreens,Brooklyn,NY,11215,Kings,40.6669,-73.9828
+3057,169008,Park Kwik - 110 Livingston - Tesla Destination,Brooklyn,NY,11201,Kings,40.694,-73.9903
+3062,115190,Chelnik Parking NYC 880 5th - Tesla Destination,New York,NY,10021,New York,40.7685,-73.9588
+3066,115091,Quik Park 311 West Broadway LLC - Tesla Destination,New York,NY,10013,New York,40.7185,-74.0025
+3067,115047,Rapidpark 204 W 101st Street - Tesla Destination,New York,NY,10025,New York,40.7975,-73.9683
+3077,49938,Nissan of Queens,Ozone Park,NY,11417,Queens,40.6769,-73.8448
+3080,168146,HAMPTON INN STATION 1,Staten Island,NY,10314,Richmond,40.6039,-74.1472
