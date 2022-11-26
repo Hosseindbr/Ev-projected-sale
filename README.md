@@ -74,7 +74,7 @@ A Slack channel was created to support communication amongst the team members, a
 
 The total number of EVs registered in NYS per year is:
 
-<img src="https://github.com/Hosseindbr/Ev-projected-sale/blob/ea5ff7fe4dccb19b708f3c58b28a530580375035/Images/reg_year_counts.png" width="220" height="345">
+<img src="https://github.com/Hosseindbr/Ev-projected-sale/blob/ea5ff7fe4dccb19b708f3c58b28a530580375035/Images/reg_year_counts.png" width="200" height="302">
 
 
 
@@ -92,14 +92,14 @@ The total number of EVs registered in NYS per year is:
 Top 10 cities with the largest total number of EVs in NYS from 2015 to 2021:
 
 
-<img src="https://github.com/Hosseindbr/Ev-projected-sale/blob/ea5ff7fe4dccb19b708f3c58b28a530580375035/Images/top_10_cities.png" width="300" height="400">
+<img src="https://github.com/Hosseindbr/Ev-projected-sale/blob/ea5ff7fe4dccb19b708f3c58b28a530580375035/Images/top_10_cities.png" width="217" height="305">
 
 
 
 ![EV_Count_by_City.png](Images/EV_Count_by_City.png)
 
 
-> As we can see, **Brooklyn** (10075), **New York** (3017), and **Staten Island** (1207) were the top 3 cities with the largest total number of EVs in NYS from 2015 to 2021.
+> As we can see, **Brooklyn** (9738), **New York** (2781), and **Staten Island** (1121) were the top 3 cities with the largest total number of EVs in NYS from 2015 to 2021.
 
 
 
@@ -124,7 +124,7 @@ One of the most important parts in the EV sales analysis is the popularity of el
 
 The top 10 counties selescted:
 
-<img src="https://github.com/Hosseindbr/Ev-projected-sale/blob/ea5ff7fe4dccb19b708f3c58b28a530580375035/Images/top_10_counties.png" width="300" height="400">
+<img src="https://github.com/Hosseindbr/Ev-projected-sale/blob/ea5ff7fe4dccb19b708f3c58b28a530580375035/Images/top_10_counties.png" width="216" height="303">
 
 
 
@@ -370,12 +370,12 @@ The electric vehicle counts in each county have been increasing exponentially fo
 ### Features 
 
 
-#### *ZIP Code*
+- *ZIP Code*
 
 ZIP code is a categorical variable that we would like to use as one of our features. One hot encoding is used to convert ZIP codes so they can be provided to machine learning algorithms later. 
 
 
-#### *Temperature*
+- *Temperature*
 
 One of the features that we are considering is the average temperature in NYS over years. The figure below shows the annual average temperatures in NYS from 2015 to 2022:
 
@@ -383,12 +383,11 @@ One of the features that we are considering is the average temperature in NYS ov
 
 
 
-#### *Income*
+- *Income*
 
 Average annual income for households in NYS is another features that we are considering. The comparison of average annual income in NYS and U.S. is demonstrated below:
 
-NYS_US_annual_income
-<img src="" width="300" height="243">
+<img src="https://github.com/Hosseindbr/Ev-projected-sale/blob/08279dbfa03e67c67db891c56af7d21b68072fd2/Images/NYS_US_annual_income.png" width="300" height="243">
 
 
 ![Average_Income_comparison_NYS_US](Images/Average_Income_comparison_NYS_US.png)
@@ -396,7 +395,7 @@ NYS_US_annual_income
 > Overall, the average household income is increasing in both NYS and U.S. And the average income in NYS is about 6-7% higher than than in U.S..
 
 
-Constructing  Matrix of Features and  Vector of Labels
+
 
 ### Model Training 
 
@@ -412,7 +411,7 @@ First, we need to split the dataset in to train and test subsets. For our datase
 We preliminarily hypothesize that the EV adoption numbers follow a linear pattern with respect to our features, so we will fit our data using a linear regression model. After training our model, we can predict EVs adoption numbers given the year, ZIP code, temperature, and income data of NYS. 
 
 
-- **Evaluate the Model**
+- Evaluate the Model
 
 To evaluate our model, we will take the the mean squared error of the prediction vs the true label. First, we recovered the zip code labels from the dataframe. Then, we evaluated how well we trained our model onto our dataset by using our linear model to predict over each ZIP code of the **training data**, and calculatting the mean squared error between the prediction and the true result:
 
@@ -425,7 +424,7 @@ Next, we will evaluate how well our model predict future outcomes by predicting 
 
 
 
-- **Modify the Model**
+- Modify the Model
 
 We can see from our histogram of mean squared errors that our linear model does not generalize very well for a handful of ZIP codes. This is likely due to the sparsity or perhaps the general lack of the data for those particular ZIP codes. To improve this model, we need to remove the outlier ZIP codes from our dataset and only focus on the ZIP codes that our model can perform decently on. 
 
@@ -447,21 +446,21 @@ In addition, after doing a bit more research we realized that ARIMA would not be
 
 To predict the next 30 years, we need to generate data for temperature and income in New York state based on some hypotheses.
 
-- **NYS Temperature Data (2020-2050)**
+- NYS Temperature Data (2020-2050)
 
 Below we hypothesize that NY state temperature follows a linear pattern, and thus we will generate data based on a linear model. We will also add Gaussian noise based on the standard deviation of the known temperatures.
 
 ![NYS_temperature_2020_2050](Images/NYS_temperature_2020_2050.png)
 
 
-- **NYS Income Data (2020-2050)**
+- NYS Income Data (2020-2050)
 
 Below we hypothesize that NY state income follows a linear pattern, and thus we will generate data based on a linear model. We will also add Gaussian noise based on the standard deviation of the known income.
 
 ![NYS_income_2020_2050](Images/NYS_income_2020_2050.png)
 
 
-- **Create Future Matrix to Predict On**
+- Create Future Matrix to Predict On
 
 Next, we made prediction using the future matrix, which is based on the future data that we have generated.
 
@@ -500,14 +499,14 @@ We explored the electrical production and electrical usage (MWh) of NYS, and we 
 
 Since we have the energy generation and consumption numbers per year, we can merge the tables together and calculate the average surplus per year:
 
-<img src="" width="200" height="316">
-#![average_energy_surplus](Images/average_energy_surplus.png)
+<img src="https://github.com/Hosseindbr/Ev-projected-sale/blob/08279dbfa03e67c67db891c56af7d21b68072fd2/Images/average_energy_surplus.png" width="200" height="316">
+
 
 We can also calculate the average energy surplus per ZIP code. To do so, we loaded a current New York state population by ZIP code file, and then computed the proportion of the population in each ZIP code.
 
 
-<img src="" width="529" height="363">
-#![average_energy_surplus](Images/average_energy_surplus_per_zip_code.png)
+<img src="https://github.com/Hosseindbr/Ev-projected-sale/blob/08279dbfa03e67c67db891c56af7d21b68072fd2/Images/average_energy_surplus_per_ZIP_code.png" width="529" height="363">
+
 
 
 
