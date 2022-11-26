@@ -1,61 +1,28 @@
--- NYS_EV_Registrations table
-CREATE TABLE NYS_EV_Registrations (
-	Reg_Valid_Date DATE NOT NULL,
-    VIN VARCHAR(15) NOT NULL,
-    Zip_Code INT NOT NULL,
-	City VARCHAR (30) NOT NULL,
-	County VARCHAR (30) NOT NULL,
-	Model VARCHAR (20) NOT NULL,
-	Model_Year INT NOT NULL,
-	Registration_Year INT NOT NULL,
-     PRIMARY KEY (Zip_Code),
-     UNIQUE (VIN)
-);
--- NYS_EV_Charging_Stations table
-CREATE TABLE NYS_EV_Charging_Stations (
-	Zip_Code INT NOT NULL,
-	City VARCHAR (30) NOT NULL,
-	County VARCHAR (30) NOT NULL,
-	Id INT,
-	Charger_Count INT,
-	PRIMARY KEY (Id)
-);
+SELECT * FROM demographic_database_ev_stations
+SELECT * FROM income_and_population
+SELECT * FROM nys_annual_energy_generation_and_sales
+SELECT * FROM new_york_registrations
+select * from ny_state_annual_temperature
+select * from ny_state_daily_temperature_2015_2021
 
--- Temperature of NY state table
-CREATE TABLE Temperature_in_NYS (
-	City VARCHAR (30) NOT NULL,
-	County VARCHAR (30) NOT NULL,
-	Measurement_Date Date NOT NULL,
-	Temperature float(1) NOT NULL,
-	Anomaly float (2) NOT NULL,
-	
-	PRIMARY KEY (City)
-);
+public.daily_reg_and_temperature
 
--- Average Income
+-- merge of energy generations and sales and temperature montly
+SELECT * 
+INTO energy_sales_and_temperature
+FROM ny_state_annual_temperature
+ FULL JOIN nys_annual_energy_generation_and_sales ON ny_state_annual_temperature."Year_" = nys_annual_energy_generation_and_sales."YEAR_"
 
-CREATE TABLE ncome_And_Population_for_NYS (
-	City VARCHAR (30) NOT NULL,
-	County VARCHAR (30) NOT NULL,
-	Population INT NOT NULL,
-	Year INT NOT NULL,
-	Income_US INT NOT NULL,
-	Income_NYS INT NOT NULL,
-	PRIMARY KEY (City)
-);
+-- merge of registrations  and temperatures daily
+SELECT * 
+INTO daily_reg_and_temperature
+FROM ny_state_daily_temperature_2015_2021
+ FULL JOIN new_york_registrations ON ny_state_daily_temperature_2015_2021."Measurement_date" = new_york_registrations."Reg_Valid_Date"
 
 
--- Joining NYS_EV_Charging_Stations and NYS_EV_Registrations
 
-SELECT s.County, s.Charger_Count, 
-	r.Reg_Valid_Date,
-    r.Zip_Code, 
-	r.City,
-	r.County,
-	r.Registration_Year
-FROM NYS_EV_Charging_Stations as s
-RIGHT JOIN NYS_EV_Registrations as r
-ON s.Zip_Code = r.Zip_Code;
+
+
 
 
 
