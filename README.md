@@ -74,7 +74,7 @@ A Slack channel was created to support communication amongst the team members, a
 
 The total number of EVs registered in NYS per year is:
 
-<img src="https://github.com/Hosseindbr/Ev-projected-sale/blob/ea5ff7fe4dccb19b708f3c58b28a530580375035/Images/reg_year_counts.png" width="200" height="302">
+<img src="https://github.com/Hosseindbr/Ev-projected-sale/blob/ea5ff7fe4dccb19b708f3c58b28a530580375035/Images/reg_year_counts.png" width="148" height="224">
 
 
 
@@ -252,7 +252,7 @@ In order to validate the performance of this model, we splitted the data into tw
 
 To get a model which can accurately predict future data in a series, we used auto-ARIMA to optimize the p,d,q values for each county and the validation of the models. The best parameters (based on the AIC score) were (1,1,2) without the seasonal component. Then, we plugged these into a SARIMAX model to have our final model. We could validate it by looking at the forecasts and the test set. Below is the result after plug these into a SARIMAX model:
 
-<img src="https://github.com/Hosseindbr/Ev-projected-sale/blob/ea5ff7fe4dccb19b708f3c58b28a530580375035/Images/SARIMAX_results_kings.png" width="600" height="681">
+<img src="https://github.com/Hosseindbr/Ev-projected-sale/blob/ea5ff7fe4dccb19b708f3c58b28a530580375035/Images/SARIMAX_results_kings.png" width="474" height="570">
 
 
 Let’s have a look at the residual information below.The residuals are almost fairly close to being normally distributed. We can accept this as the best model and move onto making and plotting predictions.
@@ -387,7 +387,7 @@ One of the features that we are considering is the average temperature in NYS ov
 
 Average annual income for households in NYS is another features that we are considering. The comparison of average annual income in NYS and U.S. is demonstrated below:
 
-<img src="https://github.com/Hosseindbr/Ev-projected-sale/blob/08279dbfa03e67c67db891c56af7d21b68072fd2/Images/NYS_US_annual_income.png" width="300" height="243">
+<img src="https://github.com/Hosseindbr/Ev-projected-sale/blob/08279dbfa03e67c67db891c56af7d21b68072fd2/Images/NYS_US_annual_income.png" width="203" height="165">
 
 
 ![Average_Income_comparison_NYS_US](Images/Average_Income_comparison_NYS_US.png)
@@ -499,7 +499,7 @@ We explored the electrical production and electrical usage (MWh) of NYS, and we 
 
 Since we have the energy generation and consumption numbers per year, we can merge the tables together and calculate the average surplus per year:
 
-<img src="https://github.com/Hosseindbr/Ev-projected-sale/blob/08279dbfa03e67c67db891c56af7d21b68072fd2/Images/average_energy_surplus.png" width="200" height="316">
+<img src="https://github.com/Hosseindbr/Ev-projected-sale/blob/08279dbfa03e67c67db891c56af7d21b68072fd2/Images/average_energy_surplus.png" width="162" height="256">
 
 
 We can also calculate the average energy surplus per ZIP code. To do so, we loaded a current New York state population by ZIP code file, and then computed the proportion of the population in each ZIP code.
