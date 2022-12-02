@@ -500,13 +500,13 @@ We explored the electrical production and electrical usage (MWh) of NYS, and we 
 
 Since we have the energy generation and consumption numbers per year, we can merge the tables together and calculate the average surplus per year:
 
-<img src="https://github.com/Hosseindbr/Ev-projected-sale/blob/08279dbfa03e67c67db891c56af7d21b68072fd2/Images/average_energy_surplus.png" width="162" height="256">
+<img src="https://github.com/Hosseindbr/Ev-projected-sale/blob/e89c5b3191f0330e76849d212f1e01e153b80d4d/Images/average_energy_surplus.png" width="162" height="256">
 
 
 We can also calculate the average energy surplus per ZIP code. To do so, we loaded a current New York state population by ZIP code file, and then computed the proportion of the population in each ZIP code.
 
 
-<img src="https://github.com/Hosseindbr/Ev-projected-sale/blob/08279dbfa03e67c67db891c56af7d21b68072fd2/Images/average_energy_surplus_per_ZIP_code.png" width="529" height="363">
+<img src="https://github.com/Hosseindbr/Ev-projected-sale/blob/e89c5b3191f0330e76849d212f1e01e153b80d4d/Images/average_energy_surplus_per_ZIP_code.png" width="529" height="363">
 
 
 
