@@ -1,0 +1,363 @@
+,YEAR,STATE,TYPE OF PRODUCER,ENERGY SOURCE,GENERATION (Megawatthours),Proportion of Energy in Year
+0,1990,NY,Total Electric Power Industry,Total,1353456920,1.0
+1,1990,NY,Total Electric Power Industry,Coal,259130470,0.1914582327452284
+2,1990,NY,Total Electric Power Industry,Hydroelectric Conventional,281882220,0.2082683355743602
+3,1990,NY,Total Electric Power Industry,Natural Gas,227243350,0.1678984728970908
+4,1990,NY,Total Electric Power Industry,Nuclear,236233560,0.17454087862656167
+5,1990,NY,Total Electric Power Industry,Other Biomass,15689790,0.011592382268066574
+6,1990,NY,Total Electric Power Industry,Other Gases,890340,0.0006578266266502224
+7,1990,NY,Total Electric Power Industry,Petroleum,338848550,0.25035783924323207
+8,1990,NY,Total Electric Power Industry,Pumped Storage,-10540950,-0.007788168093299933
+9,1990,NY,Total Electric Power Industry,Wood and Wood Derived Fuels,4079590,0.003014200112109959
+10,1991,NY,Total Electric Power Industry,Total,1346004990,1.0
+11,1991,NY,Total Electric Power Industry,Coal,266599510,0.19806725233611505
+12,1991,NY,Total Electric Power Industry,Hydroelectric Conventional,271721200,0.20187235710025117
+13,1991,NY,Total Electric Power Industry,Natural Gas,230740270,0.17142601380697706
+14,1991,NY,Total Electric Power Industry,Nuclear,284482930,0.21135354780519797
+15,1991,NY,Total Electric Power Industry,Other Biomass,16603640,0.01233549661654672
+16,1991,NY,Total Electric Power Industry,Other Gases,515200,0.0003827623254205023
+17,1991,NY,Total Electric Power Industry,Petroleum,282205550,0.20966159271073728
+18,1991,NY,Total Electric Power Industry,Pumped Storage,-10072690,-0.007483397219797826
+19,1991,NY,Total Electric Power Industry,Wood and Wood Derived Fuels,3209380,0.002384374518552119
+20,1992,NY,Total Electric Power Industry,Total,1259489240,1.0
+21,1992,NY,Total Electric Power Industry,Coal,272797030,0.21659337875724924
+22,1992,NY,Total Electric Power Industry,Hydroelectric Conventional,280566470,0.22276210156428172
+23,1992,NY,Total Electric Power Industry,Natural Gas,268496970,0.21317924875642447
+24,1992,NY,Total Electric Power Industry,Nuclear,241549320,0.19178355187853768
+25,1992,NY,Total Electric Power Industry,Other Biomass,17384850,0.013803095292818857
+26,1992,NY,Total Electric Power Industry,Other Gases,919850,0.0007303357351429219
+27,1992,NY,Total Electric Power Industry,Petroleum,183192580,0.14544989681690335
+28,1992,NY,Total Electric Power Industry,Pumped Storage,-10316450,-0.008190979067038319
+29,1992,NY,Total Electric Power Industry,Wood and Wood Derived Fuels,4898620,0.0038893702656800783
+30,1993,NY,Total Electric Power Industry,Total,1242210310,1.0
+31,1993,NY,Total Electric Power Industry,Coal,245019660,0.19724490935838393
+32,1993,NY,Total Electric Power Industry,Hydroelectric Conventional,294432960,0.23702343929185388
+33,1993,NY,Total Electric Power Industry,Natural Gas,270752670,0.2179604112285946
+34,1993,NY,Total Electric Power Industry,Nuclear,268892610,0.21646303193216937
+35,1993,NY,Total Electric Power Industry,Other Biomass,17249630,0.013886239601408557
+36,1993,NY,Total Electric Power Industry,Other Gases,909800,0.0007324041610957166
+37,1993,NY,Total Electric Power Industry,Petroleum,150729650,0.12133988004011978
+38,1993,NY,Total Electric Power Industry,Pumped Storage,-11357020,-0.00914259035573453
+39,1993,NY,Total Electric Power Industry,Wood and Wood Derived Fuels,5580350,0.004492274742108685
+40,1994,NY,Total Electric Power Industry,Total,1260295720,1.0
+41,1994,NY,Total Electric Power Industry,Coal,232906560,0.18480310319549448
+42,1994,NY,Total Electric Power Industry,Hydroelectric Conventional,277912570,0.22051377751247145
+43,1994,NY,Total Electric Power Industry,Natural Gas,322299290,0.2557330671566511
+44,1994,NY,Total Electric Power Industry,Nuclear,292314340,0.23194107173513212
+45,1994,NY,Total Electric Power Industry,Other Biomass,19040680,0.015108104945401227
+46,1994,NY,Total Electric Power Industry,Other Gases,942060,0.0007474912316610898
+47,1994,NY,Total Electric Power Industry,Petroleum,120303780,0.0954567869198191
+48,1994,NY,Total Electric Power Industry,Pumped Storage,-11458440,-0.00909186615344532
+49,1994,NY,Total Electric Power Industry,Wood and Wood Derived Fuels,6034880,0.004788463456814723
+50,1995,NY,Total Electric Power Industry,Total,1334132810,1.0
+51,1995,NY,Total Electric Power Industry,Coal,222889130,0.16706667306982728
+52,1995,NY,Total Electric Power Industry,Hydroelectric Conventional,259931970,0.19483215467881343
+53,1995,NY,Total Electric Power Industry,Natural Gas,490565060,0.36770331733315215
+54,1995,NY,Total Electric Power Industry,Nuclear,263361720,0.19740292572521323
+55,1995,NY,Total Electric Power Industry,Other Biomass,19694400,0.0147619486248899
+56,1995,NY,Total Electric Power Industry,Other Gases,966730,0.0007246130166006486
+57,1995,NY,Total Electric Power Industry,Petroleum,82682900,0.061975014316603155
+58,1995,NY,Total Electric Power Industry,Pumped Storage,-11620130,-0.008709874993629758
+59,1995,NY,Total Electric Power Industry,Wood and Wood Derived Fuels,5661030,0.004243228228529961
+60,1996,NY,Total Electric Power Industry,Total,1357322490,1.0
+61,1996,NY,Total Electric Power Industry,Coal,226717890,0.16703317868106643
+62,1996,NY,Total Electric Power Industry,Hydroelectric Conventional,289512500,0.21329676781528906
+63,1996,NY,Total Electric Power Industry,Natural Gas,374493780,0.2759062660193599
+64,1996,NY,Total Electric Power Industry,Nuclear,352258060,0.2595242196274225
+65,1996,NY,Total Electric Power Industry,Other Biomass,21444880,0.015799399301193336
+66,1996,NY,Total Electric Power Industry,Other Gases,1057070,0.0007787906026665778
+67,1996,NY,Total Electric Power Industry,Petroleum,97165980,0.07158650999734043
+68,1996,NY,Total Electric Power Industry,Pumped Storage,-11459890,-0.008443011947735427
+69,1996,NY,Total Electric Power Industry,Wood and Wood Derived Fuels,6132220,0.004517879903397165
+70,1997,NY,Total Electric Power Industry,Total,1408316480,1.0
+71,1997,NY,Total Electric Power Industry,Coal,240587940,0.17083371771663142
+72,1997,NY,Total Electric Power Industry,Hydroelectric Conventional,306179950,0.2174084833545369
+73,1997,NY,Total Electric Power Industry,Natural Gas,462809160,0.32862582137787666
+74,1997,NY,Total Electric Power Industry,Nuclear,295696180,0.20996429722955454
+75,1997,NY,Total Electric Power Industry,Other Biomass,21072610,0.014962979059934028
+76,1997,NY,Total Electric Power Industry,Other Gases,1074110,0.0007626907838215455
+77,1997,NY,Total Electric Power Industry,Petroleum,85883760,0.06098328125791726
+78,1997,NY,Total Electric Power Industry,Pumped Storage,-10931530,-0.007762126024400425
+79,1997,NY,Total Electric Power Industry,Wood and Wood Derived Fuels,5944300,0.004220855244128081
+80,1998,NY,Total Electric Power Industry,Total,1448632480,1.0
+81,1998,NY,Total Electric Power Industry,Coal,252647800,0.17440434581447462
+82,1998,NY,Total Electric Power Industry,Hydroelectric Conventional,293157780,0.20236863666069396
+83,1998,NY,Total Electric Power Industry,Natural Gas,424715990,0.2931840862770107
+84,1998,NY,Total Electric Power Industry,Nuclear,313137080,0.2161604715641886
+85,1998,NY,Total Electric Power Industry,Other Biomass,21805460,0.015052444495790955
+86,1998,NY,Total Electric Power Industry,Other Gases,883130,0.000609630125095635
+87,1998,NY,Total Electric Power Industry,Petroleum,149007820,0.10286102379811338
+88,1998,NY,Total Electric Power Industry,Pumped Storage,-11576810,-0.007991543859350718
+89,1998,NY,Total Electric Power Industry,Wood and Wood Derived Fuels,4854230,0.0033509051239828612
+90,1999,NY,Total Electric Power Industry,Total,1462808660,1.0
+91,1999,NY,Total Electric Power Industry,Coal,233659420,0.15973341311774844
+92,1999,NY,Total Electric Power Industry,Hydroelectric Conventional,247523180,0.16921090691382698
+93,1999,NY,Total Electric Power Industry,Natural Gas,459991880,0.314457996167455
+94,1999,NY,Total Electric Power Industry,Nuclear,370185400,0.2530648130015856
+95,1999,NY,Total Electric Power Industry,Other Biomass,22577280,0.01543419902914712
+96,1999,NY,Total Electric Power Industry,Other Gases,1119540,0.000765335912080258
+97,1999,NY,Total Electric Power Industry,Petroleum,133041920,0.09094963930552612
+98,1999,NY,Total Electric Power Industry,Pumped Storage,-11090750,-0.007581818663829895
+99,1999,NY,Total Electric Power Industry,Wood and Wood Derived Fuels,5800790,0.003965515216460367
+100,2000,NY,Total Electric Power Industry,Total,1380790750,1.0
+101,2000,NY,Total Electric Power Industry,Coal,250095810,0.18112506185314467
+102,2000,NY,Total Electric Power Industry,Hydroelectric Conventional,249095720,0.18040077397679555
+103,2000,NY,Total Electric Power Industry,Natural Gas,397287090,0.28772432752754173
+104,2000,NY,Total Electric Power Industry,Nuclear,315079880,0.2281880002455115
+105,2000,NY,Total Electric Power Industry,Other Biomass,22316120,0.016161840597498207
+106,2000,NY,Total Electric Power Industry,Other Gases,862010,0.0006242872064431196
+107,2000,NY,Total Electric Power Industry,Petroleum,149451790,0.10823637832162476
+108,2000,NY,Total Electric Power Industry,Pumped Storage,-9904370,-0.007172969546616676
+109,2000,NY,Total Electric Power Industry,Wind,103450,7.492083793290185e-05
+110,2000,NY,Total Electric Power Industry,Wood and Wood Derived Fuels,6403250,0.004637378980124251
+111,2001,NY,Total Electric Power Industry,Total,1439145590,1.0
+112,2001,NY,Total Electric Power Industry,Coal,234319220,0.16281828720331207
+113,2001,NY,Total Electric Power Industry,Hydroelectric Conventional,230839550,0.16040041508239622
+114,2001,NY,Total Electric Power Industry,Natural Gas,386972150,0.26889020311002726
+115,2001,NY,Total Electric Power Industry,Nuclear,403949850,0.28068727223074075
+116,2001,NY,Total Electric Power Industry,Other,8093000,0.0056234755234180304
+117,2001,NY,Total Electric Power Industry,Other Biomass,12778490,0.008879219787624128
+118,2001,NY,Total Electric Power Industry,Other Gases,1145370,0.0007958680539055121
+119,2001,NY,Total Electric Power Industry,Petroleum,165120930,0.1147353896279528
+120,2001,NY,Total Electric Power Industry,Pumped Storage,-9305200,-0.006465780852651607
+121,2001,NY,Total Electric Power Industry,Wind,205390,0.0001427166239657518
+122,2001,NY,Total Electric Power Industry,Wood and Wood Derived Fuels,5026840,0.003492933609309118
+123,2002,NY,Total Electric Power Industry,Total,1395916880,1.0
+124,2002,NY,Total Electric Power Industry,Coal,232391120,0.16647919609654696
+125,2002,NY,Total Electric Power Industry,Hydroelectric Conventional,250478950,0.1794368658970583
+126,2002,NY,Total Electric Power Industry,Natural Gas,384511920,0.2754547391102542
+127,2002,NY,Total Electric Power Industry,Nuclear,396174910,0.2838098139482345
+128,2002,NY,Total Electric Power Industry,Other,8154430,0.005841630054649099
+129,2002,NY,Total Electric Power Industry,Other Biomass,13138240,0.009411907104382892
+130,2002,NY,Total Electric Power Industry,Petroleum,115341100,0.08262748423817326
+131,2002,NY,Total Electric Power Industry,Pumped Storage,-9212240,-0.00659941872756779
+132,2002,NY,Total Electric Power Industry,Wind,816260,0.0005847482838663001
+133,2002,NY,Total Electric Power Industry,Wood and Wood Derived Fuels,4122180,0.0029530268306519796
+134,2003,NY,Total Electric Power Industry,Total,1376433160,1.0
+135,2003,NY,Total Electric Power Industry,Coal,235810670,0.17132010245960655
+136,2003,NY,Total Electric Power Industry,Hydroelectric Conventional,242686600,0.17631557205436696
+137,2003,NY,Total Electric Power Industry,Natural Gas,281563480,0.20456022724706807
+138,2003,NY,Total Electric Power Industry,Nuclear,406792050,0.2955407220790874
+139,2003,NY,Total Electric Power Industry,Other,8427420,0.006122651099164161
+140,2003,NY,Total Electric Power Industry,Other Biomass,12827230,0.009319181179854748
+141,2003,NY,Total Electric Power Industry,Petroleum,192916000,0.14015646063046025
+142,2003,NY,Total Electric Power Industry,Pumped Storage,-9118060,-0.006624411751312355
+143,2003,NY,Total Electric Power Industry,Wind,412010,0.00029933164353581834
+144,2003,NY,Total Electric Power Industry,Wood and Wood Derived Fuels,4115760,0.0029901633581684416
+145,2004,NY,Total Electric Power Industry,Total,1379647940,1.0
+146,2004,NY,Total Electric Power Industry,Coal,228527040,0.16564156215099338
+147,2004,NY,Total Electric Power Industry,Hydroelectric Conventional,239896610,0.17388248338195614
+148,2004,NY,Total Electric Power Industry,Natural Gas,272940450,0.19783340523815082
+149,2004,NY,Total Electric Power Industry,Nuclear,406403050,0.29457011330006405
+150,2004,NY,Total Electric Power Industry,Other,8843750,0.006410149824164562
+151,2004,NY,Total Electric Power Industry,Other Biomass,12980970,0.00940890036047892
+152,2004,NY,Total Electric Power Industry,Petroleum,212051980,0.1537000664096958
+153,2004,NY,Total Electric Power Industry,Pumped Storage,-8131710,-0.005894047143650286
+154,2004,NY,Total Electric Power Industry,Wind,1164500,0.0008440559118292163
+155,2004,NY,Total Electric Power Industry,Wood and Wood Derived Fuels,4971290,0.0036033033180914256
+156,2005,NY,Total Electric Power Industry,Total,1468874190,1.0
+157,2005,NY,Total Electric Power Industry,Coal,205976400,0.14022739415143512
+158,2005,NY,Total Electric Power Industry,Hydroelectric Conventional,257825180,0.1755257065276639
+159,2005,NY,Total Electric Power Industry,Natural Gas,318727010,0.21698727649370705
+160,2005,NY,Total Electric Power Industry,Nuclear,424431520,0.28895021975980123
+161,2005,NY,Total Electric Power Industry,Other,9709070,0.0066098717412959645
+162,2005,NY,Total Electric Power Industry,Other Biomass,13577380,0.009243392042990422
+163,2005,NY,Total Electric Power Industry,Petroleum,240127830,0.16347746569091803
+164,2005,NY,Total Electric Power Industry,Pumped Storage,-7807310,-0.005315165895862055
+165,2005,NY,Total Electric Power Industry,Wind,1029900,0.000701149225040165
+166,2005,NY,Total Electric Power Industry,Wood and Wood Derived Fuels,5277210,0.003592690263010204
+167,2006,NY,Total Electric Power Industry,Total,1422654320,1.0
+168,2006,NY,Total Electric Power Industry,Coal,209678400,0.14738534656823732
+169,2006,NY,Total Electric Power Industry,Hydroelectric Conventional,273446550,0.1922087088590853
+170,2006,NY,Total Electric Power Industry,Natural Gas,421338780,0.2961638495569324
+171,2006,NY,Total Electric Power Industry,Nuclear,422238990,0.2967966174664271
+172,2006,NY,Total Electric Power Industry,Other,9766360,0.00686488619385769
+173,2006,NY,Total Electric Power Industry,Other Biomass,14194410,0.009977413206041508
+174,2006,NY,Total Electric Power Industry,Petroleum,67780390,0.047643611696198976
+175,2006,NY,Total Electric Power Industry,Pumped Storage,-7561560,-0.005315107045821222
+176,2006,NY,Total Electric Power Industry,Wind,6553710,0.004606677748674745
+177,2006,NY,Total Electric Power Industry,Wood and Wood Derived Fuels,5218290,0.0036679957503661185
+178,2007,NY,Total Electric Power Industry,Total,1458786870,1.0
+179,2007,NY,Total Electric Power Industry,Coal,214055420,0.1467352252766026
+180,2007,NY,Total Electric Power Industry,Hydroelectric Conventional,252525550,0.1731065416019271
+181,2007,NY,Total Electric Power Industry,Natural Gas,456336310,0.31281904120784965
+182,2007,NY,Total Electric Power Industry,Nuclear,424528540,0.29101477997262204
+183,2007,NY,Total Electric Power Industry,Other,9322920,0.0063908718893254095
+184,2007,NY,Total Electric Power Industry,Other Biomass,14493460,0.009935282732562572
+185,2007,NY,Total Electric Power Industry,Petroleum,81951090,0.056177562113648584
+186,2007,NY,Total Electric Power Industry,Pumped Storage,-7683800,-0.005267253330844691
+187,2007,NY,Total Electric Power Industry,Wind,8334760,0.005713487125093195
+188,2007,NY,Total Electric Power Industry,Wood and Wood Derived Fuels,4922610,0.0033744545562025795
+189,2008,NY,Total Electric Power Industry,Total,1403221000,1.0
+190,2008,NY,Total Electric Power Industry,Coal,191541250,0.1365011284751297
+191,2008,NY,Total Electric Power Industry,Hydroelectric Conventional,267231310,0.19044135599452972
+192,2008,NY,Total Electric Power Industry,Natural Gas,438564600,0.3125413601991418
+193,2008,NY,Total Electric Power Industry,Nuclear,432091710,0.30792848026077146
+194,2008,NY,Total Electric Power Industry,Other,9873660,0.0070364254810895786
+195,2008,NY,Total Electric Power Industry,Other Biomass,15128600,0.010781338078606293
+196,2008,NY,Total Electric Power Industry,Petroleum,37453280,0.026690934642511766
+197,2008,NY,Total Electric Power Industry,Pumped Storage,-6721390,-0.004789972498986261
+198,2008,NY,Total Electric Power Industry,Wind,12507000,0.008913065012567514
+199,2008,NY,Total Electric Power Industry,Wood and Wood Derived Fuels,5550970,0.0039558772281771725
+200,2009,NY,Total Electric Power Industry,Total,1331505500,1.0
+201,2009,NY,Total Electric Power Industry,Coal,127588730,0.09582290873000525
+202,2009,NY,Total Electric Power Industry,Hydroelectric Conventional,276151060,0.20739761120025416
+203,2009,NY,Total Electric Power Industry,Natural Gas,417795970,0.31377712671859037
+204,2009,NY,Total Electric Power Industry,Nuclear,434846140,0.3265823085221954
+205,2009,NY,Total Electric Power Industry,Other,8774330,0.006589781266393567
+206,2009,NY,Total Electric Power Industry,Other Biomass,16648160,0.012503260407110597
+207,2009,NY,Total Electric Power Industry,Petroleum,26483060,0.01988956110207581
+208,2009,NY,Total Electric Power Industry,Pumped Storage,-4803870,-0.0036078484091879456
+209,2009,NY,Total Electric Power Industry,Wind,22663390,0.01702087599337742
+210,2009,NY,Total Electric Power Industry,Wood and Wood Derived Fuels,5358530,0.004024414469185444
+211,2010,NY,Total Electric Power Industry,Total,1369616540,1.0
+212,2010,NY,Total Electric Power Industry,Coal,135827660,0.09917203540780838
+213,2010,NY,Total Electric Power Industry,Hydroelectric Conventional,254716970,0.18597685013354176
+214,2010,NY,Total Electric Power Industry,Natural Gas,489155450,0.3571477385925845
+215,2010,NY,Total Electric Power Industry,Nuclear,418695350,0.305702609286538
+216,2010,NY,Total Electric Power Industry,Other,8318510,0.006073605098256188
+217,2010,NY,Total Electric Power Industry,Other Biomass,16710900,0.012201152302088875
+218,2010,NY,Total Electric Power Industry,Petroleum,20049750,0.014638951425046313
+219,2010,NY,Total Electric Power Industry,Pumped Storage,-5292640,-0.003864322491315708
+220,2010,NY,Total Electric Power Industry,Wind,25961540,0.01895533475376984
+221,2010,NY,Total Electric Power Industry,Wood and Wood Derived Fuels,5473040,0.003996038190368233
+222,2011,NY,Total Electric Power Industry,Total,13748034695,1.0
+223,2011,NY,Total Electric Power Industry,Coal,942616019,0.06856369218669621
+224,2011,NY,Total Electric Power Industry,Hydroelectric Conventional,2799698762,0.20364356245174575
+225,2011,NY,Total Electric Power Industry,Natural Gas,5080475485,0.3695419452823835
+226,2011,NY,Total Electric Power Industry,Nuclear,426950090,0.031055354417695556
+227,2011,NY,Total Electric Power Industry,Other,90518709,0.0065841199130025905
+228,2011,NY,Total Electric Power Industry,Other Biomass,161914901,0.01177731250990271
+229,2011,NY,Total Electric Power Industry,Petroleum,118948068,0.008652005223936481
+230,2011,NY,Total Electric Power Industry,Pumped Storage,-4330210,-0.00031496938261109034
+231,2011,NY,Total Electric Power Industry,Solar Thermal and Photovoltaic,64430,4.6864880275165756e-06
+232,2011,NY,Total Electric Power Industry,Wind,28280690,0.00205707147438938
+233,2011,NY,Total Electric Power Industry,Wood and Wood Derived Fuels,44212751,0.0032159324573191295
+234,2012,NY,Total Electric Power Industry,Total,1357682440,1.0
+235,2012,NY,Total Electric Power Industry,Coal,45510390,0.0335206441942344
+236,2012,NY,Total Electric Power Industry,Pumped Storage,-4129450,-0.0030415433523615434
+237,2012,NY,Total Electric Power Industry,Hydroelectric Conventional,246524910,0.18157774066813445
+238,2012,NY,Total Electric Power Industry,Natural Gas,594622560,0.4379688080815128
+239,2012,NY,Total Electric Power Industry,Nuclear,407745600,0.30032472100029517
+240,2012,NY,Total Electric Power Industry,Other,9681330,0.00713077647229495
+241,2012,NY,Total Electric Power Industry,Petroleum,5802840,0.004274077522870517
+242,2012,NY,Total Electric Power Industry,Solar Thermal and Photovoltaic,527130,0.00038825721278386717
+243,2012,NY,Total Electric Power Industry,Other Biomass,16603510,0.012229303046741916
+244,2012,NY,Total Electric Power Industry,Wind,29915770,0.02203443833301696
+245,2012,NY,Total Electric Power Industry,Wood and Wood Derived Fuels,4877840,0.0035927694549838917
+246,2013,NY,Total Electric Power Industry,Total,13611682997,1.0
+247,2013,NY,Total Electric Power Industry,Coal,469710474,0.034507891059725945
+248,2013,NY,Total Electric Power Industry,Hydroelectric Conventional,2497328928,0.18346951868849787
+249,2013,NY,Total Electric Power Industry,Natural Gas,5435438661,0.3993215726665075
+250,2013,NY,Total Electric Power Industry,Nuclear,447556060,0.032880288212606835
+251,2013,NY,Total Electric Power Industry,Other,88382746,0.006493153419711542
+252,2013,NY,Total Electric Power Industry,Other Biomass,167404138,0.012298562788811324
+253,2013,NY,Total Electric Power Industry,Petroleum,100737331,0.00740079907989353
+254,2013,NY,Total Electric Power Industry,Pumped Storage,-4428680,-0.00032535873785600767
+255,2013,NY,Total Electric Power Industry,Solar Thermal and Photovoltaic,6701716,0.0004923502847867564
+256,2013,NY,Total Electric Power Industry,Wind,35394980,0.0026003382541160422
+257,2013,NY,Total Electric Power Industry,Wood and Wood Derived Fuels,60755403,0.004463474723396837
+258,2014,NY,Total Electric Power Industry,Total,1370773120,1.0
+259,2014,NY,Total Electric Power Industry,Coal,45920540,0.03349973772464987
+260,2014,NY,Total Electric Power Industry,Pumped Storage,-4913300,-0.0035843276529962886
+261,2014,NY,Total Electric Power Industry,Hydroelectric Conventional,260869020,0.19030794826207273
+262,2014,NY,Total Electric Power Industry,Natural Gas,543797590,0.3967086763417129
+263,2014,NY,Total Electric Power Industry,Nuclear,430386240,0.3139733583337263
+264,2014,NY,Total Electric Power Industry,Other Gases,0,0.0
+265,2014,NY,Total Electric Power Industry,Other,8881940,0.0064795113577949355
+266,2014,NY,Total Electric Power Industry,Petroleum,21364840,0.015585978225193094
+267,2014,NY,Total Electric Power Industry,Solar Thermal and Photovoltaic,706160,0.0005151545428611848
+268,2014,NY,Total Electric Power Industry,Other Biomass,16687680,0.012173918321363057
+269,2014,NY,Total Electric Power Industry,Wind,39684070,0.028950137277276054
+270,2014,NY,Total Electric Power Industry,Wood and Wood Derived Fuels,7388340,0.005389907266346162
+271,2015,NY,Total Electric Power Industry,Total,1385816860,1.0
+272,2015,NY,Total Electric Power Industry,Coal,23800660,0.017174462720853316
+273,2015,NY,Total Electric Power Industry,Pumped Storage,-4228120,-0.003050994775745476
+274,2015,NY,Total Electric Power Industry,Hydroelectric Conventional,260145200,0.18771975396518123
+275,2015,NY,Total Electric Power Industry,Natural Gas,569234150,0.4107571255844008
+276,2015,NY,Total Electric Power Industry,Nuclear,446028710,0.3218525642702889
+277,2015,NY,Total Electric Power Industry,Other Gases,0,0.0
+278,2015,NY,Total Electric Power Industry,Other,8727820,0.006297960612198065
+279,2015,NY,Total Electric Power Industry,Petroleum,18922930,0.013654711922035644
+280,2015,NY,Total Electric Power Industry,Solar Thermal and Photovoltaic,1005260,0.0007253916653893214
+281,2015,NY,Total Electric Power Industry,Other Biomass,16247710,0.011724283683487586
+282,2015,NY,Total Electric Power Industry,Wind,39769800,0.028697731387104065
+283,2015,NY,Total Electric Power Industry,Wood and Wood Derived Fuels,6162740,0.004447008964806504
+284,2016,NY,Total Electric Power Industry,Total,1343767150,1.0
+285,2016,NY,Total Electric Power Industry,Coal,17702380,0.013173696052921074
+286,2016,NY,Total Electric Power Industry,Pumped Storage,-4709320,-0.0035045655045221192
+287,2016,NY,Total Electric Power Industry,Hydroelectric Conventional,268882340,0.20009593179889834
+288,2016,NY,Total Electric Power Industry,Natural Gas,567933360,0.42264268776030134
+289,2016,NY,Total Electric Power Industry,Nuclear,415709900,0.3093615586599211
+290,2016,NY,Total Electric Power Industry,Other Gases,0,0.0
+291,2016,NY,Total Electric Power Industry,Other,8585970,0.0063894775222031585
+292,2016,NY,Total Electric Power Industry,Petroleum,6429520,0.004784698003668269
+293,2016,NY,Total Electric Power Industry,Solar Thermal and Photovoltaic,1396110,0.001038952321464325
+294,2016,NY,Total Electric Power Industry,Other Biomass,16046500,0.011941428989390015
+295,2016,NY,Total Electric Power Industry,Wind,39401800,0.029321895538226245
+296,2016,NY,Total Electric Power Industry,Wood and Wood Derived Fuels,6388590,0.004754238857528256
+297,2017,NY,Total Electric Power Industry,Total,1280253860,1.0
+298,2017,NY,Total Electric Power Industry,Coal,7702960,0.006016744210402146
+299,2017,NY,Total Electric Power Industry,Pumped Storage,-4156710,-0.0032467857585682263
+300,2017,NY,Total Electric Power Industry,Hydroelectric Conventional,301449320,0.23546058279410303
+301,2017,NY,Total Electric Power Industry,Natural Gas,472717560,0.36923736359599807
+302,2017,NY,Total Electric Power Industry,Nuclear,421674090,0.3293675599618969
+303,2017,NY,Total Electric Power Industry,Other Gases,0,0.0
+304,2017,NY,Total Electric Power Industry,Other,8840100,0.006904958677492291
+305,2017,NY,Total Electric Power Industry,Petroleum,5978930,0.004670112847775363
+306,2017,NY,Total Electric Power Industry,Solar Thermal and Photovoltaic,1828040,0.001427873062612754
+307,2017,NY,Total Electric Power Industry,Other Biomass,16660510,0.01301344250584802
+308,2017,NY,Total Electric Power Industry,Wind,41359510,0.03230571005659768
+309,2017,NY,Total Electric Power Industry,Wood and Wood Derived Fuels,6199550,0.00484243804584194
+310,2018,NY,Total Electric Power Industry,Total,1325205010,1.0
+311,2018,NY,Total Electric Power Industry,Coal,6903860,0.005209654316051824
+312,2018,NY,Total Electric Power Industry,Pumped Storage,-4307180,-0.003250199001285092
+313,2018,NY,Total Electric Power Industry,Hydroelectric Conventional,296300000,0.223588046954335
+314,2018,NY,Total Electric Power Industry,Natural Gas,508104260,0.3834155894113319
+315,2018,NY,Total Electric Power Industry,Nuclear,429190110,0.32386695398925486
+316,2018,NY,Total Electric Power Industry,Other Gases,0,0.0
+317,2018,NY,Total Electric Power Industry,Other,8731450,0.006588754143028783
+318,2018,NY,Total Electric Power Industry,Petroleum,15907100,0.012003501254496465
+319,2018,NY,Total Electric Power Industry,Solar Thermal and Photovoltaic,2974720,0.002244724384191696
+320,2018,NY,Total Electric Power Industry,Other Biomass,16159670,0.012194090633569217
+321,2018,NY,Total Electric Power Industry,Wind,39983330,0.030171429852955355
+322,2018,NY,Total Electric Power Industry,Wood and Wood Derived Fuels,5257680,0.003967446516067729
+323,2019,NY,Total Electric Power Industry,Total,1316032890,1.0
+324,2019,NY,Total Electric Power Industry,Coal,4219510,0.003206234458167683
+325,2019,NY,Total Electric Power Industry,Pumped Storage,-3155890,-0.0023980327725699924
+326,2019,NY,Total Electric Power Industry,Hydroelectric Conventional,306208950,0.23267575782243557
+327,2019,NY,Total Electric Power Industry,Natural Gas,476121340,0.3617852894238836
+328,2019,NY,Total Electric Power Industry,Nuclear,448650180,0.3409110694794262
+329,2019,NY,Total Electric Power Industry,Other Gases,16800,1.276563840285177e-05
+330,2019,NY,Total Electric Power Industry,Other,9597270,0.007292576099674834
+331,2019,NY,Total Electric Power Industry,Petroleum,5117680,0.0038887174012801457
+332,2019,NY,Total Electric Power Industry,Solar Thermal and Photovoltaic,5236400,0.003978927912660298
+333,2019,NY,Total Electric Power Industry,Other Biomass,14737510,0.011198435929667381
+334,2019,NY,Total Electric Power Industry,Wind,44558810,0.03385843191198664
+335,2019,NY,Total Electric Power Industry,Wood and Wood Derived Fuels,4724340,0.0035898342935790912
+336,2020,NY,Total Electric Power Industry,Total,1294302710,1.0
+337,2020,NY,Total Electric Power Industry,Coal,1436920,0.0011101885122376048
+338,2020,NY,Total Electric Power Industry,Pumped Storage,-3279480,-0.0025337812975760516
+339,2020,NY,Total Electric Power Industry,Hydroelectric Conventional,295498820,0.22830734859544566
+340,2020,NY,Total Electric Power Industry,Natural Gas,529655930,0.40922106235874295
+341,2020,NY,Total Electric Power Industry,Nuclear,384300760,0.29691721807489685
+342,2020,NY,Total Electric Power Industry,Other Gases,0,0.0
+343,2020,NY,Total Electric Power Industry,Other,9971380,0.007704055568268107
+344,2020,NY,Total Electric Power Industry,Petroleum,3496510,0.0027014623186565065
+345,2020,NY,Total Electric Power Industry,Solar Thermal and Photovoltaic,8399580,0.006489656503925577
+346,2020,NY,Total Electric Power Industry,Other Biomass,14962300,0.011560124138193299
+347,2020,NY,Total Electric Power Industry,Wind,45217260,0.0349356140960255
+348,2020,NY,Total Electric Power Industry,Wood and Wood Derived Fuels,4642730,0.0035870511311839872
+349,2021,NY,Total Electric Power Industry,Total,1249449350,1.0
+350,2021,NY,Total Electric Power Industry,Coal,0,0.0
+351,2021,NY,Total Electric Power Industry,Pumped Storage,-3815350,-0.0030536251829656
+352,2021,NY,Total Electric Power Industry,Hydroelectric Conventional,287654770,0.2302252348204431
+353,2021,NY,Total Electric Power Industry,Natural Gas,565127210,0.45230101564341124
+354,2021,NY,Total Electric Power Industry,Nuclear,311765830,0.24952258368856647
+355,2021,NY,Total Electric Power Industry,Other Gases,0,0.0
+356,2021,NY,Total Electric Power Industry,Other,9626500,0.00770459402776111
+357,2021,NY,Total Electric Power Industry,Petroleum,6904350,0.005525914275756757
+358,2021,NY,Total Electric Power Industry,Solar Thermal and Photovoltaic,11589250,0.009275486037109067
+359,2021,NY,Total Electric Power Industry,Other Biomass,14498890,0.011604223892709216
+360,2021,NY,Total Electric Power Industry,Wind,41563690,0.03326560616482773
+361,2021,NY,Total Electric Power Industry,Wood and Wood Derived Fuels,4534220,0.0036289746359066096

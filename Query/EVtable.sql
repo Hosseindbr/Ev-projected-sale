@@ -5,7 +5,7 @@ SELECT * FROM new_york_registrations
 select * from ny_state_annual_temperature
 select * from ny_state_daily_temperature_2015_2021
 
-public.daily_reg_and_temperature
+
 
 -- merge of registrations  and temperatures daily
 SELECT * 
@@ -14,9 +14,10 @@ FROM ny_state_daily_temperature_2015_2021
  FULL JOIN new_york_registrations ON ny_state_daily_temperature_2015_2021."Measurement_date" = new_york_registrations."Reg_Valid_Date"
 
 
-
-
-
-
-
-
+-- merge of ev_stations and income population population
+SELECT * 
+INTO ev_stations_income_pop
+FROM demographic_database_ev_stations
+ FULL JOIN income_and_population ON demographic_database_ev_stations."County" = income_and_population."County_"
+ 
+ 
