@@ -51,6 +51,9 @@ This analysis focused on the time series modeling of the amount of EVs in New Yo
 
 [link to dashboard](https://public.tableau.com/app/profile/hosseindbr/viz/EV-Project/ElectricVehicleProjectedSales "link to dashboard")
 
+<img width="1341" alt="Screenshot 2022-12-03 at 1 43 11 PM" src="https://user-images.githubusercontent.com/108313440/205456774-6f491c8f-f456-4a5a-bf69-17034ec8bc34.png">
+
+
 
 
 ## Presentation Slides
