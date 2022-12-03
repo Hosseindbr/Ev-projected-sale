@@ -47,6 +47,10 @@ This analysis focused on the time series modeling of the amount of EVs in New Yo
 - https://www.eia.gov/totalenergy/data/monthly/
 
 
+### Deployed Tableau Analysis
+
+[link to dashboard](https://public.tableau.com/app/profile/hosseindbr/viz/EV-Project/ElectricVehicleProjectedSales "link to dashboard")
+
 
 
 ## Presentation Slides
