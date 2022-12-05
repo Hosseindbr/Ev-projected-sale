@@ -201,33 +201,6 @@ Bar graphs were used to show the difference between top 6 most purchased EV mode
 
 
 
-## Visualisation for NYS EV Registrations
-
-- NYS EV registrations map
-
-![NYS_EV_registration_map](Images/NYS_EV_registration_map.png)
-
-
-
-- New York City EV registrations map
-
-Visualisation for New York city including it's boroughs, Manhattan, Brooklyn, the Bronx , Queens and Staten Island. Their respective county are New York County, Kings, Bronx, Queens and Richmond County
-
-![NY_city_EV_registration_map](Images/NY_city_EV_registration_map.png)
-
-
-
-- NYS EV station registrations map
-
-![NYS_EV_station_map](Images/NYS_EV_station_map.png)
-
-
-
-- Tableau
-
-
-
-
 ## Prediction for the Number of EVs on the Road by County in 2023
 
 
@@ -464,7 +437,7 @@ First, we removed the ZIP codes with high mean squared error by placing a thresh
 
 - Predict the Future Data in the Next 30 Years
 
-To predict the next 30 years, we need to generate data for **temperature** and **income** in New York state based on some hypotheses.
+To predict the next 30 years, we need to generate data for **temperature** and **income** in NYS based on some hypotheses.
 
 *NYS Temperature Data (2020-2050)*
 
@@ -503,7 +476,7 @@ NYS total EV adoption from 2020 to 2050:
 ![NYS_total_cumulative_EV_adoption](Images/NYS_total_cumulative_EV_adoption.png)
 
 
-> In total, our model predicts that NY state will have over *746238* EVs by **2050**.
+> In total, our model predicts that NY state will have over *750,328* EVs by **2050**.
 
 
 
@@ -535,9 +508,9 @@ We can also calculate the average energy surplus per ZIP code. To do so, we load
 
 #### *Combining EV Adoption with Electrical Infrastructure*
 
-On average, EVs get somewhere within the range of 2 to 3 mi/kWh, so we can use 2.5 mi/kWh as our number. American drivers average 15000 miles driven per year, so this comes down to 6000 kWh per year, or 6 MWh per year. Given that the energy surplus average is around 17 million MWh, the state of NY can support about 140 million EVs using the energy surplus.
+On average, EVs get somewhere within the range of 2 to 3 mi/kWh, so we can use 2.5 mi/kWh as our number. American drivers average 15,000 miles driven per year, so this comes down to 6,000 kWh per year, or 6 MWh per year. Given that the energy surplus average is around 17 million MWh, the state of NY can support about 140 million EVs using the energy surplus.
 
-If we only consider 22% of the surplus, which is the average percentage of energy that is supplied through renewable sources, then we have about 13 million MWh of surplus, which can support about 30.8 million EVs. This actually means that even with our projected *746238* EVs by 2050, NY state will still have enough renewable energy capacity to support all of them overall. In total, NY state can support *140678334* EVs through energy surplus.
+If we only consider 22% of the surplus, which is the average percentage of energy that is supplied through renewable sources, then we have about 3.74 million MWh of surplus, which can support about 2.18 million EVs. This actually means that even with our projected *750,328* EVs by 2050, NY state will still have enough renewable energy capacity to support all of them overall. In total, NY state can support *140,678,334* EVs through energy surplus.
 
 ![EVs_NYS_can_support_given_EV_doption](Images/EVs_NYS_can_support_given_EV_doption.png)
 
@@ -548,6 +521,50 @@ However, it is different per ZIP code, and it turns out that there some ZIP code
 Below, let us take the average energy surplus across each ZIP code and subtract that predicted number of EVs that will be purchased over the years 2021 to 2050. This will give us the remainder of how many more EVs each ZIP code can support.
 
 ![EVs_each_ZIP_code_can_support_given_EV_doption](Images/EVs_each_ZIP_code_can_support_given_EV_doption.png)
+
+
+
+
+## Visualisation for NYS EV Registrations
+
+
+### Folium Map
+
+- NYS EV registrations map
+
+![NYS_EV_registration_map](Images/NYS_EV_registration_map.png)
+
+
+
+- New York City EV registrations map
+
+Visualisation for New York city including it's boroughs, Manhattan, Brooklyn, the Bronx , Queens and Staten Island. Their respective county are New York County, Kings, Bronx, Queens and Richmond County
+
+![NY_city_EV_registration_map](Images/NY_city_EV_registration_map.png)
+
+
+
+- NYS EV station registrations map
+
+![NYS_EV_station_map](Images/NYS_EV_station_map.png)
+
+
+
+### Tableau
+
+Tableau (https://github.com/Hosseindbr/Ev-projected-sale/blob/788b01739c68038260547bd289adc8e1267ff6c9/EV-Project.twbx) was used to visualize our findings.
+
+
+![Tableau_1](Images/Tableau_1.png)
+
+
+![Tableau_2](Images/Tableau_2.png)
+
+
+![Tableau_3](Images/Tableau_3.png)
+
+
+![Tableau_4](Images/Tableau_4.png)
 
 
 
@@ -573,7 +590,7 @@ Below, let us take the average energy surplus across each ZIP code and subtract 
 - In total, NYS can support 30.8 million EVs through **renewable energy surplus**.
 
 
-- NYS will have over 746238 EVs by 2050. At that time, NYS will still have enough renewable energy capacity to support all of them. 
+- NYS will have over *750,328* EVs by 2050. At that time, NYS will still have enough renewable energy capacity to support all of them. 
 
 
 
@@ -584,6 +601,15 @@ Below, let us take the average energy surplus across each ZIP code and subtract 
 <p align="center">
 <img src="https://github.com/Hosseindbr/Ev-projected-sale/blob/cefc12c2d76d753b2b5089dd79921c46770477d0/Images/picture_4.png" width="316" height="130">
 </p>
+
+
+- Due to time limitations, we had to limit our project to NYS only. There may be other states that are promising for future electric vehicle demand. In the future, we would like to model the EV sales for more states in U.S. to have a more comprehensive analysis.
+
+
+- Commuting patterns of residents in each county could be considered when analyzing the demand of EV charging stations. Most charging is done at home or at work. Finding counties that people tend to commute into for work, and accounting for this effect by adjusting the anticipated demand for chargers in these counties would result in more accurate recommendations.
+
+
+- To optimize our model for the EV Adoption in NYS from 2020 to 2050, besides temperature and income, we can generate the future data for population and energy infrastructure in NYS as well.
 
 
 
